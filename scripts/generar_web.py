@@ -9,6 +9,7 @@ import shutil
 import urllib.parse
 from datetime import datetime, timezone
 
+import guias
 from clasificar import NIVELES, TIPOS, clasificar, explicar, puntuaciones
 from comun import RAIZ, leer_json
 
@@ -45,6 +46,7 @@ def cargar():
         if mejor_cupon and mejor_cupon["precio_cupon"] >= vigentes[0]["precio"]:
             mejor_cupon = None
         clas = clasificar(p)
+        clas["puntos"] = puntuaciones(p, clas)
         palas.append({**p, **clas, "ofertas": ofertas, "mejor": vigentes[0], "mejor_cupon": mejor_cupon,
                       "historial": historial.get(p["id"], {}),
                       "cupones": [c for c in cupones if c["tienda"] in {o["tienda"]["id"] for o in ofertas}]})
@@ -220,7 +222,7 @@ def pagina(cfg, ruta, titulo, descripcion, cuerpo, estado, jsonld=None):
 <header class="cabecera">
   <div class="contenedor cabecera-fila">
     <a class="logo" href="index.html">{silueta("redonda", "logo-icono")}<span>{e(cfg["nombre_web"])}</span></a>
-    <nav class="menu">{nav}<a href="comparador.html" class="menu-destacado">Comparador gráfico</a><a href="guia-elegir-pala.html">Guía</a><a href="cupones.html">Cupones</a></nav>
+    <nav class="menu">{nav}<a href="comparador.html" class="menu-destacado">Comparador gráfico</a><a href="guias.html">Guías</a><a href="cupones.html">Cupones</a></nav>
   </div>
 </header>
 <main class="contenedor">
@@ -267,11 +269,32 @@ def filtros(palas, tipo_fijo=None, nivel_fijo=None):
 
 # ---------- Páginas ----------
 
-def portada(cfg, palas, cupones, estado):
-    tarjetas_tipo = "".join(f'''<a class="tipo-caja tipo-{k}" href="{v["pagina"]}">
-      {silueta({"potencia": "diamante", "hibrida": "lagrima", "control": "redonda"}[k])}
-      <strong>{v["plural"]}</strong><span>{sum(1 for p in palas if p["tipo"] == k)} palas comparadas</span></a>'''
-                            for k, v in TIPOS.items())
+def representante(palas, tipo):
+    """Pala que ilustra un tipo de juego: la más popular con foto entre las más claramente de ese tipo."""
+    centro = {"potencia": 100, "hibrida": 50, "control": 0}[tipo]
+    candidatas = [p for p in palas if p["tipo"] == tipo and url_foto(p, 220)]
+    if not candidatas:
+        return None
+    claras = [p for p in candidatas if abs(p["indice"] - centro) <= 20] or candidatas
+    return min(claras, key=lambda p: p.get("popularidad", 999))
+
+
+def portada(cfg, palas, cupones, estado, guias_disponibles=()):
+    cajas = []
+    for k, v in TIPOS.items():
+        rep = representante(palas, k)
+        imagen = (figura(rep, "foto-tipo", 220) if rep
+                  else silueta({"potencia": "diamante", "hibrida": "lagrima", "control": "redonda"}[k]))
+        ejemplo = f'<small>Ej.: {e(rep["nombre"])}</small>' if rep else ""
+        cajas.append(f'''<a class="tipo-caja tipo-{k}" href="{v["pagina"]}">
+      {imagen}
+      <strong>{v["plural"]}</strong><span>{sum(1 for p in palas if p["tipo"] == k)} palas comparadas</span>{ejemplo}</a>''')
+    tarjetas_tipo = "".join(cajas)
+    bloque_guias = ""
+    if guias_disponibles:
+        bloque_guias = ('<section><h2>Guías de compra</h2><div class="g-tarjetas">' + "".join(
+            f'<a class="g-tarjeta" href="{r}"><strong>{e(t)}</strong><span>{e(s)}</span></a>'
+            for r, t, s in guias_disponibles) + '</div></section>')
     banner = ""
     if cupones:
         banner = (f'<a class="banner-cupon" href="cupones.html">🏷️ Hay {len(cupones)} código'
@@ -290,6 +313,7 @@ def portada(cfg, palas, cupones, estado):
   {filtros(palas)}
   {rejilla(palas)}
 </section>
+{bloque_guias}
 <section class="explicacion">
   <h2>¿Cómo clasificamos las palas?</h2>
   <p>Cada pala recibe un <strong>índice de potencia/control de 0 a 100</strong> calculado a partir de su forma,
@@ -541,7 +565,9 @@ def main():
     for estatico in ("estilos.css", "app.js", "comparador.js"):
         shutil.copy(PLANTILLA / "recursos" / estatico, WEB / estatico)
 
-    salida = {"index.html": portada(cfg, palas, cupones, estado),
+    ayudas = {"pagina": pagina, "figura": figura, "euros": euros, "e": e}
+    paginas_guias, guias_disponibles = guias.generar(cfg, palas, estado, ayudas)
+    salida = {"index.html": portada(cfg, palas, cupones, estado, guias_disponibles),
               "cupones.html": pagina_cupones(cfg, cupones, tiendas, estado),
               "comparador.html": pagina_comparador(cfg, palas, estado)}
     for tipo in TIPOS:
@@ -551,6 +577,7 @@ def main():
     for p in palas:
         salida[f'pala-{p["id"]}.html'] = pagina_pala(cfg, p, palas, tiendas, estado)
     salida.update(paginas_estaticas(cfg, estado))
+    salida.update(paginas_guias)
 
     for nombre, contenido in salida.items():
         (WEB / nombre).write_text(contenido, encoding="utf-8")

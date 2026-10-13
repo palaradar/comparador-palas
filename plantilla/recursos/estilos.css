@@ -186,6 +186,53 @@ code { background: var(--marca-tenue); padding: 2px 8px; border-radius: 6px; fon
 .video-titulo { font-weight: 600; font-size: .92rem; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 .video-canal { color: var(--suave); font-size: .8rem; }
 
+/* Fotos en las tarjetas de tipo de juego */
+.tipo-caja { grid-template-columns: 76px 1fr; grid-template-rows: auto auto auto; row-gap: 2px; }
+.tipo-caja .foto-tipo { grid-row: span 3; width: 76px; height: 76px; padding: 4px; border: 3px solid var(--borde); }
+.tipo-potencia .foto-tipo { border-color: var(--potencia); }
+.tipo-hibrida .foto-tipo { border-color: var(--hibrida); }
+.tipo-control .foto-tipo { border-color: var(--control); }
+.tipo-caja small { color: var(--suave); font-size: .75rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+/* Guías */
+.guia { max-width: 820px; }
+.g-indice { background: var(--superficie); border: 1px solid var(--borde); border-radius: var(--radio); padding: 12px 18px; margin: 16px 0; }
+.g-indice ol { margin: 8px 0 0; padding-left: 22px; }
+.g-indice li { margin: 3px 0; }
+.g-lista { display: flex; flex-direction: column; gap: 14px; max-width: 900px; }
+.g-pala { display: grid; grid-template-columns: 36px 140px 1fr; gap: 16px; align-items: start; background: var(--superficie);
+  border: 1px solid var(--borde); border-radius: var(--radio); padding: 18px; box-shadow: var(--sombra); scroll-margin-top: 80px; }
+.g-num { width: 36px; height: 36px; border-radius: 50%; background: var(--marca); color: #fff; font-weight: 800; display: grid; place-items: center; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .g-num { color: #0f1411; } }
+.foto-guia { width: 140px; height: 140px; padding: 6px; }
+.g-pala h3 { margin: 6px 0 2px; font-size: 1.15rem; }
+.g-pala h3 a { color: var(--texto); text-decoration: none; }
+.g-motivo { margin: 8px 0; }
+.g-barras { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 4px 16px; margin: 8px 0 12px; }
+.g-barra { display: grid; grid-template-columns: 92px 1fr 28px; align-items: center; gap: 6px; font-size: .78rem; color: var(--suave); }
+.g-barra i { height: 6px; border-radius: 3px; background: var(--borde); overflow: hidden; }
+.g-barra b { display: block; height: 100%; background: var(--marca); border-radius: 3px; }
+.g-barra em { font-style: normal; font-weight: 700; color: var(--texto); text-align: right; }
+.g-precio { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; color: var(--suave); }
+.g-precio strong { font-size: 1.25rem; color: var(--marca-fuerte); }
+.g-versus { display: flex; align-items: center; justify-content: center; gap: 18px; margin: 20px 0; flex-wrap: wrap; }
+.g-versus a { display: flex; flex-direction: column; align-items: center; gap: 6px; text-decoration: none; color: var(--texto); text-align: center; max-width: 220px; }
+.g-versus span { color: var(--suave); font-size: .9rem; }
+.g-vs { font-size: 1.6rem !important; font-weight: 900; color: var(--acento) !important; }
+.g-tabla td { font-weight: 600; }
+.g-tarjetas { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; margin: 12px 0 24px; }
+.g-tarjeta { display: flex; flex-direction: column; gap: 4px; background: var(--superficie); border: 1px solid var(--borde);
+  border-left: 4px solid var(--marca); border-radius: var(--radio); padding: 14px 16px; text-decoration: none; color: var(--texto);
+  box-shadow: var(--sombra); transition: transform .15s; }
+.g-tarjeta:hover { transform: translateY(-2px); }
+.g-tarjeta span { color: var(--suave); font-size: .88rem; }
+@media (max-width: 640px) {
+  .g-pala { grid-template-columns: 36px 1fr; padding: 14px; }
+  .g-foto { grid-column: 2; }
+  .g-cuerpo { grid-column: 1 / -1; }
+  .foto-guia { width: 110px; height: 110px; }
+}
+
 /* Comparador gráfico */
 :root { --serie-0: #2563eb; --serie-1: #ea580c; --serie-2: #9333ea; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --serie-0: #60a5fa; --serie-1: #fb923c; --serie-2: #c084fc; } }
