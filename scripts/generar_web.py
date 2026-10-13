@@ -469,12 +469,11 @@ def pagina_comparador(cfg, palas, estado):
     siluetas = {f: silueta(f, "silueta grande") for f in ("diamante", "lagrima", "redonda")}
     selectores = "".join(f'''<div class="hueco-pala serie-{i}">
     <label for="pala{i}">Pala {i + 1}</label>
-    <input id="pala{i}" list="lista-palas" placeholder="Escribe un modelo…" autocomplete="off">
+    <div class="campo"><input id="pala{i}" type="search" placeholder="🔍 Busca marca o modelo…" autocomplete="off" spellcheck="false"></div>
     <div class="hueco-figura"></div></div>''' for i in range(3))
     cuerpo = f'''<nav class="migas"><a href="index.html">Inicio</a> › Comparador gráfico</nav>
 <h1>Comparador gráfico de palas</h1>
 <p class="intro">Elige hasta tres palas y compara de un vistazo su potencia, control, manejo, salida de bola y dureza.</p>
-<datalist id="lista-palas">{"".join(f'<option value="{e(d["nombre"])}">' for d in datos)}</datalist>
 <section class="comparador">
   <div class="huecos">{selectores}</div>
   <div class="radar-caja"><svg id="radar" viewBox="-170 -150 340 300" role="img" aria-label="Gráfico de radar comparativo"></svg></div>

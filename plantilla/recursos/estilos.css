@@ -203,6 +203,24 @@ code { background: var(--marca-tenue); padding: 2px 8px; border-radius: 6px; fon
 .hueco-pala.serie-0 input:focus { border-color: var(--serie-0); outline: none; }
 .hueco-pala.serie-1 input:focus { border-color: var(--serie-1); outline: none; }
 .hueco-pala.serie-2 input:focus { border-color: var(--serie-2); outline: none; }
+.campo { position: relative; }
+.campo input { width: 100%; }
+.sugerencias { position: absolute; z-index: 20; top: calc(100% + 4px); left: 0; right: 0; margin: 0; padding: 4px;
+  list-style: none; background: var(--superficie); border: 1px solid var(--borde); border-radius: 12px;
+  box-shadow: 0 10px 30px rgb(0 0 0 / .25); max-height: 380px; overflow-y: auto; width: max(100%, 320px); }
+.sugerencias li[role=option] { display: flex; align-items: center; gap: 10px; padding: 6px 8px; border-radius: 8px; cursor: pointer; }
+.sugerencias li[aria-selected=true], .sugerencias li[role=option]:hover { background: var(--marca-tenue); }
+.sugerencias-titulo { font-size: .7rem; text-transform: uppercase; letter-spacing: .06em; color: var(--suave); padding: 6px 8px 2px; }
+.sin-resultados { padding: 10px; color: var(--suave); font-size: .9rem; }
+.sug-foto { width: 40px; height: 40px; flex: none; background: #fff; border-radius: 6px; overflow: hidden; }
+.sug-foto img { width: 100%; height: 100%; object-fit: contain; }
+.sug-texto { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+.hueco-pala:last-child .sugerencias { left: auto; right: 0; }
+.sug-nombre { font-size: .88rem; font-weight: 600; line-height: 1.25; display: -webkit-box; -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical; overflow: hidden; }
+.sug-nombre mark { background: none; color: var(--marca-fuerte); font-weight: 800; }
+.sug-meta { font-size: .75rem; color: var(--suave); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.sug-precio { font-size: .85rem; font-weight: 700; color: var(--marca-fuerte); white-space: nowrap; }
 .hueco-figura { display: flex; flex-direction: column; align-items: center; min-height: 150px; justify-content: center; gap: 4px; }
 .hueco-figura .silueta.grande { width: 80px; height: 124px; }
 .serie-0 .hueco-figura .cabeza { fill: var(--serie-0); }
@@ -236,7 +254,8 @@ th.serie-2 { color: var(--serie-2); } th.serie-2 .serie-raya { background: var(-
   .huecos { grid-template-columns: 1fr; }
   .hueco-pala { display: grid; grid-template-columns: 1fr 64px; grid-template-rows: auto auto; column-gap: 10px; }
   .hueco-pala label { grid-column: 1; }
-  .hueco-pala input { grid-column: 1; grid-row: 2; }
+  .hueco-pala .campo { grid-column: 1; grid-row: 2; }
+  .sugerencias, .hueco-pala:last-child .sugerencias { left: 0; right: auto; width: calc(100% + 74px); }
   .hueco-figura { grid-column: 2; grid-row: 1 / span 2; min-height: 0; }
   .hueco-figura .silueta.grande, .hueco-vacio { width: 40px; height: 62px; font-size: 1.2rem; }
   .hueco-tipo { display: none; }
