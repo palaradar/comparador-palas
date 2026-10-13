@@ -1,0 +1,65 @@
+name: Actualizar precios y publicar web
+
+on:
+  schedule:
+    - cron: "15 */6 * * *"   # cada 6 horas
+  workflow_dispatch:          # botón "Run workflow" para lanzarlo a mano
+  push:
+    branches: [main]
+    paths: ["config.json", "datos/tiendas.json", "datos/cupones_manual.json", "plantilla/**", "scripts/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: actualizar
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Importar palas nuevas (lunes de madrugada o al lanzarlo a mano)
+        if: github.event_name != 'push'
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || { [ "$(date -u +%u)" = "1" ] && [ "$(date -u +%H)" = "00" ]; }; then
+            python scripts/importar_catalogo.py
+          fi
+
+      - name: Actualizar precios
+        if: github.event_name != 'push'
+        run: python scripts/actualizar_precios.py
+
+      - name: Buscar cupones
+        if: github.event_name != 'push'
+        run: python scripts/buscar_cupones.py
+
+      - name: Buscar reviews en YouTube (si hay clave configurada)
+        if: github.event_name != 'push'
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/buscar_videos.py
+
+      - name: Generar web
+        run: python scripts/generar_web.py
+
+      - name: Guardar datos
+        run: |
+          git config user.name "actualizador"
+          git config user.email "actions@users.noreply.github.com"
+          git add datos
+          git diff --staged --quiet || git commit -m "Precios actualizados $(date -u +'%Y-%m-%d %H:%M')"
+          git push
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+      - uses: actions/deploy-pages@v4

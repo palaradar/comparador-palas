@@ -1,0 +1,78 @@
+[
+ {
+  "id": "padelnuestro",
+  "nombre": "Padel Nuestro",
+  "web": "https://www.padelnuestro.com",
+  "modo": "busqueda",
+  "busqueda": "https://www.padelnuestro.com/catalogsearch/result/?q={q}",
+  "patron_producto": "https://www\\.padelnuestro\\.com/[a-z0-9-]+",
+  "nota": "Fuente del catálogo y de las características técnicas.",
+  "afiliado": ""
+ },
+ {
+  "id": "padeliberico",
+  "nombre": "Padel Ibérico",
+  "web": "https://www.padeliberico.es",
+  "modo": "sitemap",
+  "sitemap": "https://www.padeliberico.es/1_es_0_sitemap.xml",
+  "busqueda": "https://www.padeliberico.es/buscar?controller=search&s={q}",
+  "patron_producto": "https://www\\.padeliberico\\.es/[a-z0-9-]+\\.html",
+  "afiliado": ""
+ },
+ {
+  "id": "padelpoint",
+  "nombre": "Padel Point",
+  "web": "https://www.tiendapadelpoint.com",
+  "modo": "busqueda",
+  "busqueda": "https://www.tiendapadelpoint.com/index.php?route=product/search&search={q}",
+  "patron_producto": "https://www\\.tiendapadelpoint\\.com/pala-[a-z0-9-]+",
+  "afiliado": ""
+ },
+ {
+  "id": "zonadepadel",
+  "nombre": "Zona de Padel",
+  "web": "https://www.zonadepadel.es",
+  "modo": "busqueda",
+  "busqueda": "https://www.zonadepadel.es/busqueda?controller=search&s={q}",
+  "patron_producto": "https://www\\.zonadepadel\\.es/[a-z0-9-]+/\\d+-[a-z0-9-]+\\.html",
+  "afiliado": ""
+ },
+ {
+  "id": "time2padel",
+  "nombre": "Time2Padel",
+  "web": "https://www.time2padel.com",
+  "modo": "busqueda",
+  "busqueda": "https://www.time2padel.com/es/buscar?controller=search&s={q}",
+  "patron_producto": "https://www\\.time2padel\\.com/es/palas[a-z0-9-]*/\\d+-[a-z0-9-]+\\.html",
+  "afiliado": ""
+ },
+ {
+  "id": "padelmarket",
+  "nombre": "Padel Market",
+  "web": "https://padelmarket.com",
+  "modo": "busqueda",
+  "busqueda": "https://padelmarket.com/search?q={q}&type=product",
+  "patron_producto": "/products/[a-z0-9-]+",
+  "prefijo": "https://padelmarket.com",
+  "sufijo_precio": "?currency=EUR",
+  "afiliado": ""
+ },
+ {
+  "id": "amazon",
+  "nombre": "Amazon",
+  "web": "https://www.amazon.es",
+  "modo": "solo_enlace",
+  "busqueda": "https://www.amazon.es/s?k={q}",
+  "nota": "Amazon no permite leer precios automáticamente. Se activará con la API de Amazon Afiliados.",
+  "afiliado": ""
+ },
+ {
+  "id": "decathlon",
+  "nombre": "Decathlon",
+  "web": "https://www.decathlon.es",
+  "modo": "solo_enlace",
+  "busqueda": "https://www.decathlon.es/es/search?Ntt={q}",
+  "nota": "Decathlon bloquea la lectura automática. Se activará con su feed de afiliados (Awin).",
+  "afiliado": ""
+ }
+]
