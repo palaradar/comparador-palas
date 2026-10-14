@@ -1,7 +1,7 @@
 {
  "_cuota": {
-  "fecha": "2026-10-13",
-  "busquedas": 80
+  "fecha": "2026-10-14",
+  "busquedas": 4
  },
  "nox-at10-genius-18k-alum-by-agustin-tapia-2025": {
   "buscado": "2026-10-13",
@@ -301,7 +301,7 @@
   ]
  },
  "nox-x-one-26": {
-  "buscado": "2000-01-01",
+  "buscado": "2026-10-14",
   "videos": []
  },
  "nox-x-one-silhoutte-26": {
@@ -487,18 +487,33 @@
   ]
  },
  "babolat-counter-viper-2-6": {
-  "buscado": "2000-01-01",
-  "videos": []
- },
- "head-speed-motion-2023": {
-  "buscado": "2000-01-01",
+  "buscado": "2026-10-14",
   "videos": [
    {
-    "id": "E6e3Kdf0H4E",
-    "titulo": "Head SPEED MOTION Vs EXTREME MOTION [La pala de Ari Sanchez Vs Paula Josemaria] #padel",
-    "canal": "Probando Palas",
-    "fecha": "2024-02-05",
-    "vistas": 31633
+    "id": "CibJfzRy0uI",
+    "titulo": "Babolat Counter Viper 2.6: The Ultimate All-Around Racket",
+    "canal": "PADELREVIEW ENG",
+    "fecha": "2026-02-25",
+    "vistas": 15720
+   }
+  ]
+ },
+ "head-speed-motion-2023": {
+  "buscado": "2026-10-14",
+  "videos": [
+   {
+    "id": "s5lKzotKZPc",
+    "titulo": "Head Speed Motion: review (w/Eng Subs). A 200 euro un autentico Best Buy questa racchetta da padel",
+    "canal": "Padel Review",
+    "fecha": "2023-05-31",
+    "vistas": 35773
+   },
+   {
+    "id": "usAYYiQ1kF8",
+    "titulo": "Head Speed Motion 2023",
+    "canal": "Padel Test by Roberto Cardi",
+    "fecha": "2023-06-06",
+    "vistas": 10917
    }
   ]
  },
@@ -515,8 +530,16 @@
   ]
  },
  "head-speed-pro-x-2025": {
-  "buscado": "2000-01-01",
-  "videos": []
+  "buscado": "2026-10-14",
+  "videos": [
+   {
+    "id": "gdU9qIev0QQ",
+    "titulo": "SPEED PRO X 🔥¿La pala + POTENTE de HEAD?...¿Qué ha MEJORADO respecto a las ALPHA PRO??  #padel",
+    "canal": "Probando Palas",
+    "fecha": "2023-03-26",
+    "vistas": 23375
+   }
+  ]
  },
  "vairo-columns-ultra": {
   "buscado": "2026-10-13",
@@ -836,5 +859,5 @@
   "buscado": "2026-10-13",
   "videos": []
  },
- "_actualizado": "2026-10-13T18:45+00:00"
+ "_actualizado": "2026-10-14T01:01+00:00"
 }
