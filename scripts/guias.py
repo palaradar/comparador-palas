@@ -39,8 +39,8 @@ def _ficha(p, h, posicion, motivo):
     <p class="g-motivo">{motivo}</p>
     {_barras(p)}
     <div class="g-precio">desde <strong>{euros(p["mejor"]["precio"])}</strong> en {e(p["mejor"]["tienda"]["nombre"])}
-      <a class="boton boton-principal" href="pala-{p["id"]}.html">Ver precios</a>
-      <a class="boton" href="comparador.html?p={p["id"]}">Comparar</a></div>
+      <a class="boton boton-principal" href="pala-{p["id"]}.html">Ver precios<span class="solo-lectores"> de {e(p["nombre"])}</span></a>
+      <a class="boton" href="comparador.html?p={p["id"]}">Comparar<span class="solo-lectores"> {e(p["nombre"])} con otras palas</span></a></div>
   </div>
 </article>'''
 
@@ -88,12 +88,13 @@ def guia_control(cfg, palas, estado, h):
     sel = _top(palas, lambda p: p["tipo"] == "control",
                lambda p: p["puntos"]["control"] * 2 + p["puntos"]["manejo"])
     intro = f'''<p class="intro">Las palas de control son las que más perdonan: punto dulce grande, peso cerca del puño y
-una salida de bola fácil de dosificar. Son la mejor elección si estás empezando, si juegas en el lado de derecha
+una salida de bola fácil de dosificar. Suelen recomendarse si estás empezando, si juegas en el lado de derecha
 o si tu juego se basa en defender bien y colocar la bola. Esta es nuestra selección de las mejores palas de control de
 {ANIO}, ordenadas por su puntuación de control y manejo.</p>'''
     metodo = '''<p>Partimos de todas las palas que clasificamos como de control (forma redonda o lágrima, balance bajo o
 medio). Las ordenamos por su <strong>puntuación de control</strong>, con el <strong>manejo</strong> como segundo criterio;
-cuando empatan, va primero la más popular en las tiendas.</p>'''
+cuando empatan, va primero la que aparece antes en el listado de palas de Padel Nuestro, nuestra tienda de
+referencia (no son datos de ventas). Nadie paga por aparecer en esta lista.</p>'''
     motivo = lambda p: (f'Control {str(p["puntos"]["control"]).replace(".", ",")}/10 y manejo '
                         f'{str(p["puntos"]["manejo"]).replace(".", ",")}/10: '
                         + ("muy cómoda para iniciarse." if "iniciacion" in p["niveles"] else "precisión para jugadores con técnica."))
@@ -107,11 +108,12 @@ def guia_potencia(cfg, palas, estado, h):
     sel = _top(palas, lambda p: p["tipo"] == "potencia",
                lambda p: p["puntos"]["potencia"] * 2 + p["puntos"]["control"] * 0.5)
     intro = f'''<p class="intro">Las palas de potencia concentran el peso en la cabeza para que remates y bandejas salgan
-con más velocidad. A cambio son menos manejables y exigen buena técnica: no son la mejor idea si estás empezando o
+con más velocidad. A cambio son menos manejables y exigen buena técnica: no suelen recomendarse si estás empezando o
 tienes molestias en el codo. Estas son las mejores palas de potencia de {ANIO} según su puntuación.</p>'''
     metodo = '''<p>Tomamos las palas que clasificamos como de potencia (normalmente forma diamante y balance alto) y las
 ordenamos por su <strong>puntuación de potencia</strong>. Como desempate tenemos en cuenta el <strong>control</strong>,
-porque una pala que pega fuerte y además permite colocar la bola es más útil en partido.</p>'''
+porque una pala que pega fuerte y además permite colocar la bola es más útil en partido. Nadie paga por aparecer en
+esta lista.</p>'''
     def motivo(p):
         goma = normalizar(_c(p, "Dureza"))
         if "dura" in goma and "media" not in goma:
@@ -133,14 +135,14 @@ def guia_codo(cfg, palas, estado, h):
         balance = normalizar(_c(p, "Balance"))
         return dureza and "dura" not in dureza and balance and "alto" not in balance
     sel = _top(palas, apta, lambda p: p["puntos"]["salida"] + p["puntos"]["manejo"] - p["puntos"]["dureza"] * 0.5)
-    intro = '''<p class="intro">La epicondilitis o "codo de tenista" es una de las lesiones más comunes en el pádel.
-La pala no la cura, pero sí puede ayudar a no agravarla: una pala que absorbe vibraciones y no obliga a forzar el
-golpe reduce la carga sobre el antebrazo. En esta guía te explicamos qué buscar y te mostramos las palas de nuestro
-catálogo que mejor encajan.</p>
-<h2>Qué buscar en una pala si te molesta el codo</h2>
+    intro = '''<p class="intro">La epicondilitis o "codo de tenista" es una molestia frecuente entre jugadores de pádel. Ninguna
+pala cura una lesión. Lo que se suele aconsejar a quien tiene molestias es elegir una pala que transmita menos
+vibraciones y no obligue a forzar el golpe. En esta guía te explicamos qué características se suelen recomendar y
+te mostramos las palas de nuestro catálogo que las cumplen.</p>
+<h2>Qué características se suelen recomendar</h2>
 <ul>
   <li><strong>Goma blanda o media</strong> (Soft EVA, foam, multicapa): absorbe más vibración y la bola sale con menos esfuerzo.</li>
-  <li><strong>Balance bajo o medio</strong>: el peso cerca de la mano reduce la palanca sobre el codo.</li>
+  <li><strong>Balance bajo o medio</strong>: con el peso más cerca de la mano, la pala resulta más fácil de mover.</li>
   <li><strong>Peso moderado</strong>: evita los extremos; muchas marcas tienen versiones "light" o "comfort".</li>
   <li><strong>Forma redonda o lágrima</strong>: punto dulce más grande, menos golpes descentrados que vibran.</li>
   <li><strong>Evita</strong> las palas muy rígidas de goma dura y balance alto, aunque sean las de tu jugador favorito.</li>
@@ -173,11 +175,12 @@ def guia_baratas(cfg, palas, estado, h, limite=100):
     sel = sel[:10]
     intro = f'''<p class="intro">No hace falta gastar 300 € para tener una buena pala. Por debajo de {limite} € hay palas
 muy completas, sobre todo modelos de temporadas anteriores que han bajado de precio y palas pensadas para iniciación y
-nivel intermedio. Estas son las palas de menos de {limite} € más vendidas en las tiendas que comparamos, con el
-precio más bajo que hemos encontrado hoy.</p>'''
+nivel intermedio. Estas son las palas de menos de {limite} € que aparecen antes en el listado de nuestra tienda de
+referencia, con el precio más bajo que hemos encontrado hoy en las tiendas que comparamos.</p>'''
     metodo = f'''<p>Seleccionamos las palas cuyo <strong>precio más bajo</strong> en alguna de las tiendas comparadas está
-por debajo de {limite} € y las ordenamos por <strong>popularidad</strong> en tienda. Como los precios cambian cada día,
-esta lista también: una pala puede entrar o salir según las ofertas.</p>'''
+por debajo de {limite} € y las ordenamos por su <strong>posición en el listado de palas de Padel Nuestro</strong>,
+nuestra tienda de referencia (no son datos de ventas). Como los precios cambian cada día, esta lista también: una pala
+puede entrar o salir según las ofertas. Nadie paga por aparecer en esta lista.</p>'''
     cierre = '''<p>¿No sabes si elegir control, híbrida o potencia? Lee nuestra
 <a href="guia-elegir-pala.html">guía para elegir pala</a> o compara varias en el
 <a href="comparador.html">comparador gráfico</a>.</p>'''
@@ -185,7 +188,7 @@ esta lista también: una pala puede entrar o salir según las ofertas.</p>'''
                         f'{" · comparada en " + str(len(p["ofertas"])) + " tiendas" if len(p["ofertas"]) > 1 else ""}.')
     return f"palas-padel-menos-de-{limite}-euros.html", _pagina_guia(
         cfg, estado, h, f"palas-padel-menos-de-{limite}-euros.html", f"Mejores palas de pádel por menos de {limite} €",
-        f"Las palas de pádel más vendidas por menos de {limite} €, con el precio más bajo de hoy en las principales tiendas.",
+        f"Palas de pádel destacadas por menos de {limite} €, con el precio más bajo de hoy en las tiendas que comparamos.",
         intro, sel, motivo, metodo, cierre)
 
 
@@ -216,14 +219,14 @@ def guia_vertex(cfg, palas, estado, h):
                      f"sin pagar la novedad, la 04 es la compra inteligente; la 05 tiene sentido si quieres lo último "
                      f"o te gustan sus cambios.")
     elif diferencia < -5:
-        veredicto = "Curiosamente la Vertex 05 está ahora más barata que la 04: no tiene sentido comprar la versión anterior."
+        veredicto = "Ahora mismo la Vertex 05 está más barata que la 04, así que la versión anterior no aporta ventaja de precio."
     else:
         veredicto = "Ahora mismo cuestan casi lo mismo, así que la Vertex 05, al ser la versión más reciente, es la opción lógica."
     cuerpo = f'''<nav class="migas"><a href="index.html">Inicio</a> › <a href="guias.html">Guías</a> › Vertex 04 vs Vertex 05</nav>
 <article class="texto guia">
   <h1>Bullpadel Vertex 04 vs Vertex 05: ¿merece la pena cambiar?</h1>
-  <p class="intro">La Vertex es una de las líneas de potencia más vendidas de Bullpadel y la pala de Juan Tello.
-  Cada temporada sale una versión nueva y la anterior baja de precio, así que la pregunta es inevitable: ¿compensa
+  <p class="intro">La Vertex es una de las líneas de palas de potencia de Bullpadel, asociada al jugador Juan Tello.
+  Bullpadel suele renovarla cada temporada y la versión anterior tiende a bajar de precio, así que surge la pregunta: ¿compensa
   pagar más por la Vertex 05 (2026) o es mejor aprovechar la Vertex 04 (2025)? Comparamos sus datos y su precio de hoy.</p>
   <div class="g-versus">
     <a href="pala-{a["id"]}.html">{h["figura"](a, "foto-guia", 220)}<strong>{e(a["nombre"])}</strong><span>desde {euros(a["mejor"]["precio"])}</span></a>
@@ -254,7 +257,7 @@ GUIAS = [
     ("mejores-palas-control.html", "Mejores palas de control", "Para empezar, defender y colocar la bola.", guia_control),
     ("mejores-palas-potencia.html", "Mejores palas de potencia", "Para atacar y definir desde la red.", guia_potencia),
     ("palas-codo-de-tenista.html", "Palas para el codo de tenista", "Qué buscar si te molesta el codo.", guia_codo),
-    ("palas-padel-menos-de-100-euros.html", "Palas por menos de 100 €", "Las más vendidas sin gastar de más.", guia_baratas),
+    ("palas-padel-menos-de-100-euros.html", "Palas por menos de 100 €", "Destacadas sin gastar de más.", guia_baratas),
     ("vertex-04-vs-vertex-05.html", "Vertex 04 vs Vertex 05", "¿Compensa la nueva o la del año pasado?", guia_vertex),
 ]
 

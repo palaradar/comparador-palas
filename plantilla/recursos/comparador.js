@@ -79,7 +79,7 @@
     h += '<tr class="fila-precio"><th>Mejor precio</th>' + activas.map(function (a) {
       var mejor = activas.length > 1 && a.p.precio === min;
       return '<td class="' + (mejor ? "gana serie-" + a.s : "") + '"><strong>' + euros(a.p.precio) + "</strong><br><small>en " +
-        esc(a.p.tienda) + '</small><br><a class="boton" href="pala-' + a.p.id + '.html">Ver precios</a></td>';
+        esc(a.p.tienda) + '</small><br><a class="boton" href="pala-' + a.p.id + '.html">Ver precios<span class="solo-lectores"> de ' + esc(a.p.nombre) + '</span></a></td>';
     }).join("") + "</tr></tbody>";
     tabla.innerHTML = h;
   }
@@ -155,7 +155,7 @@
       if (!actuales.length) {
         lista.innerHTML = '<li class="sin-resultados">No encontramos esa pala. Prueba con la marca o el modelo.</li>';
       } else {
-        var titulo = input.value.trim() ? "" : '<li class="sugerencias-titulo">Más populares</li>';
+        var titulo = input.value.trim() ? "" : '<li class="sugerencias-titulo">Destacadas</li>';
         lista.innerHTML = titulo + actuales.map(function (p, i) {
           var foto = p.foto ? '<img src="' + esc(p.foto) + '" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.visibility=\'hidden\'">' : "";
           return '<li role="option" id="op-' + s + "-" + i + '" data-i="' + i + '"' + (i === activa ? ' aria-selected="true"' : "") + ">" +

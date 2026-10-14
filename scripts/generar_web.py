@@ -72,6 +72,11 @@ def descuento_cupon(cupones, tienda_id):
     return max(mejores, key=lambda c: c["pct"]) if mejores else None
 
 
+def rel_tienda():
+    """Los enlaces a tiendas solo se marcan como patrocinados si de verdad hay afiliación o publicidad."""
+    return "sponsored nofollow noopener" if MONETIZA else "nofollow noopener"
+
+
 def enlace_tienda(tienda, url):
     """Aplica el código de afiliado de la tienda, si lo hay.
 
@@ -108,6 +113,7 @@ def silueta(forma, clase="silueta"):
 
 
 MOSTRAR_FOTOS = True  # se toma de config.json en main()
+MONETIZA = False  # True si hay AdSense o algún enlace de afiliado configurado
 
 
 def url_foto(p, tam):
@@ -119,14 +125,15 @@ def url_foto(p, tam):
                   re.sub(r"canvas=\d+:\d+", f"canvas={tam}:{tam}", u))
 
 
-def figura(p, clase="", tam=220):
+def figura(p, clase="", tam=220, alt=None):
     """Foto real de la pala; si no hay o no carga, se ve la silueta dibujada."""
     forma = p.get("caracteristicas", {}).get("Forma")
     dibujo = silueta(forma, "silueta grande" if "grande" in clase else "silueta")
     foto = url_foto(p, tam)
     if not foto:
         return dibujo
-    return (f'<span class="foto {clase}"><img src="{e(foto)}" alt="{e(p["nombre"])}" loading="lazy" '
+    texto_alt = p["nombre"] if alt is None else alt  # alt="" cuando el nombre ya está escrito al lado
+    return (f'<span class="foto {clase}"><img src="{e(foto)}" alt="{e(texto_alt)}" loading="lazy" '
             f'referrerpolicy="no-referrer" onerror="this.parentNode.classList.add(\'foto-error\')">{dibujo}</span>')
 
 
@@ -160,12 +167,13 @@ def bloque_videos(p):
     <span class="video-titulo">{e(v.get("titulo", "Review en YouTube"))}</span>
     <span class="video-canal">{e(v.get("canal", ""))}{" · " + e(v["fecha"][:4]) if v.get("fecha") else ""}</span></button>'''
                        for v in p["videos"])
-    intro = ("Vídeos de otros jugadores y tiendas probando esta pala, para quien quiera profundizar."
+    intro = ("Vídeos de otros jugadores y tiendas sobre esta pala, seleccionados automáticamente (pueden contener "
+             "errores). Los vídeos pertenecen a sus autores y se alojan en YouTube."
              if p["videos"] else "Todavía no hemos seleccionado vídeos de esta pala.")
     return f'''<h2>Reviews en vídeo</h2>
   <p class="nota">{intro}</p>
-  {f'<div class="videos">{tarjetas}</div>' if tarjetas else ""}
-  <p><a class="boton boton-secundario" href="{e(busqueda)}" target="_blank" rel="nofollow noopener">▶ Ver más reviews en YouTube</a></p>'''
+  {f'<div class="videos">{tarjetas}</div><p class="aviso-video">Al pulsar ▶ se carga el reproductor de YouTube (Google), que puede usar cookies y tratar datos según su <a href="https://policies.google.com/privacy" target="_blank" rel="nofollow noopener">política de privacidad</a>. Más información en nuestra <a href="cookies.html">política de cookies</a>.</p>' if tarjetas else ""}
+  <p><a class="boton boton-secundario" href="{e(busqueda)}" target="_blank" rel="nofollow noopener">▶ Ver más reviews en YouTube <span class="solo-lectores">(se abre en una pestaña nueva)</span></a></p>'''
 
 
 def tarjeta(p):
@@ -174,7 +182,7 @@ def tarjeta(p):
     tiendas_n = len([o for o in p["ofertas"] if o.get("disponible") is not False])
     return f'''<a class="tarjeta" href="pala-{p["id"]}.html" data-tipo="{p["tipo"]}" data-niveles="{niveles}"
   data-marca="{e(p["marca"])}" data-precio="{p["mejor"]["precio"]}" data-indice="{p["indice"]}" data-pop="{p.get("popularidad", 999)}">
-  {figura(p, "foto-tarjeta", 220)}
+  {figura(p, "foto-tarjeta", 220, alt="")}
   <div class="tarjeta-cuerpo">
     <span class="etiqueta tipo-{p["tipo"]}">{TIPOS[p["tipo"]]["nombre"]}</span>
     <h3>{e(p["nombre"])}</h3>
@@ -219,23 +227,28 @@ def pagina(cfg, ruta, titulo, descripcion, cuerpo, estado, jsonld=None):
 {ld}
 </head>
 <body>
+<a class="saltar" href="#contenido">Saltar al contenido</a>
 <header class="cabecera">
   <div class="contenedor cabecera-fila">
-    <a class="logo" href="index.html">{silueta("redonda", "logo-icono")}<span>{e(cfg["nombre_web"])}</span></a>
-    <nav class="menu">{nav}<a href="comparador.html" class="menu-destacado">Comparador gráfico</a><a href="guias.html">Guías</a><a href="cupones.html">Cupones</a></nav>
+    <a class="logo" href="index.html" aria-label="{e(cfg["nombre_web"])}, página de inicio">{silueta("redonda", "logo-icono")}<span>{e(cfg["nombre_web"])}</span></a>
+    <nav class="menu" aria-label="Menú principal">{nav}<a href="comparador.html" class="menu-destacado">Comparador gráfico</a><a href="guias.html">Guías</a><a href="cupones.html">Cupones</a></nav>
   </div>
 </header>
-<main class="contenedor">
+<main class="contenedor" id="contenido" tabindex="-1">
 {cuerpo}
 </main>
 <footer class="pie">
   <div class="contenedor">
-    <p class="actualizado" data-fecha="{e(actualizado)}">Precios actualizados automáticamente varias veces al día.</p>
-    <p class="aviso-afiliado">Los precios pueden variar en la tienda en el momento de la compra.{
-      " Algunos enlaces pueden ser de afiliado: si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti."
-      if cfg.get("titular") else " Compra donde prefieras: no vendemos nada ni cobramos a las tiendas."}</p>
-    <nav class="pie-enlaces"><a href="sobre-nosotros.html">Sobre nosotros</a><a href="aviso-legal.html">Aviso legal</a>
-      <a href="privacidad.html">Privacidad</a><a href="cookies.html">Cookies</a></nav>
+    <p class="actualizado" data-fecha="{e(actualizado)}">Precios actualizados automáticamente cada pocas horas.</p>
+    <p class="aviso-afiliado">{e(cfg["nombre_web"])} es un comparador informativo: no vende productos. Los precios
+      pueden variar en la tienda en el momento de la compra y la venta, el envío, la garantía y las devoluciones son
+      responsabilidad de cada tienda.{
+      " Algunos enlaces son de afiliado: si compras a través de ellos, podemos recibir una pequeña comisión sin coste adicional para ti."
+      if MONETIZA else " No cobramos a las tiendas ni a los usuarios: compra donde prefieras."}</p>
+    <nav class="pie-enlaces" aria-label="Información legal"><a href="sobre-nosotros.html">Sobre nosotros</a>
+      <a href="terminos.html">Términos y condiciones</a><a href="terminos.html#compras">Compras y devoluciones</a>
+      <a href="aviso-legal.html">Aviso legal</a><a href="privacidad.html">Privacidad</a><a href="cookies.html">Cookies</a>
+      <a href="accesibilidad.html">Accesibilidad</a></nav>
     <p>© {anio} {e(cfg["nombre_web"])}</p>
   </div>
 </footer>
@@ -261,7 +274,7 @@ def filtros(palas, tipo_fijo=None, nivel_fijo=None):
   <label>Precio máximo<select name="precio"><option value="">Sin límite</option>
     <option value="80">80 €</option><option value="120">120 €</option><option value="160">160 €</option>
     <option value="200">200 €</option><option value="250">250 €</option></select></label>
-  <label>Ordenar<select name="orden"><option value="pop">Más populares</option><option value="precio">Precio más bajo</option>
+  <label>Ordenar<select name="orden"><option value="pop">Destacadas</option><option value="precio">Precio más bajo</option>
     <option value="potencia">Más potencia</option><option value="control">Más control</option></select></label>
 </form>
 <p class="contador" id="contador"></p>'''
@@ -283,7 +296,7 @@ def portada(cfg, palas, cupones, estado, guias_disponibles=()):
     cajas = []
     for k, v in TIPOS.items():
         rep = representante(palas, k)
-        imagen = (figura(rep, "foto-tipo", 220) if rep
+        imagen = (figura(rep, "foto-tipo", 220, alt="") if rep
                   else silueta({"potencia": "diamante", "hibrida": "lagrima", "control": "redonda"}[k]))
         ejemplo = f'<small>Ej.: {e(rep["nombre"])}</small>' if rep else ""
         cajas.append(f'''<a class="tipo-caja tipo-{k}" href="{v["pagina"]}">
@@ -302,8 +315,9 @@ def portada(cfg, palas, cupones, estado, guias_disponibles=()):
     cuerpo = f'''
 <section class="hero">
   <h1>Encuentra tu pala de pádel al mejor precio</h1>
-  <p>Comparamos {len(palas)} palas en las principales tiendas de España, las clasificamos por tipo de juego y nivel
-     y te mostramos dónde está más barata ahora mismo.</p>
+  <p>Comparamos {len(palas)} palas en {len({o["tienda"]["id"] for p in palas for o in p["ofertas"]})} tiendas online de pádel,
+     las clasificamos por tipo de juego y nivel y te mostramos qué tienda tiene el precio más bajo según nuestra última
+     actualización.</p>
   <a class="boton boton-principal" href="comparador.html">📊 Abrir el comparador gráfico</a>
 </section>
 {banner}
@@ -348,7 +362,7 @@ def pagina_tipo(cfg, palas, tipo, estado):
 {filtros(lista, tipo_fijo=tipo)}
 {rejilla(lista)}'''
     return pagina(cfg, t["pagina"], f'{t["plural"]} {datetime.now().year}: comparativa y precios · {cfg["nombre_web"]}',
-                  f'Comparamos {len(lista)} {t["plural"].lower()} y su precio en las principales tiendas de España.',
+                  f'Comparamos {len(lista)} {t["plural"].lower()} y su precio en varias tiendas online de pádel de España.',
                   cuerpo, estado)
 
 
@@ -388,7 +402,7 @@ def pagina_pala(cfg, p, palas, tiendas, estado):
       f'<span class="con-cupon">{euros(o["precio_cupon"])} con <code>{e(o["cupon"])}</code></span>' if o.get("precio_cupon") and not agotada else ""}</td>
   <td class="hora" data-fecha="{e(o["actualizado"])}"></td>
   <td><a class="boton{" boton-principal" if mejor else ""}" href="{e(enlace_tienda(o["tienda"], o["url"]))}"
-     target="_blank" rel="sponsored nofollow noopener">Ir a la tienda</a></td></tr>''')
+     target="_blank" rel="{rel_tienda()}">Ir a la tienda<span class="solo-lectores"> {e(o["tienda"]["nombre"])} a ver {e(p["nombre"])} (se abre en una pestaña nueva)</span></a></td></tr>''')
     con_precio = {o["tienda"]["id"] for o in p["ofertas"]}
     for t in tiendas.values():
         if t["id"] in con_precio:
@@ -398,7 +412,7 @@ def pagina_pala(cfg, p, palas, tiendas, estado):
         motivo = "Consultar precio" if t["modo"] == "solo_enlace" else "Buscar en la tienda"
         filas.append(f'''<tr class="sin-precio"><td class="tienda">{e(t["nombre"])}</td>
   <td class="precio">—</td><td class="hora"></td>
-  <td><a class="boton boton-secundario" href="{e(enlace_tienda(t, url))}" target="_blank" rel="sponsored nofollow noopener">{motivo}</a></td></tr>''')
+  <td><a class="boton boton-secundario" href="{e(enlace_tienda(t, url))}" target="_blank" rel="{rel_tienda()}">{motivo}<span class="solo-lectores"> en {e(t["nombre"])} (se abre en una pestaña nueva)</span></a></td></tr>''')
 
     cupones_html = ""
     if p["cupones"]:
@@ -418,14 +432,15 @@ def pagina_pala(cfg, p, palas, tiendas, estado):
                  and set(q["niveles"]) & set(p["niveles"])]
     similares.sort(key=lambda q: abs(q["mejor"]["precio"] - p["mejor"]["precio"]))
     ahorro = p["ofertas"][-1]["precio"] - p["mejor"]["precio"] if len(p["ofertas"]) > 1 else 0
-    ahorro_txt = f' Comprando en la tienda más barata te ahorras hasta <strong>{euros(ahorro)}</strong>.' if ahorro >= 1 else ""
+    ahorro_txt = (f' Entre las tiendas comparadas, la diferencia entre el precio más bajo y el más alto es de <strong>{euros(ahorro)}</strong>.'
+                  if ahorro >= 1 else "")
     t = TIPOS[p["tipo"]]
 
     cuerpo = f'''<nav class="migas"><a href="index.html">Inicio</a> › <a href="{t["pagina"]}">{t["plural"]}</a> › {e(p["nombre"])}</nav>
 <article class="ficha">
   <div class="ficha-cabecera">
     <div class="ficha-foto">{figura(p, "grande", 500)}{
-        f'<a class="credito" href="{e(p["urls"]["padelnuestro"])}" target="_blank" rel="nofollow noopener">Imagen: Padel Nuestro</a>'
+        f'<a class="credito" href="{e(p["urls"]["padelnuestro"])}" target="_blank" rel="nofollow noopener">Imagen: Padel Nuestro <span class="solo-lectores">(se abre en una pestaña nueva)</span></a>'
         if url_foto(p, 500) and p.get("urls", {}).get("padelnuestro") else ""}</div>
     <div>
       <span class="etiqueta tipo-{p["tipo"]}">{t["nombre"]}</span>
@@ -500,7 +515,7 @@ def pagina_comparador(cfg, palas, estado):
 <p class="intro">Elige hasta tres palas y compara de un vistazo su potencia, control, manejo, salida de bola y dureza.</p>
 <section class="comparador">
   <div class="huecos">{selectores}</div>
-  <div class="radar-caja"><svg id="radar" viewBox="-170 -150 340 300" role="img" aria-label="Gráfico de radar comparativo"></svg></div>
+  <div class="radar-caja"><svg id="radar" viewBox="-170 -150 340 300" role="img" aria-label="Gráfico de radar que compara las palas elegidas. Los mismos datos aparecen en la tabla siguiente."></svg></div>
   <div class="tabla-scroll"><table class="tabla-comparar" id="tabla-comparar"></table></div>
   <p class="nota">Puntuaciones de 1 a 10 <strong>estimadas por {e(cfg["nombre_web"])}</strong> a partir de las características
     técnicas publicadas (forma, balance, núcleo, dureza y material de la cara); no son pruebas en pista.
@@ -523,16 +538,18 @@ def pagina_cupones(cfg, cupones, tiendas, estado):
         items = "".join(f'''<div class="cupon"><strong>{e(tiendas[c["tienda"]]["nombre"])}</strong>
   <code>{e(c["codigo"])}</code><p>{e(c.get("descripcion") or c.get("texto", ""))}</p>
   <a class="boton" href="{e(enlace_tienda(tiendas[c["tienda"]], tiendas[c["tienda"]]["web"]))}" target="_blank"
-     rel="sponsored nofollow noopener">Ir a {e(tiendas[c["tienda"]]["nombre"])}</a></div>''' for c in cupones if c["tienda"] in tiendas)
+     rel="{rel_tienda()}">Ir a {e(tiendas[c["tienda"]]["nombre"])}<span class="solo-lectores"> (se abre en una pestaña nueva)</span></a></div>''' for c in cupones if c["tienda"] in tiendas)
     else:
-        items = '<p>Ahora mismo no hemos detectado códigos de descuento activos. Revisamos las tiendas varias veces al día.</p>'
+        items = '<p>Ahora mismo no hemos detectado códigos de descuento. Revisamos las tiendas cada pocas horas.</p>'
     cuerpo = f'''<nav class="migas"><a href="index.html">Inicio</a> › Cupones</nav>
 <h1>Códigos de descuento en tiendas de pádel</h1>
-<p class="intro">Revisamos automáticamente las tiendas varias veces al día en busca de códigos promocionales.
+<p class="intro">Revisamos automáticamente las portadas de las tiendas que comparamos, cada pocas horas, en busca de
+códigos promocionales publicados. No tenemos acuerdos con las tiendas: un código puede haber caducado o no aplicarse a
+todos los productos.
 Comprueba siempre las condiciones en la tienda: muchos códigos excluyen productos ya rebajados.</p>
 <div class="cupones">{items}</div>'''
     return pagina(cfg, "cupones.html", f'Cupones y códigos de descuento de pádel · {cfg["nombre_web"]}',
-                  "Códigos promocionales activos en las principales tiendas de pádel de España.", cuerpo, estado)
+                  "Códigos promocionales detectados en las tiendas de pádel que comparamos.", cuerpo, estado)
 
 
 def paginas_estaticas(cfg, estado):
@@ -542,9 +559,10 @@ def paginas_estaticas(cfg, estado):
         texto = f.read_text(encoding="utf-8")
         titulo, descripcion, cuerpo = texto.split("\n---\n", 2)
         # Bloques condicionales: los datos del titular solo aparecen si están en config.json
-        quitar, dejar = ("sin-titular", "si-titular") if cfg.get("titular") else ("si-titular", "sin-titular")
-        cuerpo = re.sub(rf"<!--{quitar}-->.*?<!--/{quitar}-->", "", cuerpo, flags=re.S)
-        cuerpo = cuerpo.replace(f"<!--{dejar}-->", "").replace(f"<!--/{dejar}-->", "")
+        for condicion, activa in (("titular", bool(cfg.get("titular"))), ("monetiza", MONETIZA)):
+            quitar, dejar = (f"sin-{condicion}", f"si-{condicion}") if activa else (f"si-{condicion}", f"sin-{condicion}")
+            cuerpo = re.sub(rf"<!--{quitar}-->.*?<!--/{quitar}-->", "", cuerpo, flags=re.S)
+            cuerpo = cuerpo.replace(f"<!--{dejar}-->", "").replace(f"<!--/{dejar}-->", "")
         for k, v in cfg.items():
             cuerpo = cuerpo.replace("{{" + k + "}}", e(str(v)))
         res[f.name] = pagina(cfg, f.name, f"{titulo.strip()} · {cfg['nombre_web']}", descripcion.strip(), cuerpo, estado)
@@ -552,11 +570,11 @@ def paginas_estaticas(cfg, estado):
 
 
 def main():
-    global MOSTRAR_FOTOS
+    global MOSTRAR_FOTOS, MONETIZA
     cfg, tiendas, palas, cupones, estado = cargar()
     MOSTRAR_FOTOS = cfg.get("mostrar_fotos", True)
-    monetiza = cfg.get("adsense_cliente") or any(t.get("afiliado") for t in tiendas.values())
-    if monetiza and not cfg.get("titular"):
+    MONETIZA = bool(cfg.get("adsense_cliente") or any(t.get("afiliado") for t in tiendas.values()))
+    if MONETIZA and not cfg.get("titular"):
         print("AVISO: hay publicidad o enlaces de afiliado activos pero no hay titular en config.json. "
               "La LSSI obliga a identificar al titular de webs con actividad económica.")
     if WEB.exists():
