@@ -38,7 +38,7 @@
   "id": "bullpadel-vertex-04-comfort",
   "nombre": "Bullpadel Vertex 04 Comfort",
   "marca": "Bullpadel",
-  "popularidad": 2,
+  "popularidad": 1,
   "ean": "8445402483785",
   "caracteristicas": {
    "Marca": "Bullpadel",
@@ -73,7 +73,7 @@
   "id": "bullpadel-vertex-03-cmf-x-series",
   "nombre": "Bullpadel Vertex 03 Cmf X-Series",
   "marca": "Bullpadel",
-  "popularidad": 3,
+  "popularidad": 2,
   "ean": "8445402972722",
   "caracteristicas": {
    "Marca": "Bullpadel",
@@ -107,7 +107,7 @@
   "id": "bullpadel-vertex-04-25",
   "nombre": "Bullpadel Vertex 04 25",
   "marca": "Bullpadel",
-  "popularidad": 4,
+  "popularidad": 3,
   "ean": "8445402691890",
   "caracteristicas": {
    "Marca": "Bullpadel",
@@ -143,7 +143,7 @@
   "id": "babolat-air-crest-2026",
   "nombre": "Babolat Air Crest 2026",
   "marca": "Babolat",
-  "popularidad": 5,
+  "popularidad": 4,
   "ean": "3324922508404",
   "caracteristicas": {
    "Marca": "Babolat",
@@ -177,7 +177,7 @@
   "id": "siux-electra-st3-stupa-pro",
   "nombre": "Siux Electra St3 Stupa Pro",
   "marca": "Siux",
-  "popularidad": 6,
+  "popularidad": 5,
   "ean": "8435536793508",
   "caracteristicas": {
    "Marca": "Siux",
@@ -214,7 +214,7 @@
   "id": "bullpadel-game-woman",
   "nombre": "Bullpadel Game Woman",
   "marca": "Bullpadel",
-  "popularidad": 7,
+  "popularidad": 6,
   "ean": "8445402898305",
   "caracteristicas": {
    "Marca": "Bullpadel",
@@ -242,6 +242,40 @@
    "zonadepadel": "2026-10",
    "padelmarket": "2026-10",
    "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "bullpadel-ionic-power-26",
+  "nombre": "Bullpadel Ionic Power 26",
+  "marca": "Bullpadel",
+  "popularidad": 7,
+  "ean": "8445402975129",
+  "caracteristicas": {
+   "Marca": "Bullpadel",
+   "Color 2": "Blanco, Azul",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Multieva",
+   "Cara": "Glaphite",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Principiante / Intermedio",
+   "Acabado": "Mate",
+   "Forma": "Híbrida",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120906-pala-bullpadel-ionic-power-26-494411-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-bullpadel-ionic-power-26",
+   "padelmarket": "https://padelmarket.com/products/bullpadel-ionic-power-2026-pala",
+   "zonadepadel": "https://www.zonadepadel.es/bullpadel/13573-bullpadel-ionic-power-2026.html",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28828-bullpadel-ionic-power-26-bullpadel-8445402975129.html",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-bullpadel-ionic-power-2026-1"
+  },
+  "alta": "2026-10-12",
+  "urls_descartadas": {
+   "padeliberico": "2026-10"
   }
  },
  {
@@ -281,37 +315,37 @@
   }
  },
  {
-  "id": "bullpadel-ionic-power-26",
-  "nombre": "Bullpadel Ionic Power 26",
+  "id": "bullpadel-indiga-w-mujer-2023",
+  "nombre": "Bullpadel Indiga W Mujer 2023",
   "marca": "Bullpadel",
   "popularidad": 8,
-  "ean": "8445402975129",
+  "ean": "8445402248629",
   "caracteristicas": {
    "Marca": "Bullpadel",
    "Color 2": "Blanco, Azul",
    "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Multieva",
-   "Cara": "Glaphite",
+   "Balance": "Bajo",
+   "Núcleo": "Soft Eva",
+   "Cara": "Fibra De Vidrio",
    "Formato": "Normal",
-   "Dureza": "Media",
    "Nivel de Juego": "Principiante / Intermedio",
-   "Acabado": "Mate",
-   "Forma": "Híbrida",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Potencia"
+   "Acabado": "Brillo",
+   "Forma": "Redonda",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Control",
+   "Jugador": "Mujer"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120906-pala-bullpadel-ionic-power-26-494411-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/b/u/bullpadel_indiga_23_467402_mujer_32439_4_51db.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-bullpadel-ionic-power-26",
-   "padelmarket": "https://padelmarket.com/products/bullpadel-ionic-power-2026-pala",
-   "zonadepadel": "https://www.zonadepadel.es/bullpadel/13573-bullpadel-ionic-power-2026.html",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28828-bullpadel-ionic-power-26-bullpadel-8445402975129.html",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-bullpadel-ionic-power-2026-1"
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-indiga-w-mujer-2023-32439-p",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel-bullpadel/10806-bullpadel-indiga-w-mujer-2023-bullpadel-8445402248629.html"
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10"
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
   }
  },
  {
@@ -350,37 +384,39 @@
   }
  },
  {
-  "id": "bullpadel-indiga-w-mujer-2023",
-  "nombre": "Bullpadel Indiga W Mujer 2023",
+  "id": "bullpadel-hack-04-26",
+  "nombre": "Bullpadel Hack 04 26",
   "marca": "Bullpadel",
   "popularidad": 9,
-  "ean": "8445402248629",
+  "ean": "8445402973934",
   "caracteristicas": {
    "Marca": "Bullpadel",
-   "Color 2": "Blanco, Azul",
+   "Color 2": "Negro",
    "Producto": "Palas",
-   "Balance": "Bajo",
-   "Núcleo": "Soft Eva",
-   "Cara": "Fibra De Vidrio",
+   "Balance": "Alto, Medio",
+   "Núcleo": "Multieva",
+   "Cara": "Tricarbon",
    "Formato": "Normal",
-   "Nivel de Juego": "Principiante / Intermedio",
+   "Dureza": "Dura, Media",
+   "Nivel de Juego": "Profesional",
    "Acabado": "Brillo",
-   "Forma": "Redonda",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Control",
-   "Jugador": "Mujer"
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Paquito Navarro",
+   "Jugador": "Hombre"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/b/u/bullpadel_indiga_23_467402_mujer_32439_4_51db.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120892-pala-bullpadel-hack-04-26-494392-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/bullpadel-indiga-w-mujer-2023-32439-p",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel-bullpadel/10806-bullpadel-indiga-w-mujer-2023-bullpadel-8445402248629.html"
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-hack-04-26",
+   "padelmarket": "https://padelmarket.com/products/bullpadel-hack-04-26-2026-paquito-navarro-pala",
+   "zonadepadel": "https://www.zonadepadel.es/bullpadel/13553-bullpadel-hack-04-2026.html",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28814-bullpadel-hack-04-26-bullpadel-8445402973934.html",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-bullpadel-paquito-navarro-hack-04-2026-1"
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-10"
   }
  },
  {
@@ -457,72 +493,37 @@
   }
  },
  {
-  "id": "bullpadel-hack-04-26",
-  "nombre": "Bullpadel Hack 04 26",
-  "marca": "Bullpadel",
+  "id": "siux-pegasus-revolution-3k",
+  "nombre": "Siux Pegasus Revolution 3K",
+  "marca": "Siux",
   "popularidad": 11,
-  "ean": "8445402973934",
+  "ean": "8435536752062",
   "caracteristicas": {
-   "Marca": "Bullpadel",
+   "Marca": "Siux",
    "Color 2": "Negro",
    "Producto": "Palas",
-   "Balance": "Alto, Medio",
-   "Núcleo": "Multieva",
-   "Cara": "Tricarbon",
+   "Balance": "Alto",
+   "Núcleo": "Soft Eva",
+   "Cara": "Carbono 12k",
    "Formato": "Normal",
-   "Dureza": "Dura, Media",
-   "Nivel de Juego": "Profesional",
-   "Acabado": "Brillo",
-   "Forma": "Diamante",
-   "Superfície": "Rugosa",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Lágrima",
+   "Superfície": "Lisa",
    "Tipo de Juego": "Potencia",
-   "Colección Jugadores": "Paquito Navarro",
    "Jugador": "Hombre"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120892-pala-bullpadel-hack-04-26-494392-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/2/8/28747_siux_pegasus_revolution_3k_1500x1500_vista1_1ce1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/bullpadel-hack-04-26",
-   "padelmarket": "https://padelmarket.com/products/bullpadel-hack-04-26-2026-paquito-navarro-pala",
-   "zonadepadel": "https://www.zonadepadel.es/bullpadel/13553-bullpadel-hack-04-2026.html",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28814-bullpadel-hack-04-26-bullpadel-8445402973934.html",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-bullpadel-paquito-navarro-hack-04-2026-1"
-  },
-  "alta": "2026-10-12",
-  "urls_descartadas": {
-   "padeliberico": "2026-10"
-  }
- },
- {
-  "id": "babolat-counter-crest",
-  "nombre": "Babolat Counter Crest",
-  "marca": "Babolat",
-  "popularidad": 12,
-  "ean": "3324922508428",
-  "caracteristicas": {
-   "Marca": "Babolat",
-   "Color 2": "Blanco",
-   "Producto": "Palas",
-   "Balance": "Bajo",
-   "Núcleo": "Soft Eva",
-   "Formato": "Oversize",
-   "Dureza": "Blanda",
-   "Nivel de Juego": "Principiante / Intermedio",
-   "Acabado": "Mate",
-   "Forma": "Híbrida",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Control",
-   "Jugador": "Hombre, Mujer"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/5/159894-pala-babolat-counter-crest-155041-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-babolat-counter-crest-155041-smu",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/46874-babolat-counter-crest-3324922508428.html"
+   "padelnuestro": "https://www.padelnuestro.com/pala-siux-pegasus-revolution-3k-28747-p",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel-siux/12515-siux-pegasus-revolution-3k-siux-8435536752062.html"
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
    "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
    "zonadepadel": "2026-10",
+   "padelmarket": "2026-10",
    "padelpoint": "2026-10"
   }
  },
@@ -530,7 +531,7 @@
   "id": "babolat-viper-soft-juan-lebron-3-0",
   "nombre": "Babolat Viper Soft Juan Lebrón 3.0",
   "marca": "Babolat",
-  "popularidad": 13,
+  "popularidad": 12,
   "ean": null,
   "caracteristicas": {
    "Marca": "Babolat",
@@ -566,7 +567,7 @@
   "id": "nox-ultimate-black-golden",
   "nombre": "Nox Ultimate Black/Golden",
   "marca": "Nox",
-  "popularidad": 14,
+  "popularidad": 13,
   "ean": null,
   "caracteristicas": {
    "Marca": "Nox",
@@ -592,6 +593,40 @@
    "zonadepadel": "2026-10",
    "padelmarket": "2026-10",
    "time2padel": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "babolat-counter-crest",
+  "nombre": "Babolat Counter Crest",
+  "marca": "Babolat",
+  "popularidad": 14,
+  "ean": "3324922508428",
+  "caracteristicas": {
+   "Marca": "Babolat",
+   "Color 2": "Blanco",
+   "Producto": "Palas",
+   "Balance": "Bajo",
+   "Núcleo": "Soft Eva",
+   "Formato": "Oversize",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Principiante / Intermedio",
+   "Acabado": "Mate",
+   "Forma": "Híbrida",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Control",
+   "Jugador": "Hombre, Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/5/159894-pala-babolat-counter-crest-155041-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-babolat-counter-crest-155041-smu",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/46874-babolat-counter-crest-3324922508428.html"
+  },
+  "alta": "2026-10-12",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
    "padelpoint": "2026-10"
   }
  },
@@ -734,10 +769,45 @@
   }
  },
  {
+  "id": "adidas-metalbone-hrd-2026",
+  "nombre": "Adidas Metalbone Hrd+ 2026",
+  "marca": "Adidas",
+  "popularidad": 17,
+  "ean": "8435739405826",
+  "caracteristicas": {
+   "Marca": "Adidas",
+   "Color 2": "Negro, Naranja",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Eva High Memory",
+   "Cara": "Carbono 18k",
+   "Formato": "Oversize",
+   "Dureza": "Dura",
+   "Nivel de Juego": "Profesional",
+   "Acabado": "Brillo",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Alejandro Galán"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120472-pala-adidas-metalbone-hrd-2026-ar1aa9u37-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/adidas-metalbone-hrd-2026-120472-p",
+   "zonadepadel": "https://www.zonadepadel.es/adidas-padel/14019-adidas-metalbone-hrd-2026.html",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28106-adidas-metalbone-hrd-2026-adidas-8435739405826.html"
+  },
+  "alta": "2026-10-19",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
   "id": "siux-electra-pro-shadow-red-2026",
   "nombre": "Siux Electra Pro Shadow Red 2026",
   "marca": "Siux",
-  "popularidad": 17,
+  "popularidad": 18,
   "ean": "8436625200419",
   "caracteristicas": {
    "Marca": "Siux",
@@ -770,80 +840,80 @@
   }
  },
  {
-  "id": "siux-pegasus-revolution-3k",
-  "nombre": "Siux Pegasus Revolution 3K",
-  "marca": "Siux",
-  "popularidad": 18,
-  "ean": "8435536752062",
+  "id": "adidas-metalbone-carbon-ctrl-3-3-reedicion-2024",
+  "nombre": "Adidas Metalbone Carbon Ctrl 3.3 Reedición 2024",
+  "marca": "Adidas",
+  "popularidad": 19,
+  "ean": null,
   "caracteristicas": {
-   "Marca": "Siux",
+   "Marca": "Adidas",
+   "Color": "Negro",
    "Color 2": "Negro",
    "Producto": "Palas",
-   "Balance": "Alto",
+   "Balance": "Bajo",
    "Núcleo": "Soft Eva",
-   "Cara": "Carbono 12k",
+   "Cara": "Carbono 6k",
    "Formato": "Normal",
-   "Dureza": "Media",
+   "Dureza": "Blanda",
    "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Mate",
-   "Forma": "Lágrima",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Potencia",
+   "Forma": "Redonda",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Control",
    "Jugador": "Hombre"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/2/8/28747_siux_pegasus_revolution_3k_1500x1500_vista1_1ce1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/110143-pala-adidas-metalbone-carbon-control-2024-adrk-ca4u0034f-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-siux-pegasus-revolution-3k-28747-p",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel-siux/12515-siux-pegasus-revolution-3k-siux-8435536752062.html"
+   "padelnuestro": "https://www.padelnuestro.com/adidas-metalbone-carbon-ctrl-3-3-2024-110143-p"
   },
-  "alta": "2026-10-12",
+  "alta": "2026-10-19",
   "urls_descartadas": {
    "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10",
    "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "zonadepadel": "2026-10",
+   "time2padel": "2026-10"
   }
  },
  {
-  "id": "bullpadel-vertex-04",
-  "nombre": "Bullpadel Vertex 04",
-  "marca": "Bullpadel",
-  "popularidad": 19,
-  "ean": "8445402483761",
+  "id": "head-extreme-motion-2025",
+  "nombre": "Head Extreme Motion 2025",
+  "marca": "Head",
+  "popularidad": 20,
+  "ean": "0724794702260",
   "caracteristicas": {
-   "Marca": "Bullpadel",
-   "Color 2": "Negro, Rojo",
+   "Marca": "Head",
+   "Color 2": "Azul",
    "Producto": "Palas",
    "Balance": "Alto",
-   "Núcleo": "Multieva",
-   "Cara": "Carbono",
+   "Núcleo": "Foam",
+   "Cara": "Fibra De Carbono",
    "Formato": "Normal",
-   "Dureza": "Dura",
+   "Dureza": "Dura, Media",
    "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
    "Forma": "Diamante",
    "Superfície": "Rugosa",
    "Tipo de Juego": "Potencia",
-   "Colección Jugadores": "Juan Tello",
-   "Jugador": "Hombre"
+   "Colección Jugadores": "Paula Josmaria Martín"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/110865_pala_bullpadel_vertex_04_24_471605_1500x1500_vista1_a9ed.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120641-pala-head-extreme-motion-2025-223135-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/bullpadel-vertex-04-110865-p",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/21364-bullpadel-vertex-04-bullpadel-8445402483761.html"
+   "padelnuestro": "https://www.padelnuestro.com/head-extreme-motion-2025",
+   "padeliberico": "https://www.padeliberico.es/head-extreme-motion-paula-josemaria.html"
   },
-  "alta": "2026-10-12",
+  "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
    "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
   }
  },
  {
   "id": "nox-x-one-silhoutte-26",
   "nombre": "Nox X-One Silhoutte 26",
   "marca": "Nox",
-  "popularidad": 20,
+  "popularidad": 21,
   "ean": "8435778912101",
   "caracteristicas": {
    "Marca": "Nox",
@@ -875,32 +945,31 @@
   }
  },
  {
-  "id": "bullpadel-neuron-02",
-  "nombre": "Bullpadel Neuron 02",
+  "id": "bullpadel-vertex-04",
+  "nombre": "Bullpadel Vertex 04",
   "marca": "Bullpadel",
-  "popularidad": 21,
-  "ean": "8445402974092",
+  "popularidad": 22,
+  "ean": "8445402483761",
   "caracteristicas": {
    "Marca": "Bullpadel",
-   "Color 2": "Negro, Gris",
+   "Color 2": "Negro, Rojo",
    "Producto": "Palas",
-   "Balance": "Medio",
+   "Balance": "Alto",
    "Núcleo": "Multieva",
-   "Cara": "Carbono 3k",
+   "Cara": "Carbono",
    "Formato": "Normal",
    "Dureza": "Dura",
-   "Nivel de Juego": "Profesional",
-   "Acabado": "Mate",
-   "Forma": "Híbrida",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Forma": "Diamante",
    "Superfície": "Rugosa",
-   "Tipo de Juego": "Polivalente",
-   "Colección Jugadores": "Federico Chingotto",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Juan Tello",
    "Jugador": "Hombre"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120907-pala-bullpadel-neuron-02-494402-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/110865_pala_bullpadel_vertex_04_24_471605_1500x1500_vista1_a9ed.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/bullpadel-neuron-02-494402",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28829-bullpadel-neuron-02-bullpadel-8445402974092.html"
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-vertex-04-110865-p",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/21364-bullpadel-vertex-04-bullpadel-8445402483761.html"
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
@@ -914,7 +983,7 @@
   "id": "siux-electra-pro-fire-red-2026",
   "nombre": "Siux Electra Pro Fire Red 2026",
   "marca": "Siux",
-  "popularidad": 22,
+  "popularidad": 23,
   "ean": "8436625200402",
   "caracteristicas": {
    "Marca": "Siux",
@@ -1052,6 +1121,42 @@
   }
  },
  {
+  "id": "bullpadel-neuron-02",
+  "nombre": "Bullpadel Neuron 02",
+  "marca": "Bullpadel",
+  "popularidad": 25,
+  "ean": "8445402974092",
+  "caracteristicas": {
+   "Marca": "Bullpadel",
+   "Color 2": "Negro, Gris",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Multieva",
+   "Cara": "Carbono 3k",
+   "Formato": "Normal",
+   "Dureza": "Dura",
+   "Nivel de Juego": "Profesional",
+   "Acabado": "Mate",
+   "Forma": "Híbrida",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Polivalente",
+   "Colección Jugadores": "Federico Chingotto",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120907-pala-bullpadel-neuron-02-494402-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-neuron-02-494402",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28829-bullpadel-neuron-02-bullpadel-8445402974092.html"
+  },
+  "alta": "2026-10-12",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelmarket": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
   "id": "nox-ultimate-blue-pink",
   "nombre": "Nox Ultimate Blue/Pink",
   "marca": "Nox",
@@ -1086,118 +1191,45 @@
   }
  },
  {
-  "id": "head-extreme-motion-2025",
-  "nombre": "Head Extreme Motion 2025",
-  "marca": "Head",
-  "popularidad": 27,
-  "ean": "0724794702260",
+  "id": "adidas-cross-it-light-3-4-2025",
+  "nombre": "Adidas Cross It Light 3.4 2025",
+  "marca": "Adidas",
+  "popularidad": 26,
+  "ean": "8435739402887",
   "caracteristicas": {
-   "Marca": "Head",
-   "Color 2": "Azul",
+   "Marca": "Adidas",
+   "Color 2": "Negro, Blanco, Azul",
    "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Foam",
-   "Cara": "Fibra De Carbono",
-   "Formato": "Normal",
-   "Dureza": "Dura, Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Mate",
-   "Forma": "Diamante",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Potencia",
-   "Colección Jugadores": "Paula Josmaria Martín"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120641-pala-head-extreme-motion-2025-223135-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/head-extreme-motion-2025",
-   "padeliberico": "https://www.padeliberico.es/head-extreme-motion-paula-josemaria.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
-  }
- },
- {
-  "id": "vairo-black-karbon-confort",
-  "nombre": "Vairo Black Karbon Confort",
-  "marca": "Vairo",
-  "popularidad": 28,
-  "ean": "8435536787842",
-  "caracteristicas": {
-   "Marca": "Vairo",
-   "Color": "Azul",
-   "Color 2": "Negro",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Eva",
-   "Cara": "Carbono 18k",
-   "Formato": "Normal",
-   "Dureza": "Blanda",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Brillo",
-   "Forma": "Híbrida",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Polivalente",
-   "Jugador": "Hombre, Mujer"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/i/m/imagen_1_105773_5d531f36_846c.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/vairo-black-karbon-confort-105773-p",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-vairo-black-karbon-confort-1-1",
-   "time2padel": "https://www.time2padel.com/es/palas-vairo/12330-vairo-black-karbon-confort-vairo-8435536787842.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10"
-  }
- },
- {
-  "id": "head-extreme-pro",
-  "nombre": "Head Extreme Pro",
-  "marca": "Head",
-  "popularidad": 29,
-  "ean": "724794702253",
-  "caracteristicas": {
-   "Marca": "Head",
-   "Color": "Gris",
-   "Color 2": "Negro, Verde",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Foam",
-   "Cara": "Carbono, Fibra De Vidrio",
+   "Balance": "Bajo",
+   "Núcleo": "Soft Eva",
+   "Cara": "Carbono 24k",
    "Formato": "Normal",
    "Dureza": "Media",
    "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Brillo",
-   "Forma": "Diamante",
+   "Forma": "Redonda",
    "Superfície": "Rugosa",
-   "Tipo de Juego": "Potencia",
-   "Colección Jugadores": "Arturo Coello",
-   "Jugador": "Hombre, Mujer"
+   "Tipo de Juego": "Control",
+   "Colección Jugadores": "Marta Ortega",
+   "Jugador": "Mujer"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/110105_pala_head_extreme_pro_2023_223013_1500x1500_vista1_63c9.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/113680-pala-adidas-cross-lt-light-3-4-ar1ca6u111500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/head-extreme-pro-110105-p",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/20699-head-extreme-pro-head-724794702253.html"
+   "padelnuestro": "https://www.padelnuestro.com/pala-adidas-cross-lt-light-3-4-ar1ca6u11",
+   "padelmarket": "https://padelmarket.com/products/adidas-cross-it-light-3-4-2025-marta-ortega-pala",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-adidas-marta-ortega-cross-it-light-3-4-2025-1-1"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
    "padeliberico": "2026-10",
-   "padelpoint": "2026-10"
+   "zonadepadel": "2026-10",
+   "time2padel": "2026-10"
   }
  },
  {
   "id": "bullpadel-neuron-02-edge",
   "nombre": "Bullpadel Neuron 02 Edge",
   "marca": "Bullpadel",
-  "popularidad": 30,
+  "popularidad": 27,
   "ean": "8445402974108",
   "caracteristicas": {
    "Marca": "Bullpadel",
@@ -1227,6 +1259,147 @@
    "zonadepadel": "2026-10",
    "padelmarket": "2026-10",
    "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "adidas-metalbone-ctrl-2026",
+  "nombre": "Adidas Metalbone Ctrl 2026",
+  "marca": "Adidas",
+  "popularidad": 28,
+  "ean": "8435739405819",
+  "caracteristicas": {
+   "Marca": "Adidas",
+   "Color 2": "Negro, Blanco",
+   "Producto": "Palas",
+   "Balance": "Bajo",
+   "Núcleo": "Eva Soft Performance",
+   "Cara": "Carbono 16k",
+   "Formato": "Normal",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Brillo",
+   "Forma": "Redonda",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Control"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120471-pala-adidas-metalbone-ctrl-2026-ar1cb0u22-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/adidas-metalbone-ctrl-2026-120471-p",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28105-adidas-metalbone-ctrl-2026-adidas-8435739405819.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelmarket": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "head-speed-pro-x-2023-221043",
+  "nombre": "Head Speed Pro X 2023 221043",
+  "marca": "Head",
+  "popularidad": 29,
+  "ean": "724794637593",
+  "caracteristicas": {
+   "Marca": "Head",
+   "Color 2": "Negro, Azul",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Foam",
+   "Cara": "Carbono 12k",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Lágrima",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Potencia",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/3/2/32512_head_speed_pro_x_202_221043_1500x1500_vista1_5836.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/head-speed-pro-x-2023-32512-p",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel-head/20571-head-speed-pro-x-2023-221043-head-724794637593.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelmarket": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "bullpadel-pearl-2026",
+  "nombre": "Bullpadel Pearl 2026",
+  "marca": "Bullpadel",
+  "popularidad": 30,
+  "ean": "8445402895625",
+  "caracteristicas": {
+   "Marca": "Bullpadel",
+   "Color 2": "Blanco",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Multieva",
+   "Cara": "Fibrix",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Beatriz González",
+   "Jugador": "Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120492-pala-bullpadel-pearl-26-493804-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-pearl-2026",
+   "zonadepadel": "https://www.zonadepadel.es/bullpadel/13562-bullpadel-pearl-2026.html",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-bullpadel-bea-gonzalez-pearl-2026-1-1",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28072-bullpadel-pearl-2026-bullpadel-8445402895625.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10"
+  }
+ },
+ {
+  "id": "vairo-black-karbon-confort",
+  "nombre": "Vairo Black Karbon Confort",
+  "marca": "Vairo",
+  "popularidad": 31,
+  "ean": "8435536787842",
+  "caracteristicas": {
+   "Marca": "Vairo",
+   "Color": "Azul",
+   "Color 2": "Negro",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Eva",
+   "Cara": "Carbono 18k",
+   "Formato": "Normal",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Brillo",
+   "Forma": "Híbrida",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Polivalente",
+   "Jugador": "Hombre, Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/i/m/imagen_1_105773_5d531f36_846c.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/vairo-black-karbon-confort-105773-p",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-vairo-black-karbon-confort-1-1",
+   "time2padel": "https://www.time2padel.com/es/palas-vairo/12330-vairo-black-karbon-confort-vairo-8435536787842.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelmarket": "2026-10"
   }
  },
  {
@@ -1337,6 +1510,42 @@
   }
  },
  {
+  "id": "head-speed-motion-2023",
+  "nombre": "Head Speed Motion 2023",
+  "marca": "Head",
+  "popularidad": 33,
+  "ean": "0724794637579",
+  "caracteristicas": {
+   "Marca": "Head",
+   "Color 2": "Negro, Marrón",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Foam",
+   "Cara": "Carbono, Fibra De Vidrio",
+   "Formato": "Normal",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Brillo",
+   "Forma": "Lágrima",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Ari Sánchez",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/3/2/32510-head-speed-motion-2023-221023-reedicion-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/head-speed-motion-2023-32510-p",
+   "padeliberico": "https://www.padeliberico.es/head-speed-motion-2023.html",
+   "zonadepadel": "https://www.zonadepadel.es/head-padel/7819-head-speed-motion.html",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-head-speed-motion-2023"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padelmarket": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
   "id": "adidas-metalbone-carbon-2026",
   "nombre": "Adidas Metalbone Carbon 2026",
   "marca": "Adidas",
@@ -1372,70 +1581,33 @@
   }
  },
  {
-  "id": "head-speed-motion-2023",
-  "nombre": "Head Speed Motion 2023",
+  "id": "head-evo-speed-2025",
+  "nombre": "Head Evo Speed 2025",
   "marca": "Head",
-  "popularidad": 35,
-  "ean": "0724794637579",
+  "popularidad": 34,
+  "ean": "726423386018",
   "caracteristicas": {
    "Marca": "Head",
-   "Color 2": "Negro, Marrón",
+   "Color 2": "Blanco",
    "Producto": "Palas",
-   "Balance": "Alto",
+   "Balance": "Bajo",
    "Núcleo": "Foam",
-   "Cara": "Carbono, Fibra De Vidrio",
+   "Cara": "Fibra De Vidrio",
    "Formato": "Normal",
    "Dureza": "Blanda",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Brillo",
-   "Forma": "Lágrima",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Potencia",
-   "Colección Jugadores": "Ari Sánchez",
-   "Jugador": "Hombre"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/3/2/32510-head-speed-motion-2023-221023-reedicion-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/head-speed-motion-2023-32510-p",
-   "padeliberico": "https://www.padeliberico.es/head-speed-motion-2023.html",
-   "zonadepadel": "https://www.zonadepadel.es/head-padel/7819-head-speed-motion.html",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-head-speed-motion-2023"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "time2padel": "2026-10"
-  }
- },
- {
-  "id": "head-speed-pro-x-2025",
-  "nombre": "Head Speed Pro X 2025",
-  "marca": "Head",
-  "popularidad": 36,
-  "ean": "726423384793",
-  "caracteristicas": {
-   "Marca": "Head",
-   "Color 2": "Negro, Gris",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Foam",
-   "Cara": "Carbono",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
+   "Nivel de Juego": "Principiante / Intermedio",
    "Acabado": "Mate",
    "Forma": "Lágrima",
    "Superfície": "Lisa",
-   "Tipo de Juego": "Polivalente",
-   "Jugador": "Hombre"
+   "Tipo de Juego": "Polivalente"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/115666-pala-head-speed-pro-x-2025-228705-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/115660-pala-head-evo-speed-2025-226405-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-head-speed-pro-x-2025-228705",
-   "padeliberico": "https://www.padeliberico.es/head-speed-pro-x-2025.html",
-   "zonadepadel": "https://www.zonadepadel.es/head-padel/11985-head-speed-pro-x-2025.html",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-head-speed-pro-x-2025-1-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/24307-head-speed-pro-x-2025-head-726423384793.html"
+   "padelnuestro": "https://www.padelnuestro.com/pala-head-evo-speed-2025-226405",
+   "padeliberico": "https://www.padeliberico.es/head-evo-speed-2025.html",
+   "zonadepadel": "https://www.zonadepadel.es/head-padel/11657-head-evo-speed-2025.html",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-head-speed-evo-2025-1-1",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/24301-head-evo-speed-2025-head-726423386018.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
@@ -1443,39 +1615,106 @@
   }
  },
  {
-  "id": "vairo-columns-ultra",
-  "nombre": "Vairo Columns Ultra",
-  "marca": "Vairo",
-  "popularidad": 37,
-  "ean": "8435536789686",
+  "id": "babolat-counter-x-crest-2026",
+  "nombre": "Babolat Counter X-Crest 2026",
+  "marca": "Babolat",
+  "popularidad": 35,
+  "ean": "3324922508411",
   "caracteristicas": {
-   "Marca": "Vairo",
-   "Color": "Naranja",
-   "Color 2": "Negro",
+   "Marca": "Babolat",
+   "Color 2": "Negro, Blanco, Gris, Naranja",
    "Producto": "Palas",
-   "Balance": "Medio",
+   "Balance": "Bajo",
    "Núcleo": "Soft Eva",
    "Cara": "Fibra De Vidrio",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
+   "Formato": "Oversize",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Principiante / Intermedio",
    "Acabado": "Mate",
-   "Forma": "Híbrida",
+   "Forma": "Redonda",
    "Superfície": "Lisa",
-   "Tipo de Juego": "Polivalente",
-   "Jugador": "Hombre, Mujer"
+   "Tipo de Juego": "Control"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/i/m/imagen_1_108098_65b9ef83_d77c.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/5/156533-pala-babolat-counter-x-crest-155040-100-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/vairo-columns-ultra-108098-p",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-vairo-columns-ultra-1-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/12883-vairo-columns-ultra-vairo-8435536789686.html"
+   "padelnuestro": "https://www.padelnuestro.com/pala-babolat-counter-x-crest-155040-100-smu",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/35401-babolat-counter-x-crest-3324922508411.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
    "padeliberico": "2026-10",
    "zonadepadel": "2026-10",
-   "padelmarket": "2026-10"
+   "padelmarket": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "adidas-metalbone-ctrl-3-3-2024",
+  "nombre": "Adidas Metalbone Ctrl 3.3 2024",
+  "marca": "Adidas",
+  "popularidad": 36,
+  "ean": null,
+  "caracteristicas": {
+   "Marca": "Adidas",
+   "Color": "Azul",
+   "Color 2": "Negro, Azul",
+   "Producto": "Palas",
+   "Balance": "Bajo",
+   "Núcleo": "Soft Eva",
+   "Cara": "Aluminio + Carbono",
+   "Formato": "Normal",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Forma": "Redonda",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Control",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/110144_pala_adidas_metalbone_ctrl_3_3_adrk1ca0u0012f_1500x1500_vista1_48af.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/adidas-metalbone-ctrl-3-3-2024-110144-p"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelmarket": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
+  "id": "head-edge-ii-white",
+  "nombre": "Head Edge Ii White",
+  "marca": "Head",
+  "popularidad": 37,
+  "ean": "198772134419",
+  "caracteristicas": {
+   "Marca": "Head",
+   "Color 2": "Blanco",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Foam",
+   "Cara": "Fibra De Vidrio",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Principiante / Intermedio",
+   "Acabado": "Mate",
+   "Forma": "Lágrima",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Polivalente"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119307-pala-head-edge-ii-white-228665-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-head-edge-ii-white-228665-smu",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/26889-head-edge-ii-white-head-198772134419.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
   }
  },
  {
@@ -1513,49 +1752,84 @@
   }
  },
  {
-  "id": "adidas-metalbone-ctrl-3-3-2024",
-  "nombre": "Adidas Metalbone Ctrl 3.3 2024",
+  "id": "adidas-match-blue-3-4-2025",
+  "nombre": "Adidas Match Blue 3.4 2025",
   "marca": "Adidas",
   "popularidad": 38,
   "ean": null,
   "caracteristicas": {
    "Marca": "Adidas",
-   "Color": "Azul",
-   "Color 2": "Negro, Azul",
+   "Color 2": "Azul",
    "Producto": "Palas",
-   "Balance": "Bajo",
+   "Balance": "Medio",
    "Núcleo": "Soft Eva",
-   "Cara": "Aluminio + Carbono",
+   "Cara": "Fibra De Vidrio",
    "Formato": "Normal",
    "Dureza": "Blanda",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Forma": "Redonda",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Control",
-   "Jugador": "Hombre"
+   "Nivel de Juego": "Principiante / Intermedio",
+   "Acabado": "Brillo",
+   "Forma": "Híbrida",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Polivalente",
+   "Jugador": "Hombre, Mujer"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/110144_pala_adidas_metalbone_ctrl_3_3_adrk1ca0u0012f_1500x1500_vista1_48af.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/113671-pala-adidas-adidas-match-blue-3-4-ar5ga2u121500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/adidas-metalbone-ctrl-3-3-2024-110144-p"
+   "padelnuestro": "https://www.padelnuestro.com/pala-adidas-adidas-match-blue-3-4-ar5ga2u12"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
    "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
    "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
    "padelpoint": "2026-10",
    "time2padel": "2026-10"
   }
  },
  {
-  "id": "bullpadel-pearl-2026",
-  "nombre": "Bullpadel Pearl 2026",
-  "marca": "Bullpadel",
+  "id": "head-speed-pro-x-2025",
+  "nombre": "Head Speed Pro X 2025",
+  "marca": "Head",
   "popularidad": 39,
-  "ean": "8445402895625",
+  "ean": "726423384793",
+  "caracteristicas": {
+   "Marca": "Head",
+   "Color 2": "Negro, Gris",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Foam",
+   "Cara": "Carbono",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Lágrima",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Polivalente",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/115666-pala-head-speed-pro-x-2025-228705-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-head-speed-pro-x-2025-228705",
+   "padeliberico": "https://www.padeliberico.es/head-speed-pro-x-2025.html",
+   "zonadepadel": "https://www.zonadepadel.es/head-padel/11985-head-speed-pro-x-2025.html",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-head-speed-pro-x-2025-1-1",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/24307-head-speed-pro-x-2025-head-726423384793.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padelmarket": "2026-10"
+  }
+ },
+ {
+  "id": "bullpadel-hack-03-cmf-x-series",
+  "nombre": "Bullpadel Hack 03 Cmf X-Series",
+  "marca": "Bullpadel",
+  "popularidad": 40,
+  "ean": "8445402958467",
   "caracteristicas": {
    "Marca": "Bullpadel",
-   "Color 2": "Blanco",
+   "Color 2": "Negro, Gris",
    "Producto": "Palas",
    "Balance": "Alto",
    "Núcleo": "Multieva",
@@ -1565,57 +1839,20 @@
    "Nivel de Juego": "Avanzado / Competición",
    "Acabado": "Mate",
    "Forma": "Diamante",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Potencia",
-   "Colección Jugadores": "Beatriz González",
-   "Jugador": "Mujer"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120492-pala-bullpadel-pearl-26-493804-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/bullpadel-pearl-2026",
-   "zonadepadel": "https://www.zonadepadel.es/bullpadel/13562-bullpadel-pearl-2026.html",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-bullpadel-bea-gonzalez-pearl-2026-1-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28072-bullpadel-pearl-2026-bullpadel-8445402895625.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10"
-  }
- },
- {
-  "id": "vairo-everlast-cross",
-  "nombre": "Vairo Everlast Cross",
-  "marca": "Vairo",
-  "popularidad": 40,
-  "ean": "8435536787897",
-  "caracteristicas": {
-   "Marca": "Vairo",
-   "Color": "Naranja",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Medium Eva",
-   "Cara": "Carbono 18k",
-   "Formato": "Normal",
-   "Dureza": "Dura, Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Brillo",
-   "Forma": "Diamante",
    "Superfície": "Lisa",
-   "Tipo de Juego": "Control",
-   "Jugador": "Hombre"
+   "Tipo de Juego": "Potencia"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/i/m/imagen_1_105778_a295e4c6_858f.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119682-pala-bullpadel-hack-03-cmf-xseries-006-494321-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/vairo-everlast-cross-105778-p",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-vairo-everlast-cross-1-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/12335-vairo-everlast-cross-vairo-8435536787897.html"
+   "padelnuestro": "https://www.padelnuestro.com/pala-bullpadel-hack-03-cmf-xseries-006-494321-smu",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/27251-bullpadel-hack-03-cmf-x-series-8445402958467.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
    "padeliberico": "2026-10",
    "zonadepadel": "2026-10",
-   "padelmarket": "2026-10"
+   "padelmarket": "2026-10",
+   "padelpoint": "2026-10"
   }
  },
  {
@@ -1650,6 +1887,39 @@
    "padeliberico": "2026-10",
    "zonadepadel": "2026-10",
    "padelmarket": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
+  "id": "black-crown-piton-white-soft-2025",
+  "nombre": "Black Crown Piton White Soft 2025",
+  "marca": "Black Crown",
+  "popularidad": 41,
+  "ean": "8445090144005",
+  "caracteristicas": {
+   "Marca": "Black Crown",
+   "Color 2": "Blanco, Oro",
+   "Producto": "Palas",
+   "Balance": "Bajo",
+   "Cara": "Carbono",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Brillo",
+   "Forma": "Redonda",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Control"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120316-pala-black-crown-piton-white-soft-a005436-1000x1000-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-black-crown-piton-white-soft-a005436",
+   "padeliberico": "https://www.padeliberico.es/black-crown-piton-white-soft.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10",
    "time2padel": "2026-10"
   }
  },
@@ -1689,250 +1959,10 @@
   }
  },
  {
-  "id": "head-speed-pro-x-2023-221043",
-  "nombre": "Head Speed Pro X 2023 221043",
-  "marca": "Head",
-  "popularidad": 43,
-  "ean": "724794637593",
-  "caracteristicas": {
-   "Marca": "Head",
-   "Color 2": "Negro, Azul",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Foam",
-   "Cara": "Carbono 12k",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Mate",
-   "Forma": "Lágrima",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Potencia",
-   "Jugador": "Hombre"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/3/2/32512_head_speed_pro_x_202_221043_1500x1500_vista1_5836.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/head-speed-pro-x-2023-32512-p",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel-head/20571-head-speed-pro-x-2023-221043-head-724794637593.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "adidas-cross-it-light-3-4-2025",
-  "nombre": "Adidas Cross It Light 3.4 2025",
-  "marca": "Adidas",
-  "popularidad": 44,
-  "ean": "8435739402887",
-  "caracteristicas": {
-   "Marca": "Adidas",
-   "Color 2": "Negro, Blanco, Azul",
-   "Producto": "Palas",
-   "Balance": "Bajo",
-   "Núcleo": "Soft Eva",
-   "Cara": "Carbono 24k",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Forma": "Redonda",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Control",
-   "Colección Jugadores": "Marta Ortega",
-   "Jugador": "Mujer"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/113680-pala-adidas-cross-lt-light-3-4-ar1ca6u111500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-adidas-cross-lt-light-3-4-ar1ca6u11",
-   "padelmarket": "https://padelmarket.com/products/adidas-cross-it-light-3-4-2025-marta-ortega-pala",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-adidas-marta-ortega-cross-it-light-3-4-2025-1-1"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "time2padel": "2026-10"
-  }
- },
- {
-  "id": "bullpadel-hack-03-cmf-x-series",
-  "nombre": "Bullpadel Hack 03 Cmf X-Series",
-  "marca": "Bullpadel",
-  "popularidad": 45,
-  "ean": "8445402958467",
-  "caracteristicas": {
-   "Marca": "Bullpadel",
-   "Color 2": "Negro, Gris",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Multieva",
-   "Cara": "Fibrix",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Mate",
-   "Forma": "Diamante",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Potencia"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119682-pala-bullpadel-hack-03-cmf-xseries-006-494321-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-bullpadel-hack-03-cmf-xseries-006-494321-smu",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/27251-bullpadel-hack-03-cmf-x-series-8445402958467.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "babolat-counter-x-crest-2026",
-  "nombre": "Babolat Counter X-Crest 2026",
-  "marca": "Babolat",
-  "popularidad": 46,
-  "ean": "3324922508411",
-  "caracteristicas": {
-   "Marca": "Babolat",
-   "Color 2": "Negro, Blanco, Gris, Naranja",
-   "Producto": "Palas",
-   "Balance": "Bajo",
-   "Núcleo": "Soft Eva",
-   "Cara": "Fibra De Vidrio",
-   "Formato": "Oversize",
-   "Dureza": "Blanda",
-   "Nivel de Juego": "Principiante / Intermedio",
-   "Acabado": "Mate",
-   "Forma": "Redonda",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Control"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/5/156533-pala-babolat-counter-x-crest-155040-100-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-babolat-counter-x-crest-155040-100-smu",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/35401-babolat-counter-x-crest-3324922508411.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "head-extreme-edge-black",
-  "nombre": "Head Extreme Edge Black",
-  "marca": "Head",
-  "popularidad": 47,
-  "ean": "198772134396",
-  "caracteristicas": {
-   "Marca": "Head",
-   "Color 2": "Negro, Blanco",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Foam",
-   "Cara": "Carbono, Fibra De Vidrio",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición, Principiante / Intermedio",
-   "Acabado": "Mate",
-   "Forma": "Diamante",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Potencia"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119308-pala-head-extreme-edge-black-228615-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-head-extreme-edge-black-228615-smu",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/26890-head-extreme-edge-black-head-198772134396.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "head-graphene-360-alpha-power",
-  "nombre": "Head Graphene 360+ Alpha Power",
-  "marca": "Head",
-  "popularidad": 48,
-  "ean": "198772074456",
-  "caracteristicas": {
-   "Marca": "Head",
-   "Color 2": "Negro, Rojo",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Foam",
-   "Cara": "Fibra De Vidrio",
-   "Formato": "Oversize",
-   "Dureza": "Media, Blanda",
-   "Nivel de Juego": "Avanzado / Competición, Principiante / Intermedio",
-   "Acabado": "Mate",
-   "Forma": "Lágrima",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Polivalente"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119310-pala-head-graphene-360-alpha-power-228725-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-head-graphene-360-alpha-power-228725-smu",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/26892-head-graphene-360-alpha-power-head-198772074456.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "head-evo-speed-2025",
-  "nombre": "Head Evo Speed 2025",
-  "marca": "Head",
-  "popularidad": 50,
-  "ean": "726423386018",
-  "caracteristicas": {
-   "Marca": "Head",
-   "Color 2": "Blanco",
-   "Producto": "Palas",
-   "Balance": "Bajo",
-   "Núcleo": "Foam",
-   "Cara": "Fibra De Vidrio",
-   "Formato": "Normal",
-   "Dureza": "Blanda",
-   "Nivel de Juego": "Principiante / Intermedio",
-   "Acabado": "Mate",
-   "Forma": "Lágrima",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Polivalente"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/115660-pala-head-evo-speed-2025-226405-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-head-evo-speed-2025-226405",
-   "padeliberico": "https://www.padeliberico.es/head-evo-speed-2025.html",
-   "zonadepadel": "https://www.zonadepadel.es/head-padel/11657-head-evo-speed-2025.html",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-head-speed-evo-2025-1-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/24301-head-evo-speed-2025-head-726423386018.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padelmarket": "2026-10"
-  }
- },
- {
   "id": "vairo-everlast-speed",
   "nombre": "Vairo Everlast Speed",
   "marca": "Vairo",
-  "popularidad": 51,
+  "popularidad": 43,
   "ean": "8435536787903",
   "caracteristicas": {
    "Marca": "Vairo",
@@ -1965,10 +1995,223 @@
   }
  },
  {
+  "id": "head-extreme-pro",
+  "nombre": "Head Extreme Pro",
+  "marca": "Head",
+  "popularidad": 44,
+  "ean": "724794702253",
+  "caracteristicas": {
+   "Marca": "Head",
+   "Color": "Gris",
+   "Color 2": "Negro, Verde",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Foam",
+   "Cara": "Carbono, Fibra De Vidrio",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Brillo",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Arturo Coello",
+   "Jugador": "Hombre, Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/110105_pala_head_extreme_pro_2023_223013_1500x1500_vista1_63c9.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/head-extreme-pro-110105-p",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/20699-head-extreme-pro-head-724794702253.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "zonadepadel": "2026-10",
+   "padelmarket": "2026-10",
+   "padeliberico": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "bullpadel-xplo-26",
+  "nombre": "Bullpadel Xplo 26",
+  "marca": "Bullpadel",
+  "popularidad": 45,
+  "ean": "8445402974078",
+  "caracteristicas": {
+   "Marca": "Bullpadel",
+   "Color 2": "Negro",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Multieva",
+   "Cara": "Carbono 12k",
+   "Formato": "Normal",
+   "Dureza": "Dura, Media",
+   "Nivel de Juego": "Profesional",
+   "Acabado": "Brillo",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Martin Di Nenno",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120920-pala-bullpadel-xplo-26-494400-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-xplo-26",
+   "padelmarket": "https://padelmarket.com/products/bullpadel-xplo-2026-martin-di-nenno-pala",
+   "zonadepadel": "https://www.zonadepadel.es/bullpadel/13559-bullpadel-xplo-2026.html",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28842-bullpadel-xplo-26-bullpadel-8445402974078.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "bullpadel-game-ctr-gris-oscuro",
+  "nombre": "Bullpadel Game Ctr Gris Oscuro",
+  "marca": "Bullpadel",
+  "popularidad": 46,
+  "ean": "8445402898275",
+  "caracteristicas": {
+   "Marca": "Bullpadel",
+   "Color 2": "Gris",
+   "Producto": "Palas",
+   "Balance": "Bajo",
+   "Núcleo": "Soft Eva",
+   "Cara": "Fibra De Vidrio",
+   "Formato": "Normal",
+   "Dureza": "Media, Blanda",
+   "Nivel de Juego": "Profesional",
+   "Acabado": "Mate",
+   "Forma": "Redonda",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Control"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119678-pala-bullpadel-game-ctr-006-494316-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-bullpadel-game-ctr-006-494316-smu",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/27247-bullpadel-game-ctr-gris-oscuro-bullpadel-8445402898275.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelmarket": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "babolat-technical-viper-3-0",
+  "nombre": "Babolat Technical Viper 3.0",
+  "marca": "Babolat",
+  "popularidad": 47,
+  "ean": null,
+  "caracteristicas": {
+   "Marca": "Babolat",
+   "Color 2": "Negro, Rojo",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Eva",
+   "Cara": "Carbono 3k",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición, Profesional",
+   "Acabado": "Mate",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121769-pala-babolat-technical-viper-150175-100-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-babolat-technical-viper-150175-100"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
+  "id": "vairo-everlast-cross",
+  "nombre": "Vairo Everlast Cross",
+  "marca": "Vairo",
+  "popularidad": 48,
+  "ean": "8435536787897",
+  "caracteristicas": {
+   "Marca": "Vairo",
+   "Color": "Naranja",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Medium Eva",
+   "Cara": "Carbono 18k",
+   "Formato": "Normal",
+   "Dureza": "Dura, Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Brillo",
+   "Forma": "Diamante",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Control",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/i/m/imagen_1_105778_a295e4c6_858f.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/vairo-everlast-cross-105778-p",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-vairo-everlast-cross-1-1",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/12335-vairo-everlast-cross-vairo-8435536787897.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelmarket": "2026-10"
+  }
+ },
+ {
+  "id": "vairo-everlast-confort",
+  "nombre": "Vairo Everlast Confort",
+  "marca": "Vairo",
+  "popularidad": 49,
+  "ean": "8435536787880",
+  "caracteristicas": {
+   "Marca": "Vairo",
+   "Color": "Naranja",
+   "Color 2": "Negro",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Eva Soft 30",
+   "Cara": "Carbono 6k",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Brillo",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Jugador": "Hombre, Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/0/105777_pala_vairo_everlast_confort_2023_1200x1200_vista1_38a4.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/vairo-everlast-confort-105777-p",
+   "time2padel": "https://www.time2padel.com/es/palas-vairo/12334-vairo-everlast-confort-vairo-8435536787880.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelmarket": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
   "id": "head-extreme-motion-2023",
   "nombre": "Head Extreme Motion 2023",
   "marca": "Head",
-  "popularidad": 52,
+  "popularidad": 50,
   "ean": "0724794702260",
   "caracteristicas": {
    "Marca": "Head",
@@ -2002,32 +2245,30 @@
   }
  },
  {
-  "id": "vairo-everlast-confort",
-  "nombre": "Vairo Everlast Confort",
-  "marca": "Vairo",
-  "popularidad": 53,
-  "ean": "8435536787880",
+  "id": "head-graphene-360-alpha-power",
+  "nombre": "Head Graphene 360+ Alpha Power",
+  "marca": "Head",
+  "popularidad": 51,
+  "ean": "198772074456",
   "caracteristicas": {
-   "Marca": "Vairo",
-   "Color": "Naranja",
-   "Color 2": "Negro",
+   "Marca": "Head",
+   "Color 2": "Negro, Rojo",
    "Producto": "Palas",
    "Balance": "Medio",
-   "Núcleo": "Eva Soft 30",
-   "Cara": "Carbono 6k",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Brillo",
-   "Forma": "Diamante",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Potencia",
-   "Jugador": "Hombre, Mujer"
+   "Núcleo": "Foam",
+   "Cara": "Fibra De Vidrio",
+   "Formato": "Oversize",
+   "Dureza": "Media, Blanda",
+   "Nivel de Juego": "Avanzado / Competición, Principiante / Intermedio",
+   "Acabado": "Mate",
+   "Forma": "Lágrima",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Polivalente"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/0/105777_pala_vairo_everlast_confort_2023_1200x1200_vista1_38a4.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119310-pala-head-graphene-360-alpha-power-228725-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/vairo-everlast-confort-105777-p",
-   "time2padel": "https://www.time2padel.com/es/palas-vairo/12334-vairo-everlast-confort-vairo-8435536787880.html"
+   "padelnuestro": "https://www.padelnuestro.com/pala-head-graphene-360-alpha-power-228725-smu",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/26892-head-graphene-360-alpha-power-head-198772074456.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
@@ -2035,6 +2276,76 @@
    "zonadepadel": "2026-10",
    "padelmarket": "2026-10",
    "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "wilson-bela-pro-padel-v2-5",
+  "nombre": "Wilson Bela Pro Padel V2.5",
+  "marca": "Wilson",
+  "popularidad": 52,
+  "ean": null,
+  "caracteristicas": {
+   "Marca": "Wilson",
+   "Color 2": "Rojo",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Eva",
+   "Cara": "Carbono 3k",
+   "Formato": "Normal",
+   "Dureza": "Dura",
+   "Nivel de Juego": "Profesional",
+   "Acabado": "Mate",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Polivalente",
+   "Colección Jugadores": "Fernando Belasteguín",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/111818_pala_wilson_bela_pro_padel_v2_5_wr161511f2_1500x1500_1_a963.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/wilson-bela-pro-padel-v2-5-111818-p",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-wilson-bela-pro-v2-5-1-1"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelmarket": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
+  "id": "bullpadel-ionic-control-26",
+  "nombre": "Bullpadel Ionic Control 26",
+  "marca": "Bullpadel",
+  "popularidad": 53,
+  "ean": "8445402975143",
+  "caracteristicas": {
+   "Marca": "Bullpadel",
+   "Color 2": "Multicolor",
+   "Producto": "Palas",
+   "Balance": "Bajo",
+   "Núcleo": "Multieva",
+   "Cara": "Glaphite",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Principiante / Intermedio",
+   "Acabado": "Mate",
+   "Forma": "Redonda",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Control"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120904-pala-bullpadel-ionic-control-26-494412-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-ionic-control-26",
+   "padelmarket": "https://padelmarket.com/products/bullpadel-ionic-control-2026-pala",
+   "zonadepadel": "https://www.zonadepadel.es/bullpadel/13574-bullpadel-ionic-control-2026.html",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-bullpadel-ionic-control-2026-1",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28826-bullpadel-ionic-control-26-bullpadel-8445402975143.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10"
   }
  },
  {
@@ -2074,30 +2385,241 @@
   }
  },
  {
-  "id": "bullpadel-game-ctr-gris-oscuro",
-  "nombre": "Bullpadel Game Ctr Gris Oscuro",
-  "marca": "Bullpadel",
+  "id": "drop-shot-canyon-pro-attack-2-0",
+  "nombre": "Drop Shot Canyon Pro Attack 2.0",
+  "marca": "Drop Shot",
   "popularidad": 54,
-  "ean": "8445402898275",
+  "ean": null,
   "caracteristicas": {
-   "Marca": "Bullpadel",
-   "Color 2": "Gris",
+   "Marca": "Drop Shot",
+   "Color 2": "Negro",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Eva Pro High Density",
+   "Cara": "Carbono 24k",
+   "Formato": "Normal",
+   "Dureza": "Dura",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Brillo",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/124169-pala-drop-shot-canyon-pro-attack-2-0-dp344015-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-drop-shot-canyon-pro-attack-2-0-dp344015"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
+  "id": "wilson-optix-v1-white-padel-2",
+  "nombre": "Wilson Optix V1 White Padel 2",
+  "marca": "Wilson",
+  "popularidad": 55,
+  "ean": "097512894937",
+  "caracteristicas": {
+   "Marca": "Wilson",
+   "Color 2": "Negro, Blanco, Verde",
    "Producto": "Palas",
    "Balance": "Bajo",
    "Núcleo": "Soft Eva",
    "Cara": "Fibra De Vidrio",
    "Formato": "Normal",
-   "Dureza": "Media, Blanda",
-   "Nivel de Juego": "Profesional",
-   "Acabado": "Mate",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Principiante / Intermedio",
+   "Acabado": "Brillo",
    "Forma": "Redonda",
    "Superfície": "Lisa",
-   "Tipo de Juego": "Control"
+   "Tipo de Juego": "Control",
+   "Jugador": "Hombre"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119678-pala-bullpadel-game-ctr-006-494316-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/116261-pala-wilson-optix-v1-white-padel-2-wr181711u2-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-bullpadel-game-ctr-006-494316-smu",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/27247-bullpadel-game-ctr-gris-oscuro-bullpadel-8445402898275.html"
+   "padelnuestro": "https://www.padelnuestro.com/wilson-optix-v1-white-padel-2-wr181711u2",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/24594-wilson-optix-v1-white-padel-2-wilson-097512894937.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "head-coello-team-2025",
+  "nombre": "Head Coello Team 2025",
+  "marca": "Head",
+  "popularidad": 56,
+  "ean": "198772015756",
+  "caracteristicas": {
+   "Marca": "Head",
+   "Color 2": "Negro, Rojo",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Foam",
+   "Cara": "Fibra De Vidrio",
+   "Formato": "Normal",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Avanzado / Competición, Principiante / Intermedio",
+   "Acabado": "Brillo",
+   "Forma": "Diamante",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Polivalente",
+   "Colección Jugadores": "Arturo Coello",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/115658-pala-head-coello-team-2025-225035-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-head-coello-team-2025-225035",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-head-arturo-coello-team-2025-1-1",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/24299-head-coello-team-2025-head-198772015756.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10"
+  }
+ },
+ {
+  "id": "bullpadel-vertex-05-woman",
+  "nombre": "Bullpadel Vertex 05 Woman",
+  "marca": "Bullpadel",
+  "popularidad": 57,
+  "ean": "8445402974061",
+  "caracteristicas": {
+   "Marca": "Bullpadel",
+   "Producto": "Palas",
+   "Balance": "Alto, Medio",
+   "Núcleo": "Multieva",
+   "Cara": "Fibrix",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Polivalente",
+   "Colección Jugadores": "Delfi Brea Senesi"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120914-pala-bullpadel-vertex-05-w-494399-mujer-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-vertex-05-w-mujer",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28836-bullpadel-vertex-05-woman-bullpadel-8445402974061.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "vairo-columns-ultra",
+  "nombre": "Vairo Columns Ultra",
+  "marca": "Vairo",
+  "popularidad": 58,
+  "ean": "8435536789686",
+  "caracteristicas": {
+   "Marca": "Vairo",
+   "Color": "Naranja",
+   "Color 2": "Negro",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Soft Eva",
+   "Cara": "Fibra De Vidrio",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Híbrida",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Polivalente",
+   "Jugador": "Hombre, Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/i/m/imagen_1_108098_65b9ef83_d77c.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/vairo-columns-ultra-108098-p",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-vairo-columns-ultra-1-1",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/12883-vairo-columns-ultra-vairo-8435536789686.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelmarket": "2026-10"
+  }
+ },
+ {
+  "id": "babolat-viper-juan-lebron-3-0",
+  "nombre": "Babolat Viper Juan Lebron 3.0",
+  "marca": "Babolat",
+  "popularidad": 59,
+  "ean": null,
+  "caracteristicas": {
+   "Marca": "Babolat",
+   "Color 2": "Azul, Verde",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Eva",
+   "Cara": "Carbono 3k",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Profesional",
+   "Acabado": "Brillo",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Juan Lebrón",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121772-pala-babolat-viper-juan-lebron-fw-150187-100-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-babolat-viper-juan-lebron-fw-150187-100"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelmarket": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
+  "id": "head-extreme-edge-black",
+  "nombre": "Head Extreme Edge Black",
+  "marca": "Head",
+  "popularidad": 60,
+  "ean": "198772134396",
+  "caracteristicas": {
+   "Marca": "Head",
+   "Color 2": "Negro, Blanco",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Foam",
+   "Cara": "Carbono, Fibra De Vidrio",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición, Principiante / Intermedio",
+   "Acabado": "Mate",
+   "Forma": "Diamante",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Potencia"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119308-pala-head-extreme-edge-black-228615-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-head-extreme-edge-black-228615-smu",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/26890-head-extreme-edge-black-head-198772134396.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
@@ -2108,10 +2630,45 @@
   }
  },
  {
+  "id": "head-speed-pro-2025",
+  "nombre": "Head Speed Pro 2025",
+  "marca": "Head",
+  "popularidad": 61,
+  "ean": "726423385981",
+  "caracteristicas": {
+   "Marca": "Head",
+   "Color 2": "Negro",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Foam",
+   "Cara": "Carbono, Fibra De Vidrio",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Lágrima",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Polivalente",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/115665-pala-head-speed-pro-2025-221065-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-head-speed-pro-2025-221065",
+   "padeliberico": "https://www.padeliberico.es/head-speed-pro-2025.html",
+   "zonadepadel": "https://www.zonadepadel.es/head-padel/11584-head-speed-pro-2025.html",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-head-speed-pro-2025-1-1",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/24306-head-speed-pro-2025-head-726423385981.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padelmarket": "2026-10"
+  }
+ },
+ {
   "id": "siux-electra-st3-go",
   "nombre": "Siux Electra St3 Go",
   "marca": "Siux",
-  "popularidad": 55,
+  "popularidad": 62,
   "ean": "8435536793539",
   "caracteristicas": {
    "Marca": "Siux",
@@ -2145,344 +2702,66 @@
   }
  },
  {
-  "id": "adidas-metalbone-ctrl-2026",
-  "nombre": "Adidas Metalbone Ctrl 2026",
-  "marca": "Adidas",
-  "popularidad": 56,
-  "ean": "8435739405819",
+  "id": "nox-pro-cup-coorp-miguel-lamperti-2027",
+  "nombre": "Nox Pro Cup Coorp Miguel Lamperti 2027",
+  "marca": "Nox",
+  "popularidad": 63,
+  "ean": "8435778915799",
   "caracteristicas": {
-   "Marca": "Adidas",
-   "Color 2": "Negro, Blanco",
+   "Marca": "Nox",
+   "Color 2": "Blanco, Rojo",
    "Producto": "Palas",
-   "Balance": "Bajo",
-   "Núcleo": "Eva Soft Performance",
-   "Cara": "Carbono 16k",
+   "Balance": "Medio",
+   "Núcleo": "Hr3 Core",
+   "Cara": "Fibra De Vidrio",
    "Formato": "Normal",
    "Dureza": "Blanda",
    "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Brillo",
+   "Acabado": "Mate",
    "Forma": "Redonda",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Control"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120471-pala-adidas-metalbone-ctrl-2026-ar1cb0u22-1200x1200-1.jpg?optimize=high&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220&amp;canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/adidas-metalbone-ctrl-2026",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28105-adidas-metalbone-ctrl-2026-adidas-8435739405819.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "babolat-viper-juan-lebron-3-0",
-  "nombre": "Babolat Viper Juan Lebron 3.0",
-  "marca": "Babolat",
-  "popularidad": 56,
-  "ean": null,
-  "caracteristicas": {
-   "Marca": "Babolat",
-   "Color 2": "Azul, Verde",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Eva",
-   "Cara": "Carbono 3k",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Profesional",
-   "Acabado": "Brillo",
-   "Forma": "Diamante",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Potencia",
-   "Colección Jugadores": "Juan Lebrón",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Control",
+   "Colección Jugadores": "Miguel Lamperti",
    "Jugador": "Hombre"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121772-pala-babolat-viper-juan-lebron-fw-150187-100-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/6/162316-pala-nox-ml10-pro-cup-corp-by-miguel-lamperti-papcupcop27-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-babolat-viper-juan-lebron-fw-150187-100"
+   "padelnuestro": "https://www.padelnuestro.com/nox-pro-cup-coorp-miguel-lamperti-162316-p",
+   "padelmarket": "https://padelmarket.com/products/nox-ml10-pro-cup-coorp-2027-by-miguel-lamperti-pala",
+   "zonadepadel": "https://www.zonadepadel.es/nox/16302-nox-ml10-pro-cup-coorp-by-miguel-lamperti-2027.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
    "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
    "padelpoint": "2026-10",
    "time2padel": "2026-10"
   }
  },
  {
-  "id": "siux-trilogy-pro-5-2025",
-  "nombre": "Siux Trilogy Pro 5 2025",
-  "marca": "Siux",
-  "popularidad": 57,
-  "ean": "8435762902781",
-  "caracteristicas": {
-   "Marca": "Siux",
-   "Color 2": "Negro, Verde",
-   "Producto": "Palas",
-   "Balance": "Bajo",
-   "Núcleo": "Eva",
-   "Cara": "Carbono",
-   "Formato": "Normal",
-   "Dureza": "Dura",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Brillo",
-   "Forma": "Redonda",
-   "Superfície": "3d",
-   "Tipo de Juego": "Control, Potencia",
-   "Colección Jugadores": "Patty Llaguno",
-   "Jugador": "Mujer"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/112655-siux-trilogy-pro-5-reedicion-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/siux-trilogy-pro-5",
-   "padeliberico": "https://www.padeliberico.es/siux-trilogy-pro-5-2025.html",
-   "padelmarket": "https://padelmarket.com/products/siux-trilogy-pro-5-2025-pala",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-siux-trilogy-pro-5-2025-1-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/22610-siux-trilogy-pro-5-2025-siux-8435762902781.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "zonadepadel": "2026-10"
-  }
- },
- {
-  "id": "head-coello-team-2025",
-  "nombre": "Head Coello Team 2025",
-  "marca": "Head",
-  "popularidad": 58,
-  "ean": "198772015756",
-  "caracteristicas": {
-   "Marca": "Head",
-   "Color 2": "Negro, Rojo",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Foam",
-   "Cara": "Fibra De Vidrio",
-   "Formato": "Normal",
-   "Dureza": "Blanda",
-   "Nivel de Juego": "Avanzado / Competición, Principiante / Intermedio",
-   "Acabado": "Brillo",
-   "Forma": "Diamante",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Polivalente",
-   "Colección Jugadores": "Arturo Coello",
-   "Jugador": "Hombre"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/115658-pala-head-coello-team-2025-225035-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-head-coello-team-2025-225035",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-head-arturo-coello-team-2025-1-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/24299-head-coello-team-2025-head-198772015756.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10"
-  }
- },
- {
-  "id": "head-extreme-edge-white",
-  "nombre": "Head Extreme Edge White",
-  "marca": "Head",
-  "popularidad": 59,
-  "ean": "198772134402",
-  "caracteristicas": {
-   "Marca": "Head",
-   "Color 2": "Negro, Blanco, Oro",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Foam",
-   "Cara": "Carbono, Fibra De Vidrio",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición, Principiante / Intermedio",
-   "Acabado": "Mate",
-   "Forma": "Diamante",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Potencia"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119309-pala-head-extreme-edge-white-228625-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-head-extreme-edge-white-228625-smu",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/26891-head-extreme-edge-white-head-198772134402.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "wilson-bela-pro-padel-v2-5",
-  "nombre": "Wilson Bela Pro Padel V2.5",
-  "marca": "Wilson",
-  "popularidad": 60,
-  "ean": null,
-  "caracteristicas": {
-   "Marca": "Wilson",
-   "Color 2": "Rojo",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Eva",
-   "Cara": "Carbono 3k",
-   "Formato": "Normal",
-   "Dureza": "Dura",
-   "Nivel de Juego": "Profesional",
-   "Acabado": "Mate",
-   "Forma": "Diamante",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Polivalente",
-   "Colección Jugadores": "Fernando Belasteguín",
-   "Jugador": "Hombre"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/111818_pala_wilson_bela_pro_padel_v2_5_wr161511f2_1500x1500_1_a963.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/wilson-bela-pro-padel-v2-5-111818-p",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-wilson-bela-pro-v2-5-1-1"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "time2padel": "2026-10"
-  }
- },
- {
-  "id": "head-edge-ii-white",
-  "nombre": "Head Edge Ii White",
-  "marca": "Head",
-  "popularidad": 61,
-  "ean": "198772134419",
-  "caracteristicas": {
-   "Marca": "Head",
-   "Color 2": "Blanco",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Foam",
-   "Cara": "Fibra De Vidrio",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Principiante / Intermedio",
-   "Acabado": "Mate",
-   "Forma": "Lágrima",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Polivalente"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119307-pala-head-edge-ii-white-228665-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-head-edge-ii-white-228665-smu",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/26889-head-edge-ii-white-head-198772134419.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "nox-x-zero-red",
-  "nombre": "Nox X-Zero Red",
-  "marca": "Nox",
-  "popularidad": 62,
-  "ean": "8435778902799",
-  "caracteristicas": {
-   "Marca": "Nox",
-   "Color 2": "Rojo",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Eva Hr3",
-   "Cara": "Fiber Glass 3k",
-   "Formato": "Normal",
-   "Dureza": "Blanda",
-   "Nivel de Juego": "Principiante / Intermedio",
-   "Acabado": "Mate",
-   "Forma": "Redonda",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Polivalente",
-   "Jugador": "Hombre, Mujer"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120986-pala-nox-x-zero-red-pxzerore-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/nox-x-zero-red",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28937-nox-x-zero-red-nox-8435778902799.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "head-edge-ii-black",
-  "nombre": "Head Edge Ii Black",
-  "marca": "Head",
-  "popularidad": 63,
-  "ean": "198772134426",
-  "caracteristicas": {
-   "Marca": "Head",
-   "Color 2": "Negro",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Foam",
-   "Cara": "Fibra De Vidrio",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Principiante / Intermedio",
-   "Acabado": "Mate",
-   "Forma": "Lágrima",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Polivalente"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119306-pala-head-edge-ii-black-228675-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-head-edge-ii-black-228675-smu",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/26888-head-edge-ii-black-head-198772134426.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "bullpadel-vertex-05-woman",
-  "nombre": "Bullpadel Vertex 05 Woman",
+  "id": "bullpadel-vertex-advance",
+  "nombre": "Bullpadel Vertex Advance",
   "marca": "Bullpadel",
   "popularidad": 64,
-  "ean": "8445402974061",
+  "ean": "8445402975167",
   "caracteristicas": {
    "Marca": "Bullpadel",
+   "Color 2": "Negro, Naranja",
    "Producto": "Palas",
-   "Balance": "Alto, Medio",
+   "Balance": "Alto",
    "Núcleo": "Multieva",
-   "Cara": "Fibrix",
+   "Cara": "Glaphite",
    "Formato": "Normal",
    "Dureza": "Media",
    "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
    "Forma": "Diamante",
    "Superfície": "Rugosa",
-   "Tipo de Juego": "Polivalente",
-   "Colección Jugadores": "Delfi Brea Senesi"
+   "Tipo de Juego": "Potencia"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120914-pala-bullpadel-vertex-05-w-494399-mujer-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120916-pala-bullpadel-vertex-advance-494414-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/bullpadel-vertex-05-w-mujer",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28836-bullpadel-vertex-05-woman-bullpadel-8445402974061.html"
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-vertex-advance",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28838-bullpadel-vertex-advance-bullpadel-8445402975167.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
@@ -2528,102 +2807,134 @@
   }
  },
  {
-  "id": "drop-shot-canyon-pro-attack-2-0",
-  "nombre": "Drop Shot Canyon Pro Attack 2.0",
-  "marca": "Drop Shot",
-  "popularidad": 66,
+  "id": "adidas-match-black-3-4-2025",
+  "nombre": "Adidas Match Black 3.4 2025",
+  "marca": "Adidas",
+  "popularidad": 65,
   "ean": null,
   "caracteristicas": {
-   "Marca": "Drop Shot",
-   "Color 2": "Negro",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Eva Pro High Density",
-   "Cara": "Carbono 24k",
-   "Formato": "Normal",
-   "Dureza": "Dura",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Brillo",
-   "Forma": "Diamante",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Potencia",
-   "Jugador": "Hombre"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/124169-pala-drop-shot-canyon-pro-attack-2-0-dp344015-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-drop-shot-canyon-pro-attack-2-0-dp344015"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
-  }
- },
- {
-  "id": "babolat-technical-viper-3-0",
-  "nombre": "Babolat Technical Viper 3.0",
-  "marca": "Babolat",
-  "popularidad": 67,
-  "ean": null,
-  "caracteristicas": {
-   "Marca": "Babolat",
-   "Color 2": "Negro, Rojo",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Eva",
-   "Cara": "Carbono 3k",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición, Profesional",
-   "Acabado": "Mate",
-   "Forma": "Diamante",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Potencia",
-   "Jugador": "Hombre"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121769-pala-babolat-technical-viper-150175-100-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-babolat-technical-viper-150175-100"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
-  }
- },
- {
-  "id": "dunlop-infinity-pro-g1-hl-black",
-  "nombre": "Dunlop Infinity Pro G1 Hl Black",
-  "marca": "Dunlop",
-  "popularidad": 68,
-  "ean": "045566302656",
-  "caracteristicas": {
-   "Marca": "Dunlop",
-   "Color": "Negro",
-   "Color 2": "Negro",
+   "Marca": "Adidas",
+   "Color 2": "Negro, Naranja",
    "Producto": "Palas",
    "Balance": "Medio",
-   "Núcleo": "Medium Eva",
-   "Cara": "Carbono",
+   "Núcleo": "Soft Eva",
+   "Cara": "Fibra De Vidrio",
    "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Mate",
-   "Forma": "Lágrima",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Principiante / Intermedio",
+   "Acabado": "Brillo",
+   "Forma": "Híbrida",
    "Superfície": "Lisa",
    "Tipo de Juego": "Polivalente",
    "Jugador": "Hombre, Mujer"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/2/9/29697-pala-dunlop-infinity-pro-g1-hl-black-623970-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/113670-pala-adidas-adidas-match-black-3-4-ar5ga0u101500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/dunlop-infinity-pro-g1-hl-black-29697-p",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/9970-dunlop-infinity-pro-g1-hl-black-dunlop-045566302656.html"
+   "padelnuestro": "https://www.padelnuestro.com/pala-adidas-adidas-match-black-3-4-ar5ga0u10"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
+  "id": "head-extreme-edge-white",
+  "nombre": "Head Extreme Edge White",
+  "marca": "Head",
+  "popularidad": 66,
+  "ean": "198772134402",
+  "caracteristicas": {
+   "Marca": "Head",
+   "Color 2": "Negro, Blanco, Oro",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Foam",
+   "Cara": "Carbono, Fibra De Vidrio",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición, Principiante / Intermedio",
+   "Acabado": "Mate",
+   "Forma": "Diamante",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Potencia"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119309-pala-head-extreme-edge-white-228625-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-head-extreme-edge-white-228625-smu",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/26891-head-extreme-edge-white-head-198772134402.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelmarket": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "bullpadel-discover-pwr",
+  "nombre": "Bullpadel Discover Pwr",
+  "marca": "Bullpadel",
+  "popularidad": 67,
+  "ean": "8445402833368",
+  "caracteristicas": {
+   "Marca": "Bullpadel",
+   "Color 2": "Azul",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Soft Eva",
+   "Cara": "Fibra De Vidrio",
+   "Formato": "Normal",
+   "Dureza": "Media, Blanda",
+   "Nivel de Juego": "Principiante / Intermedio",
+   "Acabado": "Mate",
+   "Forma": "Diamante",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Potencia"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120379-pala-bullpadel-discover-pwr-476580-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-bullpadel-discover-pwr-476580",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/27965-bullpadel-discover-pwr-bullpadel-8445402833368.html"
+  },
+  "alta": "2026-10-19",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "nox-x-zero-red",
+  "nombre": "Nox X-Zero Red",
+  "marca": "Nox",
+  "popularidad": 69,
+  "ean": "8435778902799",
+  "caracteristicas": {
+   "Marca": "Nox",
+   "Color 2": "Rojo",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Eva Hr3",
+   "Cara": "Fiber Glass 3k",
+   "Formato": "Normal",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Principiante / Intermedio",
+   "Acabado": "Mate",
+   "Forma": "Redonda",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Polivalente",
+   "Jugador": "Hombre, Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120986-pala-nox-x-zero-red-pxzerore-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/nox-x-zero-red",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28937-nox-x-zero-red-nox-8435778902799.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
@@ -2634,70 +2945,39 @@
   }
  },
  {
-  "id": "black-crown-piton-white-soft-2025",
-  "nombre": "Black Crown Piton White Soft 2025",
-  "marca": "Black Crown",
-  "popularidad": 69,
-  "ean": "8445090144005",
-  "caracteristicas": {
-   "Marca": "Black Crown",
-   "Color 2": "Blanco, Oro",
-   "Producto": "Palas",
-   "Balance": "Bajo",
-   "Cara": "Carbono",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Brillo",
-   "Forma": "Redonda",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Control"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120316-pala-black-crown-piton-white-soft-a005436-1000x1000-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-black-crown-piton-white-soft-a005436",
-   "padeliberico": "https://www.padeliberico.es/black-crown-piton-white-soft.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
-  }
- },
- {
-  "id": "bullpadel-ionic-control-26",
-  "nombre": "Bullpadel Ionic Control 26",
-  "marca": "Bullpadel",
+  "id": "siux-diablo-pro-royal-blue-2026",
+  "nombre": "Siux Diablo Pro Royal Blue 2026",
+  "marca": "Siux",
   "popularidad": 70,
-  "ean": "8445402975143",
+  "ean": "8436625200389",
   "caracteristicas": {
-   "Marca": "Bullpadel",
-   "Color 2": "Multicolor",
+   "Marca": "Siux",
+   "Color 2": "Azul Marino",
    "Producto": "Palas",
-   "Balance": "Bajo",
-   "Núcleo": "Multieva",
-   "Cara": "Glaphite",
+   "Balance": "Medio",
+   "Núcleo": "Eva",
+   "Cara": "Carbono 24k",
    "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Principiante / Intermedio",
+   "Dureza": "Dura, Media",
+   "Nivel de Juego": "Profesional",
    "Acabado": "Mate",
-   "Forma": "Redonda",
+   "Forma": "Lágrima",
    "Superfície": "Rugosa",
-   "Tipo de Juego": "Control"
+   "Tipo de Juego": "Polivalente",
+   "Colección Jugadores": "Tino Libaak",
+   "Jugador": "Hombre"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120904-pala-bullpadel-ionic-control-26-494412-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121745-pala-siux-diablo-pro-2026-royal-blue-200041-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/bullpadel-ionic-control-26",
-   "padelmarket": "https://padelmarket.com/products/bullpadel-ionic-control-2026-pala",
-   "zonadepadel": "https://www.zonadepadel.es/bullpadel/13574-bullpadel-ionic-control-2026.html",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-bullpadel-ionic-control-2026-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28826-bullpadel-ionic-control-26-bullpadel-8445402975143.html"
+   "padelnuestro": "https://www.padelnuestro.com/pala-siux-diablo-pro-2026-royal-blue-200041",
+   "padeliberico": "https://www.padeliberico.es/siux-diablo-pro-royal-blue-2026.html",
+   "padelmarket": "https://padelmarket.com/products/siux-diablo-pro-2026-royal-blue-pala",
+   "zonadepadel": "https://www.zonadepadel.es/siux/13930-siux-diablo-pro-royal-blue-2026.html",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/29562-siux-diablo-pro-royal-blue-2026-siux-8436625200389.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10"
+   "padelpoint": "2026-10"
   }
  },
  {
@@ -2774,7 +3054,7 @@
   "id": "black-crown-piton",
   "nombre": "Black Crown Piton",
   "marca": "Black Crown",
-  "popularidad": 72,
+  "popularidad": 71,
   "ean": "8436572000025",
   "caracteristicas": {
    "Marca": "Black Crown",
@@ -2807,14 +3087,14 @@
   }
  },
  {
-  "id": "adidas-match-blue-3-4-2025",
-  "nombre": "Adidas Match Blue 3.4 2025",
+  "id": "adidas-match-light-3-4-2025",
+  "nombre": "Adidas Match Light 3.4 2025",
   "marca": "Adidas",
-  "popularidad": 73,
+  "popularidad": 72,
   "ean": null,
   "caracteristicas": {
    "Marca": "Adidas",
-   "Color 2": "Azul",
+   "Color 2": "Blanco, Rojo",
    "Producto": "Palas",
    "Balance": "Medio",
    "Núcleo": "Soft Eva",
@@ -2825,20 +3105,90 @@
    "Acabado": "Brillo",
    "Forma": "Híbrida",
    "Superfície": "Lisa",
-   "Tipo de Juego": "Polivalente",
-   "Jugador": "Hombre, Mujer"
+   "Tipo de Juego": "Polivalente"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/113671-pala-adidas-adidas-match-blue-3-4-ar5ga2u121500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/113672-pala-adidas-adidas-match-light-3-4-ar5ga1u111500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-adidas-adidas-match-blue-3-4-ar5ga2u12"
+   "padelnuestro": "https://www.padelnuestro.com/pala-adidas-adidas-match-light-3-4-ar5ga1u11"
   },
-  "alta": "2026-10-13",
+  "alta": "2026-10-19",
   "urls_descartadas": {
    "padeliberico": "2026-10",
    "padelmarket": "2026-10",
    "zonadepadel": "2026-10",
    "padelpoint": "2026-10",
    "time2padel": "2026-10"
+  }
+ },
+ {
+  "id": "nox-genius-18k-alum-by-agustin-tapia-2027",
+  "nombre": "Nox Genius 18K Alum By Agustin Tapia 2027",
+  "marca": "Nox",
+  "popularidad": 73,
+  "ean": "8435778915690",
+  "caracteristicas": {
+   "Marca": "Nox",
+   "Color 2": "Gris, Plateado",
+   "Producto": "Palas",
+   "Balance": "Alto, Medio, Bajo",
+   "Núcleo": "Black Eva",
+   "Cara": "Carbono 18k, Aluminio + Carbono, Fibra De Carbono",
+   "Formato": "Normal",
+   "Dureza": "Dura, Media",
+   "Nivel de Juego": "Profesional",
+   "Acabado": "Mate",
+   "Forma": "Lágrima",
+   "Superfície": "3d, Arenosa",
+   "Tipo de Juego": "Polivalente",
+   "Colección Jugadores": "Agustín Tapia"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/6/162304-pagenius1827-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-nox-genius-18k-alum-by-agustin-tapia-pagenius1827-162304-p",
+   "zonadepadel": "https://www.zonadepadel.es/nox/16289-nox-genius-18k-alum-by-agustin-tapia-2027.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
+  "id": "dunlop-infinity-pro-g1-hl-black",
+  "nombre": "Dunlop Infinity Pro G1 Hl Black",
+  "marca": "Dunlop",
+  "popularidad": 74,
+  "ean": "045566302656",
+  "caracteristicas": {
+   "Marca": "Dunlop",
+   "Color": "Negro",
+   "Color 2": "Negro",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Medium Eva",
+   "Cara": "Carbono",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Lágrima",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Polivalente",
+   "Jugador": "Hombre, Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/2/9/29697-pala-dunlop-infinity-pro-g1-hl-black-623970-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/dunlop-infinity-pro-g1-hl-black-29697-p",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/9970-dunlop-infinity-pro-g1-hl-black-dunlop-045566302656.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
   }
  },
  {
@@ -2878,38 +3228,37 @@
   }
  },
  {
-  "id": "black-crown-hurricane-comfort-4-0",
-  "nombre": "Black Crown Hurricane Comfort 4.0",
-  "marca": "Black Crown",
+  "id": "head-edge-ii-black",
+  "nombre": "Head Edge Ii Black",
+  "marca": "Head",
   "popularidad": 75,
-  "ean": null,
+  "ean": "198772134426",
   "caracteristicas": {
-   "Marca": "Black Crown",
-   "Color 2": "Multicolor",
+   "Marca": "Head",
+   "Color 2": "Negro",
    "Producto": "Palas",
    "Balance": "Medio",
-   "Núcleo": "Supersoft Eva",
-   "Cara": "Carbono 12k, Aluminio + Carbono",
+   "Núcleo": "Foam",
+   "Cara": "Fibra De Vidrio",
    "Formato": "Normal",
-   "Dureza": "Blanda",
-   "Nivel de Juego": "Avanzado / Competición, Principiante / Intermedio",
+   "Dureza": "Media",
+   "Nivel de Juego": "Principiante / Intermedio",
    "Acabado": "Mate",
-   "Forma": "Redonda",
-   "Superfície": "3d",
-   "Tipo de Juego": "Control, Polivalente",
-   "Jugador": "Hombre"
+   "Forma": "Lágrima",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Polivalente"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/6/161988-pala-black-crown-hurricane-comfort-4-0-a006456-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119306-pala-head-edge-ii-black-228675-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-black-crown-hurricane-comfort-4-0-a006456"
+   "padelnuestro": "https://www.padelnuestro.com/pala-head-edge-ii-black-228675-smu",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/26888-head-edge-ii-black-head-198772134426.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
    "padeliberico": "2026-10",
    "padelmarket": "2026-10",
    "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padelpoint": "2026-10"
   }
  },
  {
@@ -2948,178 +3297,38 @@
   }
  },
  {
-  "id": "head-speed-pro-2025",
-  "nombre": "Head Speed Pro 2025",
-  "marca": "Head",
-  "popularidad": 77,
-  "ean": "726423385981",
-  "caracteristicas": {
-   "Marca": "Head",
-   "Color 2": "Negro",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Foam",
-   "Cara": "Carbono, Fibra De Vidrio",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Mate",
-   "Forma": "Lágrima",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Polivalente",
-   "Jugador": "Hombre"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/115665-pala-head-speed-pro-2025-221065-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-head-speed-pro-2025-221065",
-   "padeliberico": "https://www.padeliberico.es/head-speed-pro-2025.html",
-   "zonadepadel": "https://www.zonadepadel.es/head-padel/11584-head-speed-pro-2025.html",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-head-speed-pro-2025-1-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/24306-head-speed-pro-2025-head-726423385981.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padelmarket": "2026-10"
-  }
- },
- {
-  "id": "bullpadel-xplo-26",
-  "nombre": "Bullpadel Xplo 26",
+  "id": "bullpadel-flow-w-24",
+  "nombre": "Bullpadel Flow W 24",
   "marca": "Bullpadel",
-  "popularidad": 78,
-  "ean": "8445402974078",
+  "popularidad": 77,
+  "ean": "8445402483808",
   "caracteristicas": {
    "Marca": "Bullpadel",
-   "Color 2": "Negro",
+   "Color 2": "Blanco",
    "Producto": "Palas",
    "Balance": "Alto",
    "Núcleo": "Multieva",
-   "Cara": "Carbono 12k",
+   "Cara": "Fibrix",
    "Formato": "Normal",
-   "Dureza": "Dura, Media",
-   "Nivel de Juego": "Profesional",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
    "Acabado": "Brillo",
    "Forma": "Diamante",
    "Superfície": "Rugosa",
    "Tipo de Juego": "Potencia",
-   "Colección Jugadores": "Martin Di Nenno",
-   "Jugador": "Hombre"
+   "Colección Jugadores": "Alejandra Salazar",
+   "Jugador": "Mujer"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120920-pala-bullpadel-xplo-26-494400-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/110860_pala_bullpadel_flow_w_24_471609_mujer_1500x1500_vista1_8153.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/bullpadel-xplo-26",
-   "padelmarket": "https://padelmarket.com/products/bullpadel-xplo-2026-martin-di-nenno-pala",
-   "zonadepadel": "https://www.zonadepadel.es/bullpadel/13559-bullpadel-xplo-2026.html",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28842-bullpadel-xplo-26-bullpadel-8445402974078.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "adidas-match-black-3-4-2025",
-  "nombre": "Adidas Match Black 3.4 2025",
-  "marca": "Adidas",
-  "popularidad": 79,
-  "ean": null,
-  "caracteristicas": {
-   "Marca": "Adidas",
-   "Color 2": "Negro, Naranja",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Soft Eva",
-   "Cara": "Fibra De Vidrio",
-   "Formato": "Normal",
-   "Dureza": "Blanda",
-   "Nivel de Juego": "Principiante / Intermedio",
-   "Acabado": "Brillo",
-   "Forma": "Híbrida",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Polivalente",
-   "Jugador": "Hombre, Mujer"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/113670-pala-adidas-adidas-match-black-3-4-ar5ga0u101500x1500-1.jpg?optimize=high&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220&amp;canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-adidas-adidas-match-black-3-4-ar5ga0u10"
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-flow-w-24-110860-p",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel-bullpadel/21359-bullpadel-flow-w-24-bullpadel-8445402483808.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
    "padeliberico": "2026-10",
    "padelmarket": "2026-10",
    "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
-  }
- },
- {
-  "id": "head-concord",
-  "nombre": "Head Concord",
-  "marca": "Head",
-  "popularidad": 80,
-  "ean": "198772075156",
-  "caracteristicas": {
-   "Marca": "Head",
-   "Color 2": "Negro, Amarillo",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Foam",
-   "Cara": "Fibra De Vidrio",
-   "Formato": "Oversize",
-   "Dureza": "Media",
-   "Nivel de Juego": "Principiante / Intermedio",
-   "Acabado": "Mate",
-   "Forma": "Lágrima",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Potencia"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119305-pala-head-concord-228635-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-head-concord-228635-smu",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/26887-head-concord-head-198772075156.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "siux-diablo-pro-royal-blue-2026",
-  "nombre": "Siux Diablo Pro Royal Blue 2026",
-  "marca": "Siux",
-  "popularidad": 81,
-  "ean": "8436625200389",
-  "caracteristicas": {
-   "Marca": "Siux",
-   "Color 2": "Azul Marino",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Eva",
-   "Cara": "Carbono 24k",
-   "Formato": "Normal",
-   "Dureza": "Dura, Media",
-   "Nivel de Juego": "Profesional",
-   "Acabado": "Mate",
-   "Forma": "Lágrima",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Polivalente",
-   "Colección Jugadores": "Tino Libaak",
-   "Jugador": "Hombre"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121745-pala-siux-diablo-pro-2026-royal-blue-200041-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-siux-diablo-pro-2026-royal-blue-200041",
-   "padeliberico": "https://www.padeliberico.es/siux-diablo-pro-royal-blue-2026.html",
-   "padelmarket": "https://padelmarket.com/products/siux-diablo-pro-2026-royal-blue-pala",
-   "zonadepadel": "https://www.zonadepadel.es/siux/13930-siux-diablo-pro-royal-blue-2026.html",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/29562-siux-diablo-pro-royal-blue-2026-siux-8436625200389.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
    "padelpoint": "2026-10"
   }
  },
@@ -3127,7 +3336,7 @@
   "id": "bullpadel-hack-04-hybrid-26",
   "nombre": "Bullpadel Hack 04 Hybrid 26",
   "marca": "Bullpadel",
-  "popularidad": 82,
+  "popularidad": 78,
   "ean": "8445402973958",
   "caracteristicas": {
    "Marca": "Bullpadel",
@@ -3159,31 +3368,104 @@
   }
  },
  {
-  "id": "wilson-optix-v1-white-padel-2",
-  "nombre": "Wilson Optix V1 White Padel 2",
-  "marca": "Wilson",
-  "popularidad": 83,
-  "ean": "097512894937",
+  "id": "bullpadel-vertex-05-geo",
+  "nombre": "Bullpadel Vertex 05 Geo",
+  "marca": "Bullpadel",
+  "popularidad": 79,
+  "ean": "8445402974016",
   "caracteristicas": {
-   "Marca": "Wilson",
-   "Color 2": "Negro, Blanco, Verde",
+   "Marca": "Bullpadel",
+   "Color 2": "Negro, Azul",
    "Producto": "Palas",
-   "Balance": "Bajo",
-   "Núcleo": "Soft Eva",
-   "Cara": "Fibra De Vidrio",
+   "Balance": "Alto",
+   "Núcleo": "Multieva",
+   "Cara": "Carbono 3k",
    "Formato": "Normal",
-   "Dureza": "Blanda",
-   "Nivel de Juego": "Principiante / Intermedio",
+   "Dureza": "Dura",
+   "Nivel de Juego": "Profesional",
    "Acabado": "Brillo",
-   "Forma": "Redonda",
+   "Forma": "Diamante",
    "Superfície": "Rugosa",
-   "Tipo de Juego": "Control",
+   "Tipo de Juego": "Polivalente",
    "Jugador": "Hombre"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/116261-pala-wilson-optix-v1-white-padel-2-wr181711u2-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120912-pala-bullpadel-vertex-05-geo-494396-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/wilson-optix-v1-white-padel-2-wr181711u2",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/24594-wilson-optix-v1-white-padel-2-wilson-097512894937.html"
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-vertex-05-geo",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28834-bullpadel-vertex-05-geo-bullpadel-8445402974016.html"
+  },
+  "alta": "2026-10-19",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "siux-trilogy-pro-5-2025",
+  "nombre": "Siux Trilogy Pro 5 2025",
+  "marca": "Siux",
+  "popularidad": 80,
+  "ean": "8435762902781",
+  "caracteristicas": {
+   "Marca": "Siux",
+   "Color 2": "Negro, Verde",
+   "Producto": "Palas",
+   "Balance": "Bajo",
+   "Núcleo": "Eva",
+   "Cara": "Carbono",
+   "Formato": "Normal",
+   "Dureza": "Dura",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Brillo",
+   "Forma": "Redonda",
+   "Superfície": "3d",
+   "Tipo de Juego": "Control, Potencia",
+   "Colección Jugadores": "Patty Llaguno",
+   "Jugador": "Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/112655-siux-trilogy-pro-5-reedicion-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/siux-trilogy-pro-5",
+   "padeliberico": "https://www.padeliberico.es/siux-trilogy-pro-5-2025.html",
+   "padelmarket": "https://padelmarket.com/products/siux-trilogy-pro-5-2025-pala",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-siux-trilogy-pro-5-2025-1-1",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/22610-siux-trilogy-pro-5-2025-siux-8435762902781.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "zonadepadel": "2026-10"
+  }
+ },
+ {
+  "id": "bullpadel-xplo-tf-2024",
+  "nombre": "Bullpadel Xplo Tf 2024",
+  "marca": "Bullpadel",
+  "popularidad": 81,
+  "ean": "8445402789313",
+  "caracteristicas": {
+   "Marca": "Bullpadel",
+   "Color 2": "Azul",
+   "Producto Oficial": "Premier Padel",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Multieva",
+   "Cara": "Carbono 12k",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Profesional",
+   "Acabado": "Mate",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Martin Di Nenno",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/114861-pala-bullpadel-xplo-tf-24-448424-1200x1200-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-bullpadel-xplo-tf-24-448424",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/24782-bullpadel-xplo-tf-2024-bullpadel-8445402789313.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
@@ -3191,6 +3473,77 @@
    "padelmarket": "2026-10",
    "zonadepadel": "2026-10",
    "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "babolat-technical-viper-soft-3-0",
+  "nombre": "Babolat Technical Viper Soft 3.0",
+  "marca": "Babolat",
+  "popularidad": 82,
+  "ean": null,
+  "caracteristicas": {
+   "Marca": "Babolat",
+   "Color 2": "Rojo, Azul Marino",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Black Eva",
+   "Cara": "Soft Carbon",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Brillo",
+   "Forma": "Híbrida",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Polivalente",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121767-pala-babolat-tech-viper-soft-150179-100-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-babolat-tech-viper-soft-150179-100"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
+  "id": "babolat-viper-juan-lebron-3-1",
+  "nombre": "Babolat Viper Juan Lebrón 3.1",
+  "marca": "Babolat",
+  "popularidad": 83,
+  "ean": null,
+  "caracteristicas": {
+   "Marca": "Babolat",
+   "Color 2": "Negro, Lila, Verde",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Hard Eva",
+   "Cara": "Carbono 3k",
+   "Formato": "Normal",
+   "Dureza": "Dura",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Diamante",
+   "Superfície": "3d, Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Juan Lebrón",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/124257-pala-babolat-viper-juan-lebron-3-1-150195-100-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-babolat-viper-juan-lebron-3-1-150195-100"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
   }
  },
  {
@@ -3230,31 +3583,66 @@
   }
  },
  {
-  "id": "bullpadel-vertex-04-25-mujer",
-  "nombre": "Bullpadel Vertex 04 25 Mujer",
+  "id": "bullpadel-indiga-power-26",
+  "nombre": "Bullpadel Indiga Power 26",
   "marca": "Bullpadel",
   "popularidad": 85,
-  "ean": "8445402692972",
+  "ean": "8445402993819",
   "caracteristicas": {
    "Marca": "Bullpadel",
+   "Color 2": "Azul",
    "Producto": "Palas",
    "Balance": "Alto",
-   "Núcleo": "Multieva",
-   "Cara": "Fibrix",
+   "Núcleo": "Soft Eva",
+   "Cara": "Polyglass",
    "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición, Profesional",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Principiante / Intermedio",
    "Acabado": "Mate",
    "Forma": "Diamante",
-   "Superfície": "Rugosa",
+   "Superfície": "Lisa",
    "Tipo de Juego": "Potencia",
-   "Colección Jugadores": "Delfi Brea Senesi",
-   "Jugador": "Mujer"
+   "Jugador": "Hombre"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/i/m/imagen-1-113774-53abfe1f.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120902-pala-bullpadel-indiga-power-26-494416-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/bullpadel-vertex-04-25-mujer-113774-p",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/23372-bullpadel-vertex-04-25-mujer-bullpadel-8445402692972.html"
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-indiga-power-26",
+   "zonadepadel": "https://www.zonadepadel.es/bullpadel/13792-bullpadel-indiga-power-2026.html",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-bullpadel-indiga-power-2026-1",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28824-bullpadel-indiga-power-26-bullpadel-8445402993819.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10"
+  }
+ },
+ {
+  "id": "siux-trilogy-elite-6",
+  "nombre": "Siux Trilogy Elite 6",
+  "marca": "Siux",
+  "popularidad": 86,
+  "ean": "8436625200457",
+  "caracteristicas": {
+   "Marca": "Siux",
+   "Color 2": "Verde",
+   "Producto": "Palas",
+   "Balance": "Bajo",
+   "Núcleo": "Eva",
+   "Cara": "Carbono 3k",
+   "Formato": "Normal",
+   "Dureza": "Media, Blanda",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Redonda",
+   "Superfície": "Arenosa",
+   "Tipo de Juego": "Control",
+   "Jugador": "Hombre, Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121756-pala-siux-trilogy-elite-6-200050-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-siux-trilogy-elite-6-200050",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/29573-siux-trilogy-elite-6-siux-8436625200457.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
@@ -3265,39 +3653,37 @@
   }
  },
  {
-  "id": "babolat-viper-juan-lebron-3-1",
-  "nombre": "Babolat Viper Juan Lebrón 3.1",
-  "marca": "Babolat",
-  "popularidad": 86,
-  "ean": null,
+  "id": "head-concord",
+  "nombre": "Head Concord",
+  "marca": "Head",
+  "popularidad": 87,
+  "ean": "198772075156",
   "caracteristicas": {
-   "Marca": "Babolat",
-   "Color 2": "Negro, Lila, Verde",
+   "Marca": "Head",
+   "Color 2": "Negro, Amarillo",
    "Producto": "Palas",
    "Balance": "Alto",
-   "Núcleo": "Hard Eva",
-   "Cara": "Carbono 3k",
-   "Formato": "Normal",
-   "Dureza": "Dura",
-   "Nivel de Juego": "Avanzado / Competición",
+   "Núcleo": "Foam",
+   "Cara": "Fibra De Vidrio",
+   "Formato": "Oversize",
+   "Dureza": "Media",
+   "Nivel de Juego": "Principiante / Intermedio",
    "Acabado": "Mate",
-   "Forma": "Diamante",
-   "Superfície": "3d, Rugosa",
-   "Tipo de Juego": "Potencia",
-   "Colección Jugadores": "Juan Lebrón",
-   "Jugador": "Hombre"
+   "Forma": "Lágrima",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Potencia"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/124257-pala-babolat-viper-juan-lebron-3-1-150195-100-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/119305-pala-head-concord-228635-smu-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-babolat-viper-juan-lebron-3-1-150195-100"
+   "padelnuestro": "https://www.padelnuestro.com/pala-head-concord-228635-smu",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/26887-head-concord-head-198772075156.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
    "padeliberico": "2026-10",
    "padelmarket": "2026-10",
    "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padelpoint": "2026-10"
   }
  },
  {
@@ -3335,175 +3721,31 @@
   }
  },
  {
-  "id": "wilson-endure-v1",
-  "nombre": "Wilson Endure V1",
-  "marca": "Wilson",
+  "id": "babolat-counter-vertuo-2025",
+  "nombre": "Babolat Counter Vertuo 2025",
+  "marca": "Babolat",
   "popularidad": 88,
-  "ean": "097512976268",
+  "ean": "3324922164556",
   "caracteristicas": {
-   "Marca": "Wilson",
-   "Color 2": "Azul",
+   "Marca": "Babolat",
+   "Color 2": "Amarillo",
    "Producto": "Palas",
-   "Balance": "Bajo",
-   "Núcleo": "Foam",
-   "Cara": "Carbono, Fibra De Vidrio",
-   "Formato": "Normal",
-   "Dureza": "Blanda",
-   "Nivel de Juego": "Avanzado / Competición, Principiante / Intermedio",
-   "Acabado": "Mate",
-   "Forma": "Redonda",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Control",
-   "Jugador": "Hombre, Mujer"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/122476-pala-wilson-endure-v1-wr190411u-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-wilson-endure-v1-wr190411u",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-wilson-endure-v1-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/30648-wilson-endure-ls-v1-wilson-097512976268.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10"
-  }
- },
- {
-  "id": "head-gravity-team-light-2024",
-  "nombre": "Head Gravity Team Light 2024",
-  "marca": "Head",
-  "popularidad": 89,
-  "ean": "726423384786",
-  "caracteristicas": {
-   "Marca": "Head",
-   "Color": "Blanco",
-   "Color 2": "Azul",
-   "Producto": "Palas",
-   "Balance": "Bajo",
-   "Núcleo": "Foam",
+   "Balance": "Medio",
+   "Núcleo": "X-eva",
    "Cara": "Fibra De Vidrio",
    "Formato": "Normal",
    "Dureza": "Blanda",
    "Nivel de Juego": "Principiante / Intermedio",
    "Acabado": "Mate",
-   "Forma": "Redonda",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Control",
-   "Jugador": "Hombre"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/113829_pala_de_padel_gravity_team_light_2024_224064_1000x1000_1_1899.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/head-gravity-team-light-2024-113829-p",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-head-gravity-team-light-2024-1-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/23427-head-gravity-team-light-2024-head-726423384786.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10"
-  }
- },
- {
-  "id": "bullpadel-xplo-tf-2024",
-  "nombre": "Bullpadel Xplo Tf 2024",
-  "marca": "Bullpadel",
-  "popularidad": 90,
-  "ean": "8445402789313",
-  "caracteristicas": {
-   "Marca": "Bullpadel",
-   "Color 2": "Azul",
-   "Producto Oficial": "Premier Padel",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Multieva",
-   "Cara": "Carbono 12k",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Profesional",
-   "Acabado": "Mate",
-   "Forma": "Diamante",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Potencia",
-   "Colección Jugadores": "Martin Di Nenno",
-   "Jugador": "Hombre"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/114861-pala-bullpadel-xplo-tf-24-448424-1200x1200-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-bullpadel-xplo-tf-24-448424",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/24782-bullpadel-xplo-tf-2024-bullpadel-8445402789313.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "bullpadel-flow-w-24",
-  "nombre": "Bullpadel Flow W 24",
-  "marca": "Bullpadel",
-  "popularidad": 91,
-  "ean": "8445402483808",
-  "caracteristicas": {
-   "Marca": "Bullpadel",
-   "Color 2": "Blanco",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Multieva",
-   "Cara": "Fibrix",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Brillo",
-   "Forma": "Diamante",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Potencia",
-   "Colección Jugadores": "Alejandra Salazar",
-   "Jugador": "Mujer"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/110860_pala_bullpadel_flow_w_24_471609_mujer_1500x1500_vista1_8153.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/bullpadel-flow-w-24-110860-p",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel-bullpadel/21359-bullpadel-flow-w-24-bullpadel-8445402483808.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "black-crown-gladius-force",
-  "nombre": "Black Crown Gladius Force",
-  "marca": "Black Crown",
-  "popularidad": 92,
-  "ean": "8445090145514",
-  "caracteristicas": {
-   "Marca": "Black Crown",
-   "Color 2": "Rojo",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Hard Eva",
-   "Cara": "Carbono 18k, Aluminio + Carbono",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición, Principiante / Intermedio",
-   "Acabado": "Brillo",
    "Forma": "Híbrida",
    "Superfície": "Rugosa",
    "Tipo de Juego": "Polivalente",
-   "Jugador": "Hombre"
+   "Jugador": "Hombre, Mujer"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121584-pala-black-crown-gladius-force-a005506-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/115747-pala-babolat-counter-vertuo-150167-100-20251500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-black-crown-gladius-force-a005506",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/29408-black-crown-gladius-force-black-crown-8445090145514.html"
+   "padelnuestro": "https://www.padelnuestro.com/pala-babolat-counter-vertuo-150167-100",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/24354-babolat-counter-vertuo-2025-babolat-3324922164556.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
@@ -3511,13 +3753,48 @@
    "padelmarket": "2026-10",
    "zonadepadel": "2026-10",
    "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "black-crown-hurricane-comfort-4-0",
+  "nombre": "Black Crown Hurricane Comfort 4.0",
+  "marca": "Black Crown",
+  "popularidad": 89,
+  "ean": null,
+  "caracteristicas": {
+   "Marca": "Black Crown",
+   "Color 2": "Multicolor",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Supersoft Eva",
+   "Cara": "Carbono 12k, Aluminio + Carbono",
+   "Formato": "Normal",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Avanzado / Competición, Principiante / Intermedio",
+   "Acabado": "Mate",
+   "Forma": "Redonda",
+   "Superfície": "3d",
+   "Tipo de Juego": "Control, Polivalente",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/6/161988-pala-black-crown-hurricane-comfort-4-0-a006456-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-black-crown-hurricane-comfort-4-0-a006456"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
   }
  },
  {
   "id": "head-speed-pro-2023",
   "nombre": "Head Speed Pro 2023",
   "marca": "Head",
-  "popularidad": 93,
+  "popularidad": 90,
   "ean": "0724794637562",
   "caracteristicas": {
    "Marca": "Head",
@@ -3549,39 +3826,146 @@
   }
  },
  {
-  "id": "bullpadel-hack-05-27",
-  "nombre": "Bullpadel Hack 05 27",
-  "marca": "Bullpadel",
-  "popularidad": 94,
-  "ean": "8447552114687",
+  "id": "adidas-neuvortx-black-orange",
+  "nombre": "Adidas Neuvortx Black /Orange",
+  "marca": "Adidas",
+  "popularidad": 91,
+  "ean": "8435739403525",
   "caracteristicas": {
-   "Marca": "Bullpadel",
-   "Color 2": "Blanco",
+   "Marca": "Adidas",
+   "Color 2": "Negro, Naranja",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Eva Soft Low Density",
+   "Cara": "Fibra De Vidrio",
+   "Formato": "Normal",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Avanzado / Competición, Principiante / Intermedio",
+   "Acabado": "Mate",
+   "Forma": "Redonda",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Control"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/117783-pala-adidas-neuvortx-black-orange-ar6ga1u17-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-adidas-neuvortx-black-orange-ar6ga1u17",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/25922-adidas-neuvortx-black-orange-adidas-8435739403525.html"
+  },
+  "alta": "2026-10-19",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "head-coello-team-2026",
+  "nombre": "Head Coello Team 2026",
+  "marca": "Head",
+  "popularidad": 92,
+  "ean": "0198772152123",
+  "caracteristicas": {
+   "Marca": "Head",
+   "Color 2": "Gris",
    "Producto": "Palas",
    "Balance": "Alto",
-   "Núcleo": "Multieva",
-   "Cara": "Carbono 18k",
+   "Núcleo": "Foam",
+   "Cara": "Fibra De Vidrio",
    "Formato": "Normal",
-   "Dureza": "Dura",
-   "Nivel de Juego": "Profesional",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
    "Acabado": "Mate",
    "Forma": "Diamante",
-   "Superfície": "3d, Rugosa",
+   "Superfície": "Lisa",
    "Tipo de Juego": "Potencia",
-   "Colección Jugadores": "Paquito Navarro",
+   "Colección Jugadores": "Arturo Coello",
    "Jugador": "Hombre"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/6/160622-pala-bullpadel-hack-05-27-497233-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/123867-pala-head-coello-team-2026-225056-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-bullpadel-hack-05-27-497233-160622-p",
-   "padelmarket": "https://padelmarket.com/products/bullpadel-hack-05-2027-paquito-navarro-pala",
-   "zonadepadel": "https://www.zonadepadel.es/bullpadel/16147-bullpadel-hack-05-2027.html",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-bullpadel-paquito-navarro-hack-05-2027-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel-bullpadel/47481-bullpadel-hack-05-27-8447552114687.html"
+   "padelnuestro": "https://www.padelnuestro.com/pala-head-coello-team-2026-225056",
+   "padeliberico": "https://www.padeliberico.es/head-coello-team-2026.html",
+   "zonadepadel": "https://www.zonadepadel.es/head-padel/14714-head-coello-team-2026.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10"
+   "padelmarket": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
+  "id": "bullpadel-vertex-05-light-premier-padel-26-mujer",
+  "nombre": "Bullpadel Vertex 05 Light Premier Padel 26 Mujer",
+  "marca": "Bullpadel",
+  "popularidad": 93,
+  "ean": "8447552015458",
+  "caracteristicas": {
+   "Marca": "Bullpadel",
+   "Color 2": "Azul",
+   "Producto Oficial": "Premier Padel",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Multieva",
+   "Cara": "Fibrix",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Polivalente",
+   "Colección Jugadores": "Delfi Brea Senesi",
+   "Jugador": "Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121814-pala-bullpadel-vertex-05-light-premier-padel-26-495202-mujer-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-bullpadel-vertex-05-light-premier-padel-26-495202-mujer",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/30079-bullpadel-vertex-05-light-premier-padel-26-mujer-bullpadel-8447552015458.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "vairo-black-karbon-speed",
+  "nombre": "Vairo Black Karbon Speed",
+  "marca": "Vairo",
+  "popularidad": 94,
+  "ean": "8435536787859",
+  "caracteristicas": {
+   "Marca": "Vairo",
+   "Color": "Azul",
+   "Color 2": "Negro",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Eva",
+   "Cara": "Carbono 18k",
+   "Formato": "Normal",
+   "Dureza": "Dura",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Híbrida",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Polivalente",
+   "Jugador": "Hombre, Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/i/m/imagen_1_105774_3b0a2c48_8ac2.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/vairo-black-karbon-speed",
+   "time2padel": "https://www.time2padel.com/es/palas-vairo/12331-vairo-black-karbon-speed-vairo-8435536787859.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
   }
  },
  {
@@ -3619,10 +4003,80 @@
   }
  },
  {
+  "id": "vairo-grapheno-confort",
+  "nombre": "Vairo Grapheno Confort",
+  "marca": "Vairo",
+  "popularidad": 95,
+  "ean": "8435536787910",
+  "caracteristicas": {
+   "Marca": "Vairo",
+   "Color": "Azul",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Eva",
+   "Cara": "Carbono 3k",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Híbrida",
+   "Superfície": "Rugosa, Arenosa",
+   "Tipo de Juego": "Control",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/0/105780_pala_vairo_grapheno_confort_2023_1500x1500_vista1_448b.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/vairo-grapheno-confort-105780-p",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-vairo-grapheno-confort-1-1",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/12337-vairo-grapheno-confort-vairo-8435536787910.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10"
+  }
+ },
+ {
+  "id": "wilson-endure-v1",
+  "nombre": "Wilson Endure V1",
+  "marca": "Wilson",
+  "popularidad": 97,
+  "ean": "097512976268",
+  "caracteristicas": {
+   "Marca": "Wilson",
+   "Color 2": "Azul",
+   "Producto": "Palas",
+   "Balance": "Bajo",
+   "Núcleo": "Foam",
+   "Cara": "Carbono, Fibra De Vidrio",
+   "Formato": "Normal",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Avanzado / Competición, Principiante / Intermedio",
+   "Acabado": "Mate",
+   "Forma": "Redonda",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Control",
+   "Jugador": "Hombre, Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/122476-pala-wilson-endure-v1-wr190411u-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-wilson-endure-v1-wr190411u",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-wilson-endure-v1-1",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/30648-wilson-endure-ls-v1-wilson-097512976268.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10"
+  }
+ },
+ {
   "id": "black-crown-piton-14",
   "nombre": "Black Crown Piton 14",
   "marca": "Black Crown",
-  "popularidad": 96,
+  "popularidad": 98,
   "ean": "8445090145439",
   "caracteristicas": {
    "Marca": "Black Crown",
@@ -3644,42 +4098,6 @@
   "urls": {
    "padelnuestro": "https://www.padelnuestro.com/pala-black-crown-piton-14-a005498",
    "time2padel": "https://www.time2padel.com/es/palas-de-padel/29412-black-crown-piton-14-black-crown-8445090145439.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "vairo-black-karbon-speed",
-  "nombre": "Vairo Black Karbon Speed",
-  "marca": "Vairo",
-  "popularidad": 97,
-  "ean": "8435536787859",
-  "caracteristicas": {
-   "Marca": "Vairo",
-   "Color": "Azul",
-   "Color 2": "Negro",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Eva",
-   "Cara": "Carbono 18k",
-   "Formato": "Normal",
-   "Dureza": "Dura",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Mate",
-   "Forma": "Híbrida",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Polivalente",
-   "Jugador": "Hombre, Mujer"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/i/m/imagen_1_105774_3b0a2c48_8ac2.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/vairo-black-karbon-speed",
-   "time2padel": "https://www.time2padel.com/es/palas-vairo/12331-vairo-black-karbon-speed-vairo-8435536787859.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
@@ -3725,38 +4143,39 @@
   }
  },
  {
-  "id": "siux-trilogy-elite-6",
-  "nombre": "Siux Trilogy Elite 6",
-  "marca": "Siux",
+  "id": "head-coello-motion-2025",
+  "nombre": "Head Coello Motion 2025",
+  "marca": "Head",
   "popularidad": 99,
-  "ean": "8436625200457",
+  "ean": "0198772015749",
   "caracteristicas": {
-   "Marca": "Siux",
-   "Color 2": "Verde",
+   "Marca": "Head",
+   "Color 2": "Negro",
    "Producto": "Palas",
-   "Balance": "Bajo",
-   "Núcleo": "Eva",
-   "Cara": "Carbono 3k",
+   "Balance": "Alto, Medio",
+   "Núcleo": "Foam",
+   "Cara": "Carbono",
    "Formato": "Normal",
-   "Dureza": "Media, Blanda",
+   "Dureza": "Media",
    "Nivel de Juego": "Avanzado / Competición",
    "Acabado": "Mate",
-   "Forma": "Redonda",
-   "Superfície": "Arenosa",
-   "Tipo de Juego": "Control",
-   "Jugador": "Hombre, Mujer"
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Arturo Coello",
+   "Jugador": "Hombre"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121756-pala-siux-trilogy-elite-6-200050-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/115656-pala-head-coello-motion-2025-225025-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-siux-trilogy-elite-6-200050",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/29573-siux-trilogy-elite-6-siux-8436625200457.html"
+   "padelnuestro": "https://www.padelnuestro.com/pala-head-coello-motion-2025-225025",
+   "padeliberico": "https://www.padeliberico.es/head-coello-motion-2025.html",
+   "zonadepadel": "https://www.zonadepadel.es/head-padel/11996-head-coello-motion-2025.html"
   },
-  "alta": "2026-10-13",
+  "alta": "2026-10-19",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
    "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
   }
  },
  {
@@ -3793,292 +4212,10 @@
   }
  },
  {
-  "id": "babolat-technical-viper-soft-3-0",
-  "nombre": "Babolat Technical Viper Soft 3.0",
-  "marca": "Babolat",
-  "popularidad": 101,
-  "ean": null,
-  "caracteristicas": {
-   "Marca": "Babolat",
-   "Color 2": "Rojo, Azul Marino",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Black Eva",
-   "Cara": "Soft Carbon",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Brillo",
-   "Forma": "Híbrida",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Polivalente",
-   "Jugador": "Hombre"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121767-pala-babolat-tech-viper-soft-150179-100-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-babolat-tech-viper-soft-150179-100"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
-  }
- },
- {
-  "id": "vairo-grapheno-confort",
-  "nombre": "Vairo Grapheno Confort",
-  "marca": "Vairo",
-  "popularidad": 102,
-  "ean": "8435536787910",
-  "caracteristicas": {
-   "Marca": "Vairo",
-   "Color": "Azul",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Eva",
-   "Cara": "Carbono 3k",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Mate",
-   "Forma": "Híbrida",
-   "Superfície": "Rugosa, Arenosa",
-   "Tipo de Juego": "Control",
-   "Jugador": "Hombre"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/0/105780_pala_vairo_grapheno_confort_2023_1500x1500_vista1_448b.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/vairo-grapheno-confort-105780-p",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-vairo-grapheno-confort-1-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/12337-vairo-grapheno-confort-vairo-8435536787910.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10"
-  }
- },
- {
-  "id": "starvie-raptor",
-  "nombre": "Starvie Raptor +",
-  "marca": "Starvie",
-  "popularidad": 103,
-  "ean": "8436612941035",
-  "caracteristicas": {
-   "Marca": "Starvie",
-   "Color 2": "Negro, Rojo",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Medium Eva",
-   "Cara": "Carbono",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Profesional",
-   "Acabado": "Mate",
-   "Forma": "Lágrima",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Polivalente",
-   "Jugador": "Hombre, Mujer"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121648-pala-starvie-raptor-mas-pstrp31000-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-starvie-raptor-pstrp31000",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/29467-starvie-raptor-star-vie-8436612941035.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "bullpadel-vertex-advance",
-  "nombre": "Bullpadel Vertex Advance",
-  "marca": "Bullpadel",
-  "popularidad": 104,
-  "ean": "8445402975167",
-  "caracteristicas": {
-   "Marca": "Bullpadel",
-   "Color 2": "Negro, Naranja",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Multieva",
-   "Cara": "Glaphite",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Mate",
-   "Forma": "Diamante",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Potencia"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120916-pala-bullpadel-vertex-advance-494414-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/bullpadel-vertex-advance",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28838-bullpadel-vertex-advance-bullpadel-8445402975167.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "adidas-adipower-multiweight-3-3",
-  "nombre": "Adidas Adipower Multiweight 3.3",
-  "marca": "Adidas",
-  "popularidad": 105,
-  "ean": null,
-  "caracteristicas": {
-   "Marca": "Adidas",
-   "Color": "Negro",
-   "Color 2": "Negro",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Eva",
-   "Cara": "Carbono 18k",
-   "Formato": "Oversize",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Forma": "Diamante",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Potencia",
-   "Jugador": "Hombre"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/110129-pala-adidas-adipower-multiweight-3-3-adrk1aa2u0014f-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/adidas-adipower-multiweight-3-3-110129-p"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
-  }
- },
- {
-  "id": "nox-genius-18k-alum-by-agustin-tapia-2027",
-  "nombre": "Nox Genius 18K Alum By Agustin Tapia 2027",
-  "marca": "Nox",
-  "popularidad": 106,
-  "ean": "8435778915690",
-  "caracteristicas": {
-   "Marca": "Nox",
-   "Color 2": "Gris, Plateado",
-   "Producto": "Palas",
-   "Balance": "Alto, Medio, Bajo",
-   "Núcleo": "Black Eva",
-   "Cara": "Carbono 18k, Aluminio + Carbono, Fibra De Carbono",
-   "Formato": "Normal",
-   "Dureza": "Dura, Media",
-   "Nivel de Juego": "Profesional",
-   "Acabado": "Mate",
-   "Forma": "Lágrima",
-   "Superfície": "3d, Arenosa",
-   "Tipo de Juego": "Polivalente",
-   "Colección Jugadores": "Agustín Tapia"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/6/162304-pagenius1827-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-nox-genius-18k-alum-by-agustin-tapia-pagenius1827-162304-p",
-   "zonadepadel": "https://www.zonadepadel.es/nox/16289-nox-genius-18k-alum-by-agustin-tapia-2027.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
-  }
- },
- {
-  "id": "nox-pro-cup-coorp-miguel-lamperti-2027",
-  "nombre": "Nox Pro Cup Coorp Miguel Lamperti 2027",
-  "marca": "Nox",
-  "popularidad": 107,
-  "ean": "8435778915799",
-  "caracteristicas": {
-   "Marca": "Nox",
-   "Color 2": "Blanco, Rojo",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Hr3 Core",
-   "Cara": "Fibra De Vidrio",
-   "Formato": "Normal",
-   "Dureza": "Blanda",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Mate",
-   "Forma": "Redonda",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Control",
-   "Colección Jugadores": "Miguel Lamperti",
-   "Jugador": "Hombre"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/6/162316-pala-nox-ml10-pro-cup-corp-by-miguel-lamperti-papcupcop27-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/nox-pro-cup-coorp-miguel-lamperti-162316-p",
-   "padelmarket": "https://padelmarket.com/products/nox-ml10-pro-cup-coorp-2027-by-miguel-lamperti-pala",
-   "zonadepadel": "https://www.zonadepadel.es/nox/16302-nox-ml10-pro-cup-coorp-by-miguel-lamperti-2027.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
-  }
- },
- {
-  "id": "bullpadel-vertex-05-light-premier-padel-26-mujer",
-  "nombre": "Bullpadel Vertex 05 Light Premier Padel 26 Mujer",
-  "marca": "Bullpadel",
-  "popularidad": 108,
-  "ean": "8447552015458",
-  "caracteristicas": {
-   "Marca": "Bullpadel",
-   "Color 2": "Azul",
-   "Producto Oficial": "Premier Padel",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Multieva",
-   "Cara": "Fibrix",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Mate",
-   "Forma": "Diamante",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Polivalente",
-   "Colección Jugadores": "Delfi Brea Senesi",
-   "Jugador": "Mujer"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121814-pala-bullpadel-vertex-05-light-premier-padel-26-495202-mujer-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-bullpadel-vertex-05-light-premier-padel-26-495202-mujer",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/30079-bullpadel-vertex-05-light-premier-padel-26-mujer-bullpadel-8447552015458.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
   "id": "head-gravity-pro-2024",
   "nombre": "Head Gravity Pro 2024",
   "marca": "Head",
-  "popularidad": 109,
+  "popularidad": 100,
   "ean": "726423384755",
   "caracteristicas": {
    "Marca": "Head",
@@ -4110,100 +4247,30 @@
   }
  },
  {
-  "id": "bullpadel-indiga-power-26",
-  "nombre": "Bullpadel Indiga Power 26",
-  "marca": "Bullpadel",
-  "popularidad": 110,
-  "ean": "8445402993819",
+  "id": "adidas-adipower-multiweight-3-3",
+  "nombre": "Adidas Adipower Multiweight 3.3",
+  "marca": "Adidas",
+  "popularidad": 101,
+  "ean": null,
   "caracteristicas": {
-   "Marca": "Bullpadel",
-   "Color 2": "Azul",
+   "Marca": "Adidas",
+   "Color": "Negro",
+   "Color 2": "Negro",
    "Producto": "Palas",
    "Balance": "Alto",
-   "Núcleo": "Soft Eva",
-   "Cara": "Polyglass",
-   "Formato": "Normal",
-   "Dureza": "Blanda",
-   "Nivel de Juego": "Principiante / Intermedio",
-   "Acabado": "Mate",
+   "Núcleo": "Eva",
+   "Cara": "Carbono 18k",
+   "Formato": "Oversize",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
    "Forma": "Diamante",
-   "Superfície": "Lisa",
+   "Superfície": "Rugosa",
    "Tipo de Juego": "Potencia",
    "Jugador": "Hombre"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120902-pala-bullpadel-indiga-power-26-494416-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/110129-pala-adidas-adipower-multiweight-3-3-adrk1aa2u0014f-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/bullpadel-indiga-power-26",
-   "zonadepadel": "https://www.zonadepadel.es/bullpadel/13792-bullpadel-indiga-power-2026.html",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-bullpadel-indiga-power-2026-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28824-bullpadel-indiga-power-26-bullpadel-8445402993819.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10"
-  }
- },
- {
-  "id": "babolat-counter-vertuo-2025",
-  "nombre": "Babolat Counter Vertuo 2025",
-  "marca": "Babolat",
-  "popularidad": 111,
-  "ean": "3324922164556",
-  "caracteristicas": {
-   "Marca": "Babolat",
-   "Color 2": "Amarillo",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "X-eva",
-   "Cara": "Fibra De Vidrio",
-   "Formato": "Normal",
-   "Dureza": "Blanda",
-   "Nivel de Juego": "Principiante / Intermedio",
-   "Acabado": "Mate",
-   "Forma": "Híbrida",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Polivalente",
-   "Jugador": "Hombre, Mujer"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/115747-pala-babolat-counter-vertuo-150167-100-20251500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-babolat-counter-vertuo-150167-100",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/24354-babolat-counter-vertuo-2025-babolat-3324922164556.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
-  }
- },
- {
-  "id": "nox-at10-genius-18k-alum-buenos-aires-edition-by-agustin-tapia",
-  "nombre": "Nox At10 Genius 18K Alum Buenos Aires Edition By Agustín Tapia",
-  "marca": "Nox",
-  "popularidad": 113,
-  "ean": null,
-  "caracteristicas": {
-   "Marca": "Nox",
-   "Color 2": "Blanco, Azul",
-   "Producto Oficial": "Premier Padel",
-   "Producto": "Palas",
-   "Balance": "Medio",
-   "Núcleo": "Black Eva",
-   "Cara": "Carbono 18k",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Forma": "Lágrima",
-   "Superfície": "3d, Arenosa",
-   "Tipo de Juego": "Polivalente",
-   "Colección Jugadores": "Agustín Tapia"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/6/162212-pala-nox-at10-genius-18k-alum-patgeniusbsas-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-nox-at10-genius-18k-alum-by-agustin-tapia-buenos-aires-edition-patgeniusbsas"
+   "padelnuestro": "https://www.padelnuestro.com/adidas-adipower-multiweight-3-3-110129-p"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
@@ -4215,10 +4282,402 @@
   }
  },
  {
+  "id": "head-gravity-team-light-2024",
+  "nombre": "Head Gravity Team Light 2024",
+  "marca": "Head",
+  "popularidad": 102,
+  "ean": "726423384786",
+  "caracteristicas": {
+   "Marca": "Head",
+   "Color": "Blanco",
+   "Color 2": "Azul",
+   "Producto": "Palas",
+   "Balance": "Bajo",
+   "Núcleo": "Foam",
+   "Cara": "Fibra De Vidrio",
+   "Formato": "Normal",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Principiante / Intermedio",
+   "Acabado": "Mate",
+   "Forma": "Redonda",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Control",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/113829_pala_de_padel_gravity_team_light_2024_224064_1000x1000_1_1899.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/head-gravity-team-light-2024-113829-p",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-head-gravity-team-light-2024-1-1",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/23427-head-gravity-team-light-2024-head-726423384786.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10"
+  }
+ },
+ {
+  "id": "black-crown-gladius-force",
+  "nombre": "Black Crown Gladius Force",
+  "marca": "Black Crown",
+  "popularidad": 103,
+  "ean": "8445090145514",
+  "caracteristicas": {
+   "Marca": "Black Crown",
+   "Color 2": "Rojo",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Hard Eva",
+   "Cara": "Carbono 18k, Aluminio + Carbono",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición, Principiante / Intermedio",
+   "Acabado": "Brillo",
+   "Forma": "Híbrida",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Polivalente",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121584-pala-black-crown-gladius-force-a005506-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-black-crown-gladius-force-a005506",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/29408-black-crown-gladius-force-black-crown-8445090145514.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "bullpadel-vertex-05-hybrid",
+  "nombre": "Bullpadel Vertex 05 Hybrid",
+  "marca": "Bullpadel",
+  "popularidad": 104,
+  "ean": "8445402974030",
+  "caracteristicas": {
+   "Marca": "Bullpadel",
+   "Color 2": "Negro, Azul",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Multieva",
+   "Cara": "Carbono 12k",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Profesional",
+   "Acabado": "Mate",
+   "Forma": "Híbrida",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Polivalente",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120913-pala-bullpadel-vertex-05-hybrid-494397-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-vertex-05-hybrid",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28835-bullpadel-vertex-05-hybrid-bullpadel-8445402974030.html"
+  },
+  "alta": "2026-10-19",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "bullpadel-flow-legend-mujer",
+  "nombre": "Bullpadel Flow Legend Mujer",
+  "marca": "Bullpadel",
+  "popularidad": 105,
+  "ean": "8445402974122",
+  "caracteristicas": {
+   "Marca": "Bullpadel",
+   "Color 2": "Negro",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Multieva",
+   "Cara": "Fibrix",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Alejandra Salazar",
+   "Jugador": "Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120891-pala-bullpadel-flow-legend-44405-mujer-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-flow-legend-mujer",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28813-bullpadel-flow-legend-mujer-bullpadel-8445402974122.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "starvie-raptor",
+  "nombre": "Starvie Raptor +",
+  "marca": "Starvie",
+  "popularidad": 106,
+  "ean": "8436612941035",
+  "caracteristicas": {
+   "Marca": "Starvie",
+   "Color 2": "Negro, Rojo",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Medium Eva",
+   "Cara": "Carbono",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Profesional",
+   "Acabado": "Mate",
+   "Forma": "Lágrima",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Polivalente",
+   "Jugador": "Hombre, Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121648-pala-starvie-raptor-mas-pstrp31000-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-starvie-raptor-pstrp31000",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/29467-starvie-raptor-star-vie-8436612941035.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "head-coello-pro-2025",
+  "nombre": "Head Coello Pro 2025",
+  "marca": "Head",
+  "popularidad": 107,
+  "ean": "0198772015732",
+  "caracteristicas": {
+   "Marca": "Head",
+   "Color 2": "Negro, Rojo",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Foam",
+   "Cara": "Carbono",
+   "Formato": "Normal",
+   "Dureza": "Dura",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Arturo Coello",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/115657-pala-head-coello-pro-2025-225015-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-head-coello-pro-2025-225015",
+   "padeliberico": "https://www.padeliberico.es/head-coello-pro-2025.html",
+   "zonadepadel": "https://www.zonadepadel.es/head-padel/11995-head-coello-pro-2025.html"
+  },
+  "alta": "2026-10-19",
+  "urls_descartadas": {
+   "padelmarket": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
+  "id": "dunlop-titan-pro-white-2024",
+  "nombre": "Dunlop Titan Pro White 2024",
+  "marca": "Dunlop",
+  "popularidad": 108,
+  "ean": "045566302694",
+  "caracteristicas": {
+   "Marca": "Dunlop",
+   "Color": "Blanco",
+   "Color 2": "Negro",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Mega Flex Core",
+   "Cara": "Fibra De Vidrio",
+   "Formato": "Oversize",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Híbrida",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Polivalente",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/110881_pala_dunlop_titan_pro_623974_white_1500x1500_vista1_e251.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/dunlop-titan-pro-white-2024-110881-p",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/21377-dunlop-titan-pro-white-2024-dunlop-045566302694.html"
+  },
+  "alta": "2026-10-19",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "siux-fenix-go-4",
+  "nombre": "Siux Fenix Go 4",
+  "marca": "Siux",
+  "popularidad": 109,
+  "ean": "8435536793492",
+  "caracteristicas": {
+   "Marca": "Siux",
+   "Color": "Naranja",
+   "Color 2": "Multicolor",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Hard Eva",
+   "Cara": "Carbono 3k",
+   "Formato": "Normal",
+   "Dureza": "Dura",
+   "Nivel de Juego": "Principiante / Intermedio",
+   "Acabado": "Brillo",
+   "Forma": "Híbrida",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Potencia",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/0/109478_siux_fenix_go_4_1500x1500_vista1_8c3e.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/siux-fenix-go-4-109478-p",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel-siux/18273-siux-fenix-go-4-siux-8435536793492.html"
+  },
+  "alta": "2026-10-19",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "nox-pro-cup-light-miguel-lamperti-2027",
+  "nombre": "Nox Pro Cup Light Miguel Lamperti 2027",
+  "marca": "Nox",
+  "popularidad": 110,
+  "ean": null,
+  "caracteristicas": {
+   "Marca": "Nox",
+   "Color 2": "Blanco, Rosa",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Hr3",
+   "Cara": "Fibra De Vidrio",
+   "Formato": "Normal",
+   "Dureza": "Blanda",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Brillo",
+   "Forma": "Redonda",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Control",
+   "Colección Jugadores": "Miguel Lamperti",
+   "Jugador": "Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/6/162317-pala-nox-ml10-pro-cup-light-by-miguel-lamperti-papcupli27-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/nox-pro-cup-light-miguel-lamperti-162317-p"
+  },
+  "alta": "2026-10-19",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
+  "id": "bullpadel-vertex-04-25-mujer",
+  "nombre": "Bullpadel Vertex 04 25 Mujer",
+  "marca": "Bullpadel",
+  "popularidad": 111,
+  "ean": "8445402692972",
+  "caracteristicas": {
+   "Marca": "Bullpadel",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Multieva",
+   "Cara": "Fibrix",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición, Profesional",
+   "Acabado": "Mate",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Delfi Brea Senesi",
+   "Jugador": "Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/i/m/imagen-1-113774-53abfe1f.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-vertex-04-25-mujer-113774-p",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/23372-bullpadel-vertex-04-25-mujer-bullpadel-8445402692972.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
+  }
+ },
+ {
+  "id": "dunlop-gravity",
+  "nombre": "Dunlop Gravity",
+  "marca": "Dunlop",
+  "popularidad": 112,
+  "ean": "0045566303622",
+  "caracteristicas": {
+   "Marca": "Dunlop",
+   "Color": "Negro",
+   "Color 2": "Negro, Azul",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Medium Eva",
+   "Cara": "Carbono",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Brillo",
+   "Forma": "Diamante",
+   "Superfície": "Lisa",
+   "Tipo de Juego": "Potencia",
+   "Jugador": "Hombre, Mujer"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/3/1/31553-dunlop-gravity-626016-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/dunlop-gravity-31553-p",
+   "padeliberico": "https://www.padeliberico.es/dunlop-gravity.html"
+  },
+  "alta": "2026-10-19",
+  "urls_descartadas": {
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
   "id": "dunlop-galaxy",
   "nombre": "Dunlop Galaxy",
   "marca": "Dunlop",
-  "popularidad": 114,
+  "popularidad": 113,
   "ean": "0045566303639",
   "caracteristicas": {
    "Marca": "Dunlop",
@@ -4248,6 +4707,41 @@
    "zonadepadel": "2026-10",
    "padelpoint": "2026-10",
    "time2padel": "2026-10"
+  }
+ },
+ {
+  "id": "wilson-defy-ls-v1-se",
+  "nombre": "Wilson Defy Ls V1 Se",
+  "marca": "Wilson",
+  "popularidad": 114,
+  "ean": "199073044353",
+  "caracteristicas": {
+   "Marca": "Wilson",
+   "Color 2": "Negro, Blanco, Amarillo, Naranja",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Foam",
+   "Cara": "Carbono 3k",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Brillo",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Polivalente",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/5/157136-pala-wilson-defy-ls-v1-se-wr214611u2-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-wilson-defy-ls-v1-se-wr214611u2",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/35421-wilson-defy-ls-v1-se-199073044353.html"
+  },
+  "alta": "2026-10-19",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10"
   }
  },
  {
@@ -4285,10 +4779,81 @@
   }
  },
  {
+  "id": "babolat-technical-origin",
+  "nombre": "Babolat Technical Origin +",
+  "marca": "Babolat",
+  "popularidad": 115,
+  "ean": null,
+  "caracteristicas": {
+   "Marca": "Babolat",
+   "Color 2": "Negro, Rojo",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Soft Eva",
+   "Cara": "Fibra De Vidrio",
+   "Formato": "Normal",
+   "Dureza": "Media",
+   "Nivel de Juego": "Principiante / Intermedio",
+   "Acabado": "Mate",
+   "Forma": "Diamante",
+   "Superfície": "Arenosa",
+   "Tipo de Juego": "Potencia",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/124255-pala-babolat-technical-origin-150188-100-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-babolat-technical-origin-150188-100"
+  },
+  "alta": "2026-10-19",
+  "urls_descartadas": {
+   "padeliberico": "2026-10",
+   "padelmarket": "2026-10",
+   "zonadepadel": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
+  "id": "wilson-defy-pro-v1-2025",
+  "nombre": "Wilson Defy Pro V1 2025",
+  "marca": "Wilson",
+  "popularidad": 116,
+  "ean": "0097512859851",
+  "caracteristicas": {
+   "Marca": "Wilson",
+   "Color 2": "Negro, Dorado",
+   "Producto": "Palas",
+   "Balance": "Alto",
+   "Núcleo": "Foam",
+   "Cara": "Carbono 15k",
+   "Formato": "Normal",
+   "Dureza": "Dura, Media",
+   "Nivel de Juego": "Avanzado / Competición",
+   "Acabado": "Mate",
+   "Forma": "Diamante",
+   "Superfície": "Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Javier Garrido Gómez",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/116258-pala-wilson-defy-pro-v1-padel-2-wr173611u2-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-wilson-defy-pro-v1-padel-2-wr173611u2",
+   "padeliberico": "https://www.padeliberico.es/wilson-defy-pro-v1-2025.html",
+   "zonadepadel": "https://www.zonadepadel.es/wilson-padel/12111-wilson-defy-pro-v1-2025.html"
+  },
+  "alta": "2026-10-19",
+  "urls_descartadas": {
+   "padelmarket": "2026-10",
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
+  }
+ },
+ {
   "id": "drop-shot-axion-comfort-2025",
   "nombre": "Drop Shot Axion Comfort 2025",
   "marca": "Drop Shot",
-  "popularidad": 116,
+  "popularidad": 117,
   "ean": "8435758306555",
   "caracteristicas": {
    "Marca": "Drop Shot",
@@ -4356,75 +4921,74 @@
   }
  },
  {
-  "id": "head-coello-team-2026",
-  "nombre": "Head Coello Team 2026",
-  "marca": "Head",
-  "popularidad": 119,
-  "ean": "0198772152123",
-  "caracteristicas": {
-   "Marca": "Head",
-   "Color 2": "Gris",
-   "Producto": "Palas",
-   "Balance": "Alto",
-   "Núcleo": "Foam",
-   "Cara": "Fibra De Vidrio",
-   "Formato": "Normal",
-   "Dureza": "Media",
-   "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Mate",
-   "Forma": "Diamante",
-   "Superfície": "Lisa",
-   "Tipo de Juego": "Potencia",
-   "Colección Jugadores": "Arturo Coello",
-   "Jugador": "Hombre"
-  },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/123867-pala-head-coello-team-2026-225056-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
-  "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-head-coello-team-2026-225056",
-   "padeliberico": "https://www.padeliberico.es/head-coello-team-2026.html",
-   "zonadepadel": "https://www.zonadepadel.es/head-padel/14714-head-coello-team-2026.html"
-  },
-  "alta": "2026-10-13",
-  "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
-  }
- },
- {
-  "id": "bullpadel-flow-legend-mujer",
-  "nombre": "Bullpadel Flow Legend Mujer",
+  "id": "bullpadel-hack-05-27",
+  "nombre": "Bullpadel Hack 05 27",
   "marca": "Bullpadel",
-  "popularidad": 120,
-  "ean": "8445402974122",
+  "popularidad": 119,
+  "ean": "8447552114687",
   "caracteristicas": {
    "Marca": "Bullpadel",
-   "Color 2": "Negro",
+   "Color 2": "Blanco",
    "Producto": "Palas",
    "Balance": "Alto",
    "Núcleo": "Multieva",
-   "Cara": "Fibrix",
+   "Cara": "Carbono 18k",
+   "Formato": "Normal",
+   "Dureza": "Dura",
+   "Nivel de Juego": "Profesional",
+   "Acabado": "Mate",
+   "Forma": "Diamante",
+   "Superfície": "3d, Rugosa",
+   "Tipo de Juego": "Potencia",
+   "Colección Jugadores": "Paquito Navarro",
+   "Jugador": "Hombre"
+  },
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/6/160622-pala-bullpadel-hack-05-27-497233-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "urls": {
+   "padelnuestro": "https://www.padelnuestro.com/pala-bullpadel-hack-05-27-497233-160622-p",
+   "padelmarket": "https://padelmarket.com/products/bullpadel-hack-05-2027-paquito-navarro-pala",
+   "zonadepadel": "https://www.zonadepadel.es/bullpadel/16147-bullpadel-hack-05-2027.html",
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-bullpadel-paquito-navarro-hack-05-2027-1",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel-bullpadel/47481-bullpadel-hack-05-27-8447552114687.html"
+  },
+  "alta": "2026-10-13",
+  "urls_descartadas": {
+   "padeliberico": "2026-10"
+  }
+ },
+ {
+  "id": "nox-at10-genius-18k-alum-buenos-aires-edition-by-agustin-tapia",
+  "nombre": "Nox At10 Genius 18K Alum Buenos Aires Edition By Agustín Tapia",
+  "marca": "Nox",
+  "popularidad": 120,
+  "ean": null,
+  "caracteristicas": {
+   "Marca": "Nox",
+   "Color 2": "Blanco, Azul",
+   "Producto Oficial": "Premier Padel",
+   "Producto": "Palas",
+   "Balance": "Medio",
+   "Núcleo": "Black Eva",
+   "Cara": "Carbono 18k",
    "Formato": "Normal",
    "Dureza": "Media",
    "Nivel de Juego": "Avanzado / Competición",
-   "Acabado": "Mate",
-   "Forma": "Diamante",
-   "Superfície": "Rugosa",
-   "Tipo de Juego": "Potencia",
-   "Colección Jugadores": "Alejandra Salazar",
-   "Jugador": "Mujer"
+   "Forma": "Lágrima",
+   "Superfície": "3d, Arenosa",
+   "Tipo de Juego": "Polivalente",
+   "Colección Jugadores": "Agustín Tapia"
   },
-  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120891-pala-bullpadel-flow-legend-44405-mujer-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
+  "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/6/162212-pala-nox-at10-genius-18k-alum-patgeniusbsas-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/bullpadel-flow-legend-mujer",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28813-bullpadel-flow-legend-mujer-bullpadel-8445402974122.html"
+   "padelnuestro": "https://www.padelnuestro.com/pala-nox-at10-genius-18k-alum-by-agustin-tapia-buenos-aires-edition-patgeniusbsas"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
    "padeliberico": "2026-10",
    "padelmarket": "2026-10",
    "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padelpoint": "2026-10",
+   "time2padel": "2026-10"
   }
  }
 ]
