@@ -30,8 +30,8 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -63,10 +63,10 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -97,10 +97,10 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -136,7 +136,7 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10"
+   "padeliberico": "2026-11"
   }
  },
  {
@@ -167,10 +167,10 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -206,8 +206,8 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10"
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11"
   }
  },
  {
@@ -238,10 +238,10 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -275,7 +275,7 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10"
+   "padeliberico": "2026-11"
   }
  },
  {
@@ -308,10 +308,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "time2padel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "time2padel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -342,10 +342,10 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -378,9 +378,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -416,7 +416,7 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10"
+   "padeliberico": "2026-11"
   }
  },
  {
@@ -424,7 +424,7 @@
   "nombre": "Bullpadel Vertex 05",
   "marca": "Bullpadel",
   "popularidad": 10,
-  "ean": null,
+  "ean": "8445402973996",
   "caracteristicas": {
    "Marca": "Bullpadel",
    "Color 2": "Negro, Blanco",
@@ -444,15 +444,16 @@
   },
   "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120910-pala-bullpadel-vertex-05-494395-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/bullpadel-vertex-05"
+   "padelnuestro": "https://www.padelnuestro.com/bullpadel-vertex-05",
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28832-bullpadel-vertex-05-bullpadel-8445402973996.html"
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
    "time2padel": "2026-10",
-   "padelpoint": "2026-10"
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -483,13 +484,14 @@
   "urls": {
    "padelnuestro": "https://www.padelnuestro.com/nox-at10-genius-18k-agustin-tapia-2024-110805-p",
    "padelmarket": "https://padelmarket.com/products/nox-at10-genius-18k-2024-agustin-tapia-pala",
-   "padelpoint": "https://www.tiendapadelpoint.com/pala-nox-agustin-tapia-at10-genius-18k-2024"
+   "padelpoint": "https://www.tiendapadelpoint.com/pala-nox-agustin-tapia-at10-genius-18k-2024",
+   "padeliberico": "https://www.padeliberico.es/nox-at10-luxury-genius-18k-alum-agustin-tapia-2024.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
    "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "time2padel": "2026-10"
+   "zonadepadel": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -521,10 +523,10 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -556,11 +558,11 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "time2padel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "time2padel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -589,11 +591,11 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "time2padel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "time2padel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -624,10 +626,10 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -658,10 +660,10 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -692,11 +694,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "time2padel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "time2padel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -727,10 +729,10 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -763,9 +765,9 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -794,13 +796,14 @@
   "urls": {
    "padelnuestro": "https://www.padelnuestro.com/adidas-metalbone-hrd-2026-120472-p",
    "zonadepadel": "https://www.zonadepadel.es/adidas-padel/14019-adidas-metalbone-hrd-2026.html",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28106-adidas-metalbone-hrd-2026-adidas-8435739405826.html"
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28106-adidas-metalbone-hrd-2026-adidas-8435739405826.html",
+   "padelmarket": "https://padelmarket.com/products/adidas-metalbone-hrd-2026-ale-galan-pala"
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
+   "padeliberico": "2026-11",
    "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -835,8 +838,8 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -867,11 +870,11 @@
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelpoint": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelpoint": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -903,10 +906,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -939,9 +942,9 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -973,10 +976,10 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -1012,7 +1015,7 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padelpoint": "2026-10"
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -1041,11 +1044,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -1078,9 +1081,9 @@
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -1114,10 +1117,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -1146,14 +1149,15 @@
   "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120907-pala-bullpadel-neuron-02-494402-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
    "padelnuestro": "https://www.padelnuestro.com/bullpadel-neuron-02-494402",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28829-bullpadel-neuron-02-bullpadel-8445402974092.html"
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28829-bullpadel-neuron-02-bullpadel-8445402974092.html",
+   "padelmarket": "https://padelmarket.com/products/bullpadel-neuron-02-2026-fede-chingotto-pala"
   },
   "alta": "2026-10-12",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
    "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -1184,10 +1188,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -1220,9 +1224,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -1251,14 +1255,15 @@
   "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120909-pala-bullpadel-neuron-02-edge-494403-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
    "padelnuestro": "https://www.padelnuestro.com/bullpadel-neuron-02-edge",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28831-bullpadel-neuron-02-edge-bullpadel-8445402974108.html"
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28831-bullpadel-neuron-02-edge-bullpadel-8445402974108.html",
+   "padelmarket": "https://padelmarket.com/products/bullpadel-neuron-02-edge-2026-fede-chingotto-pala"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
    "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -1285,14 +1290,15 @@
   "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120471-pala-adidas-metalbone-ctrl-2026-ar1cb0u22-1500x1500-vista1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
    "padelnuestro": "https://www.padelnuestro.com/adidas-metalbone-ctrl-2026-120471-p",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28105-adidas-metalbone-ctrl-2026-adidas-8435739405819.html"
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28105-adidas-metalbone-ctrl-2026-adidas-8435739405819.html",
+   "padelmarket": "https://padelmarket.com/products/adidas-metalbone-ctrl-2026-pala"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
    "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -1324,10 +1330,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -1362,8 +1368,8 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11"
   }
  },
  {
@@ -1397,9 +1403,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11"
   }
  },
  {
@@ -1429,12 +1435,13 @@
   "urls": {
    "padelnuestro": "https://www.padelnuestro.com/nox-at10-genius-18k-alumby-agustin-tapia-2026",
    "padelpoint": "https://www.tiendapadelpoint.com/pala-nox-agustin-tapia-at10-genius-18k-alum-2026-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28921-nox-at10-genius-18k-alum-by-agustin-tapia-2026-nox-8435778902621.html"
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28921-nox-at10-genius-18k-alum-by-agustin-tapia-2026-nox-8435778902621.html",
+   "padelmarket": "https://padelmarket.com/products/nox-at10-genius-18k-alum-2026-by-agustin-tapia-pala"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
    "padelmarket": "2026-10"
   }
  },
@@ -1470,8 +1477,8 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11"
   }
  },
  {
@@ -1502,11 +1509,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -1541,8 +1548,8 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "time2padel": "2026-10"
+   "padelmarket": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -1572,11 +1579,12 @@
    "padelnuestro": "https://www.padelnuestro.com/adidas-metalbone-carbon-2026",
    "zonadepadel": "https://www.zonadepadel.es/adidas-padel/14021-adidas-metalbone-carbon-2026.html",
    "padelpoint": "https://www.tiendapadelpoint.com/pala-adidas-metalbone-carbon-3-5-2026-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28103-adidas-metalbone-carbon-2026-adidas-8435739405833.html"
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28103-adidas-metalbone-carbon-2026-adidas-8435739405833.html",
+   "padelmarket": "https://padelmarket.com/products/adidas-metalbone-carbon-2026-pala"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
+   "padeliberico": "2026-11",
    "padelmarket": "2026-10"
   }
  },
@@ -1611,7 +1619,7 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelmarket": "2026-10"
+   "padelmarket": "2026-11"
   }
  },
  {
@@ -1642,10 +1650,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -1676,11 +1684,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -1711,10 +1719,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -1746,9 +1754,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -1779,11 +1787,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -1818,7 +1826,7 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelmarket": "2026-10"
+   "padelmarket": "2026-11"
   }
  },
  {
@@ -1849,10 +1857,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -1884,10 +1892,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -1917,10 +1925,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -1952,10 +1960,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padelmarket": "2026-11",
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -1989,9 +1997,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11"
   }
  },
  {
@@ -2025,10 +2033,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padeliberico": "2026-10",
-   "padelpoint": "2026-10"
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padeliberico": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -2063,8 +2071,8 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -2095,10 +2103,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -2129,11 +2137,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -2166,9 +2174,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11"
   }
  },
  {
@@ -2201,10 +2209,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -2239,9 +2247,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "time2padel": "2026-10"
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -2272,10 +2280,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -2308,10 +2316,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -2345,7 +2353,7 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10"
+   "padeliberico": "2026-11"
   }
  },
  {
@@ -2377,11 +2385,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -2412,11 +2420,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -2448,10 +2456,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -2485,9 +2493,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11"
   }
  },
  {
@@ -2517,10 +2525,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -2554,9 +2562,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11"
   }
  },
  {
@@ -2588,11 +2596,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -2623,10 +2631,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -2661,7 +2669,7 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelmarket": "2026-10"
+   "padelmarket": "2026-11"
   }
  },
  {
@@ -2695,10 +2703,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -2732,9 +2740,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -2761,14 +2769,15 @@
   "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120916-pala-bullpadel-vertex-advance-494414-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
    "padelnuestro": "https://www.padelnuestro.com/bullpadel-vertex-advance",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28838-bullpadel-vertex-advance-bullpadel-8445402975167.html"
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28838-bullpadel-vertex-advance-bullpadel-8445402975167.html",
+   "padelmarket": "https://padelmarket.com/products/bullpadel-vertex-advance-2026-pala"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
+   "padeliberico": "2026-11",
    "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -2803,7 +2812,7 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10"
+   "padeliberico": "2026-11"
   }
  },
  {
@@ -2811,7 +2820,7 @@
   "nombre": "Adidas Match Black 3.4 2025",
   "marca": "Adidas",
   "popularidad": 65,
-  "ean": null,
+  "ean": "8435739402986",
   "caracteristicas": {
    "Marca": "Adidas",
    "Color 2": "Negro, Naranja",
@@ -2830,15 +2839,16 @@
   },
   "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/1/113670-pala-adidas-adidas-match-black-3-4-ar5ga0u101500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
-   "padelnuestro": "https://www.padelnuestro.com/pala-adidas-adidas-match-black-3-4-ar5ga0u10"
+   "padelnuestro": "https://www.padelnuestro.com/pala-adidas-adidas-match-black-3-4-ar5ga0u10",
+   "padelmarket": "https://padelmarket.com/products/adidas-match-black-3-4-2025-pala"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
+   "padeliberico": "2026-11",
    "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -2869,10 +2879,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -2903,10 +2913,10 @@
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -2934,14 +2944,16 @@
   "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120986-pala-nox-x-zero-red-pxzerore-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
    "padelnuestro": "https://www.padelnuestro.com/nox-x-zero-red",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28937-nox-x-zero-red-nox-8435778902799.html"
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28937-nox-x-zero-red-nox-8435778902799.html",
+   "padeliberico": "https://www.padeliberico.es/nox-x-zero-red-2026.html",
+   "padelmarket": "https://padelmarket.com/products/nox-x-zero-red-2026-pala"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
    "padeliberico": "2026-10",
    "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -2977,7 +2989,7 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelpoint": "2026-10"
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -3007,11 +3019,12 @@
    "padelnuestro": "https://www.padelnuestro.com/adidas-metalbone-2026-pro-edt",
    "zonadepadel": "https://www.zonadepadel.es/adidas-padel/15514-adidas-metalbone-pro-edt-2026.html",
    "padelpoint": "https://www.tiendapadelpoint.com/pala-adidas-ale-galan-metalbone-pro-edt-2026-1",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/33280-adidas-metalbone-2026-pro-edt-8435739409497.html"
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/33280-adidas-metalbone-2026-pro-edt-8435739409497.html",
+   "padelmarket": "https://padelmarket.com/products/adidas-metalbone-pro-edt-2026-ale-galan-pala"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
+   "padeliberico": "2026-11",
    "padelmarket": "2026-10"
   }
  },
@@ -3044,10 +3057,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -3082,8 +3095,8 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10"
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11"
   }
  },
  {
@@ -3113,11 +3126,11 @@
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -3145,14 +3158,15 @@
   "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/6/162304-pagenius1827-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
    "padelnuestro": "https://www.padelnuestro.com/pala-nox-genius-18k-alum-by-agustin-tapia-pagenius1827-162304-p",
-   "zonadepadel": "https://www.zonadepadel.es/nox/16289-nox-genius-18k-alum-by-agustin-tapia-2027.html"
+   "zonadepadel": "https://www.zonadepadel.es/nox/16289-nox-genius-18k-alum-by-agustin-tapia-2027.html",
+   "padeliberico": "https://www.padeliberico.es/nox-genius-18k-alum-by-agustin-tapia-2027.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
    "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -3185,10 +3199,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -3220,11 +3234,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -3255,10 +3269,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -3291,9 +3305,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -3326,10 +3340,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -3363,8 +3377,8 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11"
   }
  },
  {
@@ -3392,14 +3406,15 @@
   "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/120912-pala-bullpadel-vertex-05-geo-494396-1200x1200-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
    "padelnuestro": "https://www.padelnuestro.com/bullpadel-vertex-05-geo",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28834-bullpadel-vertex-05-geo-bullpadel-8445402974016.html"
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/28834-bullpadel-vertex-05-geo-bullpadel-8445402974016.html",
+   "padelmarket": "https://padelmarket.com/products/bullpadel-vertex-05-geo-2026-pablo-cardona-pala"
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
+   "padeliberico": "2026-11",
    "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -3435,7 +3450,7 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "zonadepadel": "2026-10"
+   "zonadepadel": "2026-11"
   }
  },
  {
@@ -3469,10 +3484,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -3503,11 +3518,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -3539,11 +3554,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -3577,9 +3592,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11"
   }
  },
  {
@@ -3613,8 +3628,8 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11"
   }
  },
  {
@@ -3646,10 +3661,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -3680,10 +3695,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -3715,9 +3730,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -3749,10 +3764,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -3783,11 +3798,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -3821,8 +3836,8 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "time2padel": "2026-10"
+   "padelmarket": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -3853,10 +3868,10 @@
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -3890,9 +3905,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -3926,10 +3941,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -3962,10 +3977,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -3996,10 +4011,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -4032,9 +4047,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11"
   }
  },
  {
@@ -4067,9 +4082,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11"
   }
  },
  {
@@ -4097,14 +4112,15 @@
   "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121588-pala-black-crown-piton-14-a005498-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
    "padelnuestro": "https://www.padelnuestro.com/pala-black-crown-piton-14-a005498",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/29412-black-crown-piton-14-black-crown-8445090145439.html"
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/29412-black-crown-piton-14-black-crown-8445090145439.html",
+   "padeliberico": "https://www.padeliberico.es/black-crown-piton-14-2026.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
    "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -4139,7 +4155,7 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelmarket": "2026-10"
+   "padelmarket": "2026-11"
   }
  },
  {
@@ -4173,9 +4189,9 @@
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -4204,11 +4220,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -4240,10 +4256,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "padeliberico": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padelmarket": "2026-11",
+   "padeliberico": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -4274,11 +4290,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -4312,9 +4328,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11"
   }
  },
  {
@@ -4342,14 +4358,15 @@
   "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121584-pala-black-crown-gladius-force-a005506-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
    "padelnuestro": "https://www.padelnuestro.com/pala-black-crown-gladius-force-a005506",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/29408-black-crown-gladius-force-black-crown-8445090145514.html"
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/29408-black-crown-gladius-force-black-crown-8445090145514.html",
+   "padeliberico": "https://www.padeliberico.es/black-crown-gladius-force-2026.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
    "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -4381,10 +4398,10 @@
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -4417,10 +4434,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -4448,14 +4465,15 @@
   "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/2/121648-pala-starvie-raptor-mas-pstrp31000-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
    "padelnuestro": "https://www.padelnuestro.com/pala-starvie-raptor-pstrp31000",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/29467-starvie-raptor-star-vie-8436612941035.html"
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/29467-starvie-raptor-star-vie-8436612941035.html",
+   "padelmarket": "https://padelmarket.com/products/starvie-raptor-2026-pala"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
+   "padeliberico": "2026-11",
    "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -4489,9 +4507,9 @@
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -4524,10 +4542,10 @@
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -4560,10 +4578,10 @@
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -4595,11 +4613,11 @@
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -4631,10 +4649,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -4667,10 +4685,10 @@
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -4703,10 +4721,10 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -4738,10 +4756,10 @@
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -4773,9 +4791,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -4806,11 +4824,11 @@
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -4844,9 +4862,9 @@
   },
   "alta": "2026-10-19",
   "urls_descartadas": {
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  },
  {
@@ -4880,9 +4898,9 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "padelpoint": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -4910,14 +4928,15 @@
   "imagen_origen": "https://www.padelnuestro.com/media/catalog/product/1/5/154888-black-crown-piton-blue-1500x1500-1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=220&width=220&canvas=220:220",
   "urls": {
    "padelnuestro": "https://www.padelnuestro.com/pala-black-crown-piton-blue-a006231",
-   "time2padel": "https://www.time2padel.com/es/palas-de-padel/33334-black-crown-piton-blue-black-crown-8445090168322.html"
+   "time2padel": "https://www.time2padel.com/es/palas-de-padel/33334-black-crown-piton-blue-black-crown-8445090168322.html",
+   "padeliberico": "https://www.padeliberico.es/black-crown-piton-blue-2026.html"
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
    "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10"
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11"
   }
  },
  {
@@ -4953,7 +4972,7 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10"
+   "padeliberico": "2026-11"
   }
  },
  {
@@ -4984,11 +5003,11 @@
   },
   "alta": "2026-10-13",
   "urls_descartadas": {
-   "padeliberico": "2026-10",
-   "padelmarket": "2026-10",
-   "zonadepadel": "2026-10",
-   "padelpoint": "2026-10",
-   "time2padel": "2026-10"
+   "padeliberico": "2026-11",
+   "padelmarket": "2026-11",
+   "zonadepadel": "2026-11",
+   "padelpoint": "2026-11",
+   "time2padel": "2026-11"
   }
  }
 ]
