@@ -5,6 +5,14 @@
   "descripcion": "Código promocional publicado en la web de la tienda",
   "texto": "ctamente al contenido ¡Estrenamos nueva web! Consigue un descuento extra con el código NEWT2P12 Time2Pade",
   "origen": "automatico",
-  "detectado": "2026-11-13T06:50+00:00"
+  "detectado": "2026-11-13T19:48+00:00"
+ },
+ {
+  "tienda": "padelmarket",
+  "codigo": "BLACK15",
+  "descripcion": "15 % de descuento",
+  "texto": "Español Español Inglés Ir directamente al contenido ➜] BLACK FRIDAY: 15% EXTRA. Código: BLACK15 📢❗🚨 ⭐ Exc",
+  "origen": "automatico",
+  "detectado": "2026-11-13T19:48+00:00"
  }
 ]
