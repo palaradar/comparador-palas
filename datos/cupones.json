@@ -1,18 +1,26 @@
 [
  {
   "tienda": "time2padel",
-  "codigo": "NEWT2P12",
+  "codigo": "NEWT2P",
   "descripcion": "Código promocional publicado en la web de la tienda",
-  "texto": "r directamente al contenido ¡Estrenamos nueva web! Consigue un Descuento Extra. Código: NEWT2P12 Time2Pade",
+  "texto": "r directamente al contenido ¡Estrenamos nueva web! Consigue un Descuento Extra. Código: NEWT2P Time2Pade",
   "origen": "automatico",
-  "detectado": "2026-11-20T07:20+00:00"
+  "detectado": "2026-11-20T20:21+00:00"
+ },
+ {
+  "tienda": "padelmarket",
+  "codigo": "BLACK20",
+  "descripcion": "20 % de descuento",
+  "texto": "Español Español Inglés Ir directamente al contenido ➜] SUPER BLACK: 20% EXTRA. Código: BLACK20 📢❗🚨 ⭐ Exc",
+  "origen": "automatico",
+  "detectado": "2026-11-20T20:21+00:00"
  },
  {
   "tienda": "padelmarket",
   "codigo": "BLACK15",
   "descripcion": "15 % de descuento",
-  "texto": "Español Español Inglés Ir directamente al contenido ➜] BLACK FRIDAY: 15% EXTRA. Código: BLACK15 📢❗🚨 ⭐ Exc",
+  "texto": "digo: BLACK20 📢❗🚨 ⭐ Excelente 4,3/5 en Trustpilot ⭐ ➜] BLACK FRIDAY: 15% EXTRA. Código: BLACK15 📢❗🚨 ⭐ Exc",
   "origen": "automatico",
-  "detectado": "2026-11-20T07:20+00:00"
+  "detectado": "2026-11-20T20:21+00:00"
  }
 ]
